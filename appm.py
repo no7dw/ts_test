@@ -21,6 +21,16 @@ class EntityFilter(BaseModel):
     entity: str
     filter: Dict[str, Any]
 
+
+def extract_json_str(s: str) -> str:
+    if match := re.search(r"```(?:json)?(.+)```", s, re.DOTALL):
+        return match[1]
+
+    if match := re.search(r"`(.+)`", s):
+        return match[1]
+
+    return s.strip("`")
+
 def extract_json(s: str, *, model: type[ModelT]) -> ModelT | None:
     if json_str := extract_json_str(s):
         try:
@@ -33,14 +43,6 @@ def extract_json(s: str, *, model: type[ModelT]) -> ModelT | None:
 
     return None
 
-def extract_json_str(s: str) -> str:
-    if match := re.search(r"```(?:json)?(.+)```", s, re.DOTALL):
-        return match[1]
-
-    if match := re.search(r"`(.+)`", s):
-        return match[1]
-
-    return s.strip("`")
 
 METADATA_EXAMPLE = {
                 "entities": [
@@ -186,7 +188,7 @@ class MetricStore:
             
             # Add any additional filters from metadata
             for key, value in filters.items():
-                query[f"metadata.{key}"] = value
+                query[f"metadata.{key}"] = {"$regex": f"^{value}$", "$options": "i"}
 
             # Find all matching documents, sorted by timestamp
             cursor = self.metrics.find(query).sort("timestamp", -1).limit(limit)
@@ -200,52 +202,6 @@ class MetricStore:
         except Exception as e:
             logger.error(f"Failed to query latest metrics: {str(e)}")
             raise
-
-    async def compare_sources(self, entity: str = None) -> list:
-        """Compare metrics across different sources"""
-        try:
-            pipeline = [
-                {"$match": {"entity": entity} if entity else {}},
-                {"$group": {
-                    "_id": "$source",
-                    "latest_value": {"$last": "$value"},
-                    "latest_timestamp": {"$last": "$timestamp"}
-                }},
-                {"$sort": {"latest_timestamp": -1}}
-            ]
-            
-            cursor = self.metrics.aggregate(pipeline)
-            return await cursor.to_list(length=None)
-        except Exception as e:
-            logger.error(f"Failed to compare sources: {str(e)}")
-            raise
-
-    async def query_metrics(self, 
-                          entity: str = None,
-                          start_time: str = None,
-                          end_time: str = None,
-                          **filters) -> List[Dict]:
-        """Query metrics with time range and filters"""
-        try:
-            query = {}
-            if entity:
-                query["entity"] = entity
-            
-            if start_time or end_time:
-                query["timestamp"] = {}
-                if start_time:
-                    query["timestamp"]["$gte"] = start_time
-                if end_time:
-                    query["timestamp"]["$lte"] = end_time
-            
-            for key, value in filters.items():
-                query[f"metadata.{key}"] = value
-            cursor = self.metrics.find(query).sort("timestamp", -1)
-            return await cursor.to_list(length=None)
-        except Exception as e:
-            logger.error(f"Failed to query metrics: {str(e)}")
-            raise
-
 
 
 async def main():
