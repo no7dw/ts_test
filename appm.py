@@ -2,10 +2,12 @@ import os
 import json
 from motor.motor_asyncio import AsyncIOMotorClient
 import logging
-from typing import Dict, Any, List
+from typing import Dict, Any, List, TypeVar
+from pydantic import BaseModel, ValidationError
 import llm   
 import asyncio
 from datetime import datetime
+import re
 
 # Set up logging
 logging.basicConfig(
@@ -13,6 +15,71 @@ logging.basicConfig(
     format='%(asctime)s - %(levelname)s - %(message)s'
 )
 logger = logging.getLogger(__name__)
+ModelT = TypeVar("ModelT", bound="BaseModel")
+
+class EntityFilter(BaseModel):
+    entity: str
+    filter: Dict[str, Any]
+
+def extract_json(s: str, *, model: type[ModelT]) -> ModelT | None:
+    if json_str := extract_json_str(s):
+        try:
+            return model.model_validate_json(json_str)
+        except ValidationError as e:
+            logger.exception(
+                "Failed to validate JSON", json_str=json_str, model=model, exc_info=e
+            )
+            return None
+
+    return None
+
+def extract_json_str(s: str) -> str:
+    if match := re.search(r"```(?:json)?(.+)```", s, re.DOTALL):
+        return match[1]
+
+    if match := re.search(r"`(.+)`", s):
+        return match[1]
+
+    return s.strip("`")
+
+METADATA_EXAMPLE = {
+                "entities": [
+                    {
+                        "name": "TVL",
+                        "description": "Total Value Locked",
+                        "sources": "webiste url",
+                        "attributes": ["value"],
+                        "metadata": {
+                            "chain": "Blockchain name",
+                            "protocol": "Protocol name"
+                        },
+                        "vector": [0.1, 0.2, 0.3]  # Example vector embedding
+                    },
+                ]
+            }
+
+EXTRACT_METADATA_TEMPLATE = """
+        you're a helpful assistant that can answer questions about metrics for query database .
+        you should choose the key and minimal entity and filter according to the question and metadata accross multiple data sources.
+        return in json format .
+        
+        # metadata
+        {metadata}
+        
+        # question
+        {question}
+
+        #example
+        {{
+            "entity": "TVL",
+            "filter": {{
+                "chain": "Ethereum"
+            }}
+        }}
+
+        # your answer is:
+
+        """
 
 METRICS_TEMPLATE = """
         you're a helpful assistant that can answer questions about metrics.
@@ -41,23 +108,7 @@ class MetricStore:
     async def init_metadata(self, metadata: Dict = None):
         """Initialize and store metadata"""
         if metadata is None:
-            metadata = {
-                "entities": [
-                    {
-                        "name": "TVL",
-                        "description": "Total Value Locked",
-                        "sources": ["DefiLlama", "Dune", "Custom"],
-                        "attributes": ["value"],
-                        "metadata_fields": {
-                            "chain": "Blockchain name",
-                            "protocol": "Protocol name"
-                        },
-                        "tags": ["defi", "tvl", "blockchain"],
-                        "vector": [0.1, 0.2, 0.3]  # Example vector embedding
-                    },
-                    # Can add more entities here
-                ]
-            }
+            metadata = METADATA_EXAMPLE
         
         try:
             # Create index for name-based queries
@@ -199,11 +250,23 @@ class MetricStore:
 
 async def main():
     store = MetricStore()
-    entity = "TVL"
     
-    question = "What is the total value locked on Base?"
-    filters = {"chain": "Base"}
-    
+    import sys
+    question = sys.argv[1] if len(sys.argv) > 1 else "What is the total value locked on Base?"
+
+    extract_metadata_template = EXTRACT_METADATA_TEMPLATE.format(
+        metadata=METADATA_EXAMPLE,
+        question=question
+    )
+    response = await llm.chat(extract_metadata_template, model="gpt-4o-mini")
+    print(response)
+    data_dict = extract_json(response, model=EntityFilter)
+    entity = data_dict.entity
+    filters = data_dict.filter
+
+    if entity is None:
+        print("No entity found")
+        return
     # Get metadata for context with entity filter
     metadata_doc = await store.metadata.find_one(
         {"type": "entity_definitions"},
