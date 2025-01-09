@@ -44,21 +44,18 @@ def extract_json(s: str, *, model: type[ModelT]) -> ModelT | None:
     return None
 
 
-METADATA_EXAMPLE = {
-                "entities": [
+METADATA_EXAMPLE = [ 
                     {
                         "name": "TVL",
                         "description": "Total Value Locked",
                         "sources": "webiste url",
-                        "attributes": ["value"],
                         "metadata": {
                             "chain": "Blockchain name",
                             "protocol": "Protocol name"
                         },
                         "vector": [0.1, 0.2, 0.3]  # Example vector embedding
                     },
-                ]
-            }
+]
 
 EXTRACT_METADATA_TEMPLATE = """
         you're a helpful assistant that can answer questions about metrics for query database .
@@ -107,25 +104,23 @@ class MetricStore:
         self.metrics = self.db['metric_data']
         self.metadata = self.db['metric_metadata']
         
-    async def init_metadata(self, metadata: Dict = None):
+    async def init_metadata(self, metadata: List = None):
         """Initialize and store metadata"""
         if metadata is None:
             metadata = METADATA_EXAMPLE
         
         try:
             # Create index for name-based queries
-            await self.metadata.create_index("entities.name")
+            await self.metadata.create_index("name")
             
             # If using vector search, create vector index
-            # await self.metadata.create_index([("entities.vector", "2d")])
+            # await self.metadata.create_index([("vector", "2d")])
             
-            existing = await self.metadata.find_one({"type": "entity_definitions"})
+            existing = await self.metadata.find_one({"name": "TVL"})
             if not existing:
-                await self.metadata.insert_one({
-                    "type": "entity_definitions",
-                    **metadata
-                })
-                logger.info("Metadata initialized successfully")
+                # Insert each metadata document separately
+                result = await self.metadata.insert_many(metadata)
+                logger.info(f"Metadata initialized successfully: {len(result.inserted_ids)} documents")
             else:
                 logger.info("Metadata already exists")
             return metadata
@@ -230,7 +225,7 @@ async def main():
     )
     
     # Extract entity metadata from the document
-    entity_metadata = metadata_doc["entities"][0] if metadata_doc and metadata_doc["entities"] else None
+    entity_metadata = await store.metadata.find_one({"name": entity})
     
     # Get latest metrics data
     db_response = await store.query_latest(entity=entity, **filters)

@@ -1,4 +1,9 @@
-{
+[{
     "mongodb_uri": "mongodb://localhost:27017/",
-    "data_path": "tvl.json"
+    "table_path": "tvl_defillama.json"
+},
+{
+    "mongodb_uri": "mongodb://localhost:37017/",
+    "table_path": "tvl_fp.json"
 }
+]
