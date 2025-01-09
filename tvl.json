@@ -1,0 +1,498 @@
+[
+    {
+        "entity": "TVL",
+        "attribute": "value",
+        "source": "DefiLlama",
+        "timestamp": "2025-01-08T10:00:00Z",
+        "value": 65639000000,
+        "metadata": {
+            "chain": "Ethereum",
+            "protocol": "Ethereum"
+        },
+        "tags": ["defi", "ethereum", "tvl"]
+    },
+    {
+        "entity": "TVL",
+        "attribute": "value",
+        "source": "DefiLlama",
+        "timestamp": "2025-01-08T10:00:00Z",
+        "value": 8832000000,
+        "metadata": {
+            "chain": "Solana",
+            "protocol": "Solana"
+        },
+        "tags": ["defi", "solana", "tvl"]
+    },
+    {
+        "entity": "TVL",
+        "attribute": "value",
+        "source": "DefiLlama",
+        "timestamp": "2025-01-08T10:00:00Z",
+        "value": 7299000000,
+        "metadata": {
+            "chain": "Tron",
+            "protocol": "Tron"
+        },
+        "tags": ["defi", "tron", "tvl"]
+    },
+    {
+        "entity": "TVL",
+        "attribute": "value",
+        "source": "DefiLlama",
+        "timestamp": "2025-01-08T10:00:00Z",
+        "value": 6608000000,
+        "metadata": {
+            "chain": "Bitcoin",
+            "protocol": "Bitcoin"
+        },
+        "tags": ["defi", "bitcoin", "tvl"]
+    },
+    {
+        "entity": "TVL",
+        "attribute": "value",
+        "source": "DefiLlama",
+        "timestamp": "2025-01-08T10:00:00Z",
+        "value": 5551000000,
+        "metadata": {
+            "chain": "BSC",
+            "protocol": "BSC"
+        },
+        "tags": ["defi", "bsc", "tvl"]
+    },
+    {
+        "entity": "TVL",
+        "attribute": "value",
+        "source": "DefiLlama",
+        "timestamp": "2025-01-08T10:00:00Z",
+        "value": 3656000000,
+        "metadata": {
+            "chain": "Base",
+            "protocol": "Base"
+        },
+        "tags": ["defi", "base", "tvl"]
+    },
+    {
+        "entity": "TVL",
+        "attribute": "value",
+        "source": "DefiLlama",
+        "timestamp": "2025-01-08T10:00:00Z",
+        "value": 2999000000,
+        "metadata": {
+            "chain": "Arbitrum",
+            "protocol": "Arbitrum"
+        },
+        "tags": ["defi", "arbitrum", "tvl"]
+    },
+    {
+        "entity": "TVL",
+        "attribute": "value",
+        "source": "DefiLlama",
+        "timestamp": "2025-01-08T10:00:00Z",
+        "value": 1876000000,
+        "metadata": {
+            "chain": "Sui",
+            "protocol": "Sui"
+        },
+        "tags": ["defi", "sui", "tvl"]
+    },
+    {
+        "entity": "TVL",
+        "attribute": "value",
+        "source": "DefiLlama",
+        "timestamp": "2025-01-08T10:00:00Z",
+        "value": 1553000000,
+        "metadata": {
+            "chain": "Hyperliquid",
+            "protocol": "Hyperliquid"
+        },
+        "tags": ["defi", "hyperliquid", "tvl"]
+    },
+    {
+        "entity": "TVL",
+        "attribute": "value",
+        "source": "DefiLlama",
+        "timestamp": "2025-01-08T10:00:00Z",
+        "value": 1347000000,
+        "metadata": {
+            "chain": "Avalanche",
+            "protocol": "Avalanche"
+        },
+        "tags": ["defi", "avalanche", "tvl"]
+    },
+    {
+        "entity": "TVL",
+        "attribute": "value",
+        "source": "DefiLlama",
+        "timestamp": "2025-01-08T10:00:00Z",
+        "value": 1042000000,
+        "metadata": {
+            "chain": "Aptos",
+            "protocol": "Aptos"
+        },
+        "tags": ["defi", "aptos", "tvl"]
+    },
+    {
+        "entity": "TVL",
+        "attribute": "value",
+        "source": "DefiLlama",
+        "timestamp": "2025-01-08T10:00:00Z",
+        "value": 862490000,
+        "metadata": {
+            "chain": "Polygon",
+            "protocol": "Polygon"
+        },
+        "tags": ["defi", "polygon", "tvl"]
+    },
+    {
+        "entity": "TVL",
+        "attribute": "value",
+        "source": "DefiLlama",
+        "timestamp": "2025-01-08T10:00:00Z",
+        "value": 755030000,
+        "metadata": {
+            "chain": "Optimism",
+            "protocol": "Optimism"
+        },
+        "tags": ["defi", "optimism", "tvl"]
+    },
+    {
+        "entity": "TVL",
+        "attribute": "value",
+        "source": "DefiLlama",
+        "timestamp": "2025-01-08T10:00:00Z",
+        "value": 728790000,
+        "metadata": {
+            "chain": "Zircuit",
+            "protocol": "Zircuit"
+        },
+        "tags": ["defi", "zircuit", "tvl"]
+    },
+    {
+        "entity": "TVL",
+        "attribute": "value",
+        "source": "DefiLlama",
+        "timestamp": "2025-01-08T10:00:00Z",
+        "value": 725100000,
+        "metadata": {
+            "chain": "CORE",
+            "protocol": "CORE"
+        },
+        "tags": ["defi", "core", "tvl"]
+    },
+    {
+        "entity": "TVL",
+        "attribute": "value",
+        "source": "DefiLlama",
+        "timestamp": "2025-01-08T10:00:00Z",
+        "value": 524590000,
+        "metadata": {
+            "chain": "Cardano",
+            "protocol": "Cardano"
+        },
+        "tags": ["defi", "cardano", "tvl"]
+    },
+    {
+        "entity": "TVL",
+        "attribute": "value",
+        "source": "DefiLlama",
+        "timestamp": "2025-01-08T10:00:00Z",
+        "value": 519110000,
+        "metadata": {
+            "chain": "Cronos",
+            "protocol": "Cronos"
+        },
+        "tags": ["defi", "cronos", "tvl"]
+    },
+    {
+        "entity": "TVL",
+        "attribute": "value",
+        "source": "DefiLlama",
+        "timestamp": "2025-01-08T10:00:00Z",
+        "value": 508300000,
+        "metadata": {
+            "chain": "PulseChain",
+            "protocol": "PulseChain"
+        },
+        "tags": ["defi", "pulsechain", "tvl"]
+    },
+    {
+        "entity": "TVL",
+        "attribute": "value",
+        "source": "DefiLlama",
+        "timestamp": "2025-01-08T10:00:00Z",
+        "value": 466160000,
+        "metadata": {
+            "chain": "Mantle",
+            "protocol": "Mantle"
+        },
+        "tags": ["defi", "mantle", "tvl"]
+    },
+    {
+        "entity": "TVL",
+        "attribute": "value",
+        "source": "DefiLlama",
+        "timestamp": "2025-01-08T10:00:00Z",
+        "value": 445900000,
+        "metadata": {
+            "chain": "Blast",
+            "protocol": "Blast"
+        },
+        "tags": ["defi", "blast", "tvl"]
+    },
+    {
+        "entity": "TVL",
+        "attribute": "value",
+        "source": "DefiLlama",
+        "timestamp": "2025-01-08T10:00:00Z",
+        "value": 416220000,
+        "metadata": {
+            "chain": "Bitlayer",
+            "protocol": "Bitlayer"
+        },
+        "tags": ["defi", "bitlayer", "tvl"]
+    },
+    {
+        "entity": "TVL",
+        "attribute": "value",
+        "source": "DefiLlama",
+        "timestamp": "2025-01-08T10:00:00Z",
+        "value": 393250000,
+        "metadata": {
+            "chain": "dYdX",
+            "protocol": "dYdX"
+        },
+        "tags": ["defi", "dydx", "tvl"]
+    },
+    {
+        "entity": "TVL",
+        "attribute": "value",
+        "source": "DefiLlama",
+        "timestamp": "2025-01-08T10:00:00Z",
+        "value": 378310000,
+        "metadata": {
+            "chain": "Taiko",
+            "protocol": "Taiko"
+        },
+        "tags": ["defi", "taiko", "tvl"]
+    },
+    {
+        "entity": "TVL",
+        "attribute": "value",
+        "source": "DefiLlama",
+        "timestamp": "2025-01-08T10:00:00Z",
+        "value": 368120000,
+        "metadata": {
+            "chain": "Thorchain",
+            "protocol": "Thorchain"
+        },
+        "tags": ["defi", "thorchain", "tvl"]
+    },
+    {
+        "entity": "TVL",
+        "attribute": "value",
+        "source": "DefiLlama",
+        "timestamp": "2025-01-08T10:00:00Z",
+        "value": 335560000,
+        "metadata": {
+            "chain": "Gnosis",
+            "protocol": "Gnosis"
+        },
+        "tags": ["defi", "gnosis", "tvl"]
+    },
+    {
+        "entity": "TVL",
+        "attribute": "value",
+        "source": "DefiLlama",
+        "timestamp": "2025-01-08T10:00:00Z",
+        "value": 320620000,
+        "metadata": {
+            "chain": "Linea",
+            "protocol": "Linea"
+        },
+        "tags": ["defi", "linea", "tvl"]
+    },
+    {
+        "entity": "TVL",
+        "attribute": "value",
+        "source": "DefiLlama",
+        "timestamp": "2025-01-08T10:00:00Z",
+        "value": 309010000,
+        "metadata": {
+            "chain": "BSquared",
+            "protocol": "BSquared"
+        },
+        "tags": ["defi", "bsquared", "tvl"]
+    },
+    {
+        "entity": "TVL",
+        "attribute": "value",
+        "source": "DefiLlama",
+        "timestamp": "2025-01-08T10:00:00Z",
+        "value": 272270000,
+        "metadata": {
+            "chain": "TON",
+            "protocol": "TON"
+        },
+        "tags": ["defi", "ton", "tvl"]
+    },
+    {
+        "entity": "TVL",
+        "attribute": "value",
+        "source": "DefiLlama",
+        "timestamp": "2025-01-08T10:00:00Z",
+        "value": 252560000,
+        "metadata": {
+            "chain": "Near",
+            "protocol": "Near"
+        },
+        "tags": ["defi", "near", "tvl"]
+    },
+    {
+        "entity": "TVL",
+        "attribute": "value",
+        "source": "DefiLlama",
+        "timestamp": "2025-01-08T10:00:00Z",
+        "value": 236750000,
+        "metadata": {
+            "chain": "Starknet",
+            "protocol": "Starknet"
+        },
+        "tags": ["defi", "starknet", "tvl"]
+    },
+    
+    {
+        "entity": "TVL",
+        "attribute": "value",
+        "source": "Footprint Analytics",
+        "timestamp": "2025-01-07T10:00:00Z",
+        "value": 9681676288.17,
+        "metadata": {
+            "chain": "Arbitrum",
+            "protocol": "Arbitrum"
+        },
+        "tags": ["defi", "arbitrum", "tvl"]
+    },
+    {
+        "entity": "TVL",
+        "attribute": "value",
+        "source": "Footprint Analytics",
+        "timestamp": "2025-01-07T10:00:00Z",
+        "value": 63631232181.09,
+        "metadata": {
+            "chain": "Base",
+            "protocol": "Base"
+        },
+        "tags": ["defi", "base", "tvl"]
+    },
+    {
+        "entity": "TVL",
+        "attribute": "value",
+        "source": "Footprint Analytics",
+        "timestamp": "2025-01-07T10:00:00Z",
+        "value": 3862667841.42,
+        "metadata": {
+            "chain": "Optimism",
+            "protocol": "Optimism"
+        },
+        "tags": ["defi", "optimism", "tvl"]
+    },
+    {
+        "entity": "TVL",
+        "attribute": "value",
+        "source": "Footprint Analytics",
+        "timestamp": "2025-01-07T10:00:00Z",
+        "value": 1209064064.99,
+        "metadata": {
+            "chain": "Starknet",
+            "protocol": "Starknet"
+        },
+        "tags": ["defi", "starknet", "tvl"]
+    },
+    {
+        "entity": "TVL",
+        "attribute": "value",
+        "source": "Footprint Analytics",
+        "timestamp": "2025-01-07T10:00:00Z",
+        "value": 793964588.20,
+        "metadata": {
+            "chain": "zkSync Era",
+            "protocol": "zkSync"
+        },
+        "tags": ["defi", "zksync", "tvl"]
+    },
+    {
+        "entity": "TVL",
+        "attribute": "value",
+        "source": "Footprint Analytics",
+        "timestamp": "2025-01-07T10:00:00Z",
+        "value": 625581514.00,
+        "metadata": {
+            "chain": "Blast",
+            "protocol": "Blast"
+        },
+        "tags": ["defi", "blast", "tvl"]
+    },
+    {
+        "entity": "TVL",
+        "attribute": "value",
+        "source": "Footprint Analytics",
+        "timestamp": "2025-01-07T10:00:00Z",
+        "value": 555423706.91,
+        "metadata": {
+            "chain": "Linea",
+            "protocol": "Linea"
+        },
+        "tags": ["defi", "linea", "tvl"]
+    },
+    {
+        "entity": "TVL",
+        "attribute": "value",
+        "source": "Footprint Analytics",
+        "timestamp": "2025-01-07T10:00:00Z",
+        "value": 496463636.91,
+        "metadata": {
+            "chain": "World Chain",
+            "protocol": "World Chain"
+        },
+        "tags": ["defi", "worldchain", "tvl"]
+    },
+    {
+        "entity": "TVL",
+        "attribute": "value",
+        "source": "Footprint Analytics",
+        "timestamp": "2025-01-07T10:00:00Z",
+        "value": 232063689.33,
+        "metadata": {
+            "chain": "Scroll",
+            "protocol": "Scroll"
+        },
+        "tags": ["defi", "scroll", "tvl"]
+    },
+    {
+        "entity": "TVL",
+        "attribute": "value",
+        "source": "Footprint Analytics",
+        "timestamp": "2025-01-07T10:00:00Z",
+        "value": 226807282.59,
+        "metadata": {
+            "chain": "Fuel",
+            "protocol": "Fuel"
+        },
+        "tags": ["defi", "fuel", "tvl"]
+    },
+    {
+        "entity": "TVL",
+        "attribute": "value",
+        "source": "Footprint Analytics",
+        "timestamp": "2025-01-07T10:00:00Z",
+        "value": 135151203.01,
+        "metadata": {
+            "chain": "Polygon zkEVM",
+            "protocol": "Polygon"
+        },
+        "tags": ["defi", "polygon", "tvl"]
+    }
+
+
+]
+       

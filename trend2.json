@@ -1,0 +1,154 @@
+[
+    {
+      "content": "Nvidia",
+      "rank": 1,
+      "title": "Nvidia",
+      "search_volume": 200000,
+      "metadata": {
+        "start_time": "2025-01-06 16:04:51",
+        "percentage_change": "300%",
+        "status": "Active",
+        "related_queries": [
+          "rtx 5070",
+          "nvidia geforce rtx 5090"
+        ]
+      }
+    },
+    {
+      "content": "Sutton Foster",
+      "rank": 2,
+      "title": "Sutton Foster",
+      "search_volume": 20000,
+      "metadata": {
+        "start_time": "2025-01-07 04:04:51",
+        "percentage_change": "1,000%",
+        "status": "Active",
+        "related_queries": [
+          "hugh jackman",
+          "hugh jackman wife",
+          "deborra-lee furness"
+        ]
+      }
+    },
+    {
+      "content": "WWE Raw",
+      "rank": 3,
+      "title": "WWE Raw",
+      "search_volume": 200000,
+      "metadata": {
+        "start_time": "2025-01-06 15:04:51",
+        "percentage_change": "400%",
+        "status": "Active",
+        "related_queries": [
+          "wwe",
+          "john cena",
+          "raw on netflix"
+        ]
+      }
+    },
+    {
+      "content": "FCS Championship",
+      "rank": 4,
+      "title": "FCS Championship",
+      "search_volume": 200000,
+      "metadata": {
+        "start_time": "2025-01-06 15:04:51",
+        "percentage_change": "400%",
+        "status": "Active",
+        "related_queries": [
+          "nd state vs montana state"
+        ]
+      }
+    },
+    {
+      "content": "Deb Fischer",
+      "rank": 5,
+      "title": "Deb Fischer",
+      "search_volume": 50000,
+      "metadata": {
+        "start_time": "2025-01-06 17:04:51",
+        "percentage_change": "400%",
+        "status": "Active",
+        "related_queries": [
+          "bruce fischer",
+          "deb fischer husband"
+        ]
+      }
+    },
+    {
+      "content": "Hulk Hogan",
+      "rank": 6,
+      "title": "Hulk Hogan",
+      "search_volume": 50000,
+      "metadata": {
+        "start_time": "2025-01-07 02:04:51",
+        "percentage_change": "1,000%",
+        "status": "Active",
+        "related_queries": [
+          "real american beer",
+          "hulk hogan booed"
+        ]
+      }
+    },
+    {
+      "content": "Richmond VA Boil Water Advisory",
+      "rank": 7,
+      "title": "Richmond VA Boil Water Advisory",
+      "search_volume": 50000,
+      "metadata": {
+        "start_time": "2025-01-07 00:04:51",
+        "percentage_change": "700%",
+        "status": "Active",
+        "related_queries": [
+          "richmond water",
+          "richmond water outage"
+        ]
+      }
+    },
+    {
+      "content": "Enron Egg",
+      "rank": 8,
+      "title": "Enron Egg",
+      "search_volume": 50000,
+      "metadata": {
+        "start_time": "2025-01-06 20:04:51",
+        "percentage_change": "600%",
+        "status": "Active",
+        "related_queries": [
+          "enron"
+        ]
+      }
+    },
+    {
+      "content": "H5N1 Bird Flu Deaths",
+      "rank": 9,
+      "title": "H5N1 Bird Flu Deaths",
+      "search_volume": 100000,
+      "metadata": {
+        "start_time": "2025-01-07 02:04:51",
+        "percentage_change": "1,000%",
+        "status": "Active",
+        "related_queries": [
+          "bird flu",
+          "bird flu symptoms",
+          "h5n1"
+        ]
+      }
+    },
+    {
+      "content": "Why Did Justin Trudeau Resign",
+      "rank": 10,
+      "title": "Why Did Justin Trudeau Resign",
+      "search_volume": 100000,
+      "metadata": {
+        "start_time": "2025-01-06 16:04:51",
+        "percentage_change": "300%",
+        "status": "Active",
+        "related_queries": [
+          "why did trudeau resign",
+          "chrystia freeland"
+        ]
+      }
+    }
+  ]
+  
