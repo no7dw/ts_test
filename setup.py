@@ -5,6 +5,7 @@ import logging
 from typing import Dict, List
 from motor.motor_asyncio import AsyncIOMotorClient
 import os
+from urllib.parse import urlparse
 
 # Initialize logger
 logging.basicConfig(
@@ -13,15 +14,27 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-def load_raw_data(file_path: str) -> List[Dict]:
-    """Load data from raw JSON file"""
+def load_raw_data(file_uri: str) -> List[Dict]:
+    """Load data from raw JSON file, handling both file:// URIs and regular paths"""
     try:
+        # Parse the URI
+        parsed = urlparse(file_uri)
+        
+        # Convert URI to local path
+        if parsed.scheme == 'file':
+            # Remove 'file://' and handle potential triple slashes
+            file_path = os.path.abspath(parsed.path)
+        else:
+            file_path = file_uri
+            
+        # Read the file
         with open(file_path, 'r') as f:
             data = json.load(f)
+            
         logger.info(f"Successfully loaded {len(data)} records from {file_path}")
         return data
     except Exception as e:
-        logger.error(f"Failed to load data from {file_path}: {str(e)}")
+        logger.error(f"Failed to load data from {file_uri}: {str(e)}")
         raise
 
 async def init_metadata():
@@ -34,6 +47,7 @@ async def init_metadata():
         db = client['metrics_store']
         metadata_collection = db['metric_metadata']
         
+        # todo let LLM to generate metadata , with source is dynamic added once different sources are added
         metadata = [{
             "name": "TVL",
             "description": "Total Value Locked",
@@ -89,9 +103,6 @@ async def setup_store():
             source = config['source']
             raw_data = load_raw_data(config['uri'])
             
-            # Add source information to each record
-            for record in raw_data:
-                record['source'] = source
             
             all_data.extend(raw_data)
             logger.info(f"Processed {len(raw_data)} records from {source}")

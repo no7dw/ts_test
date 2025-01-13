@@ -122,42 +122,7 @@ class MetricStore:
         self.metrics = self.db['metric_data']
         self.metadata = self.db['metric_metadata']
         
-    async def init_metadata(self, metadata: List = None):
-        """Initialize and store metadata in main store"""
-        if metadata is None:
-            metadata = [{
-                "name": "TVL",
-                "description": "Total Value Locked",
-                "sources": ["defillama", "footprint analytics"],  # Track original sources
-                "metadata": {
-                    "chain": "Blockchain name",
-                    "protocol": "Protocol name"
-                },
-                "vector": [0.1, 0.2, 0.3]
-            }]
-        
-        try:
-            # Use main store URI from env
-            main_uri = os.getenv('MAIN_STORE_URI', "mongodb://localhost:27017/")
-            self.client = AsyncIOMotorClient(main_uri)
-            self.db = self.client['metrics_store']
-            self.metadata = self.db['metric_metadata']
-            
-            # Create index for name-based queries
-            await self.metadata.create_index("name")
-            await self.metadata.create_index("sources")  # Add index for sources
-            
-            existing = await self.metadata.find_one({"name": "TVL"})
-            if not existing:
-                # Insert each metadata document separately
-                result = await self.metadata.insert_many(metadata)
-                logger.info(f"Metadata initialized successfully: {len(result.inserted_ids)} documents")
-            else:
-                logger.info("Metadata already exists")
-            return metadata
-        except Exception as e:
-            logger.error(f"Failed to initialize metadata: {str(e)}")
-            raise
+    
 
     async def init_indexes(self):
         """Create necessary indexes"""

@@ -1,10 +1,10 @@
 [
     {
         "source":"defillama",
-        "uri": "./tvl_defillama.json"
+        "uri": "file:///Users/dengwei/ts-test/tvl_defillama.json"
     },
     {
         "source":"footprint analytics",
-        "uri": "./tvl_fp.json"
+        "uri": "file:///Users/dengwei/ts-test/tvl_fp.json"
     }
 ]
