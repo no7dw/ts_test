@@ -2,39 +2,108 @@ import json
 from appm import MetricStore
 import asyncio
 import logging
+from typing import Dict, List
+from motor.motor_asyncio import AsyncIOMotorClient
+import os
 
-# Initialize logger at the module level
+# Initialize logger
 logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(levelname)s - %(message)s'
 )
 logger = logging.getLogger(__name__)
 
-async def setup_store():
-    """Initialize and setup the metric store"""
+def load_raw_data(file_path: str) -> List[Dict]:
+    """Load data from raw JSON file"""
     try:
-        # Load configurations
-        with open('config.json', 'r') as f:
-            configs = json.load(f)
+        with open(file_path, 'r') as f:
+            data = json.load(f)
+        logger.info(f"Successfully loaded {len(data)} records from {file_path}")
+        return data
+    except Exception as e:
+        logger.error(f"Failed to load data from {file_path}: {str(e)}")
+        raise
 
-        stores = []
-        for config in configs:
-            # Initialize store with configuration
-            store = MetricStore(config['mongodb_uri'])
+async def init_metadata():
+    """Initialize metadata in main store"""
+    client = None
+    try:
+        # Use main store URI from env
+        main_uri = os.getenv('MAIN_STORE_URI', "mongodb://localhost:27017/")
+        client = AsyncIOMotorClient(main_uri)
+        db = client['metrics_store']
+        metadata_collection = db['metric_metadata']
+        
+        metadata = [{
+            "name": "TVL",
+            "description": "Total Value Locked",
+            "sources": ["defillama", "footprint analytics"],  # Track original sources
+            "metadata": {
+                "chain": "Blockchain name",
+                "protocol": "Protocol name"
+            },
+            "vector": [0.1, 0.2, 0.3]
+        }]
+        
+        # Create indexes
+        await metadata_collection.create_index("name")
+        await metadata_collection.create_index("sources")
+        
+        existing = await metadata_collection.find_one({"name": "TVL"})
+        if not existing:
+            result = await metadata_collection.insert_many(metadata)
+            logger.info(f"Metadata initialized successfully: {len(result.inserted_ids)} documents")
+        else:
+            logger.info("Metadata already exists")
             
-            # One-time setup operations
-            await store.init_metadata()  # Initialize metadata structure
-            await store.init_indexes()   # Create necessary indexes
+        return metadata
+    except Exception as e:
+        logger.error(f"Failed to initialize metadata: {str(e)}")
+        raise
+    finally:
+        if client:
+            client.close()  # No await needed for close()
+
+async def setup_store():
+    """ETL process: Load from raw files and insert into MongoDB"""
+    try:
+        # Load raw data configurations
+        with open('config.raw.json', 'r') as f:
+            raw_configs = json.load(f)
             
-            # Load and insert data
-            data = await store.load_data(config['table_path'])
-            if data:
-                await store.insert_metrics(data)
-                logger.info(f"Successfully loaded and inserted {len(data)} records from {config['table_path']}")
+        # Load MongoDB configurations
+        with open('config.json', 'r') as f:
+            mongo_configs = json.load(f)
             
-            stores.append(store)
+        # Create mapping of source to MongoDB URI
+        source_to_mongo = {config['source']: config['uri'] for config in mongo_configs}
+        
+        # Initialize main store for final data (27017)
+        import os
+        main_store_uri = os.environ.get('MAIN_STORE_URI')
+        main_store = MetricStore(main_store_uri)  # Using defillama's URI as main
+        
+        # Process each raw data source
+        all_data = []
+        for config in raw_configs:
+            source = config['source']
+            raw_data = load_raw_data(config['uri'])
             
-        return stores
+            # Add source information to each record
+            for record in raw_data:
+                record['source'] = source
+            
+            all_data.extend(raw_data)
+            logger.info(f"Processed {len(raw_data)} records from {source}")
+        
+        # Insert all data into main store
+        if all_data:
+            await main_store.insert_metrics(all_data)
+            logger.info(f"Successfully inserted {len(all_data)} total records into main store")
+        
+            await init_metadata()
+            logger.info("Metadata initialized successfully")
+        return main_store
         
     except FileNotFoundError:
         logger.error("Configuration file not found")
@@ -47,7 +116,7 @@ async def setup_store():
         raise
 
 if __name__ == "__main__":
-    stores = asyncio.run(setup_store())
-    logger.info(f"Successfully initialized {len(stores)} stores")
+    store = asyncio.run(setup_store())
+    logger.info("ETL process completed successfully")
     
    

@@ -1,9 +1,10 @@
-[{
-    "mongodb_uri": "mongodb://localhost:27017/",
-    "table_path": "tvl_defillama.json"
-},
-{
-    "mongodb_uri": "mongodb://localhost:37017/",
-    "table_path": "tvl_fp.json"
-}
+[
+    {
+        "source":"defillama",
+        "uri": "mongodb://localhost:27017/metrics_store?table=tvl"
+    },
+    {
+        "source":"footprint analytics",
+        "uri": "mongodb://localhost:37017/metrics_store?table=tvl_fp"
+    }
 ]

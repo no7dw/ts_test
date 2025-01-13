@@ -43,6 +43,23 @@ def extract_json(s: str, *, model: type[ModelT]) -> ModelT | None:
 
     return None
 
+def load_data(self, file_path: str) -> List[Dict]:
+        """Load metric data from JSON file"""
+        try:
+            if not os.path.exists(file_path):
+                raise FileNotFoundError(f"Data file not found: {file_path}")
+                
+            with open(file_path, 'r') as file:
+                data = json.load(file)
+                logger.info(f"Loaded {len(data)} records from {file_path}")
+                return data
+        except json.JSONDecodeError as e:
+            logger.error(f"Invalid JSON format in {file_path}: {str(e)}")
+            raise
+        except Exception as e:
+            logger.error(f"Failed to load data from {file_path}: {str(e)}")
+            raise
+
 
 METADATA_EXAMPLE = [ 
                     {
@@ -97,24 +114,38 @@ METRICS_TEMPLATE = """
         """
 
 class MetricStore:
-    def __init__(self, uri: str = "mongodb://localhost:27017/"):
-        """Initialize database connection and metadata"""
-        self.client = AsyncIOMotorClient(uri)
+    def __init__(self, uri: str = None):
+        """Initialize database connection"""
+        self.uri = uri or os.getenv('MAIN_STORE_URI', "mongodb://localhost:27017/")
+        self.client = AsyncIOMotorClient(self.uri)
         self.db = self.client['metrics_store']
         self.metrics = self.db['metric_data']
         self.metadata = self.db['metric_metadata']
         
     async def init_metadata(self, metadata: List = None):
-        """Initialize and store metadata"""
+        """Initialize and store metadata in main store"""
         if metadata is None:
-            metadata = METADATA_EXAMPLE
+            metadata = [{
+                "name": "TVL",
+                "description": "Total Value Locked",
+                "sources": ["defillama", "footprint analytics"],  # Track original sources
+                "metadata": {
+                    "chain": "Blockchain name",
+                    "protocol": "Protocol name"
+                },
+                "vector": [0.1, 0.2, 0.3]
+            }]
         
         try:
+            # Use main store URI from env
+            main_uri = os.getenv('MAIN_STORE_URI', "mongodb://localhost:27017/")
+            self.client = AsyncIOMotorClient(main_uri)
+            self.db = self.client['metrics_store']
+            self.metadata = self.db['metric_metadata']
+            
             # Create index for name-based queries
             await self.metadata.create_index("name")
-            
-            # If using vector search, create vector index
-            # await self.metadata.create_index([("vector", "2d")])
+            await self.metadata.create_index("sources")  # Add index for sources
             
             existing = await self.metadata.find_one({"name": "TVL"})
             if not existing:
@@ -147,22 +178,7 @@ class MetricStore:
             logger.error(f"Failed to create indexes: {str(e)}")
             raise
 
-    async def load_data(self, file_path: str) -> List[Dict]:
-        """Load metric data from JSON file"""
-        try:
-            if not os.path.exists(file_path):
-                raise FileNotFoundError(f"Data file not found: {file_path}")
-                
-            with open(file_path, 'r') as file:
-                data = json.load(file)
-                logger.info(f"Loaded {len(data)} records from {file_path}")
-                return data
-        except json.JSONDecodeError as e:
-            logger.error(f"Invalid JSON format in {file_path}: {str(e)}")
-            raise
-        except Exception as e:
-            logger.error(f"Failed to load data from {file_path}: {str(e)}")
-            raise
+    
 
     async def insert_metrics(self, metrics: List[Dict[str, Any]]):
         """Insert multiple metric records"""
@@ -218,16 +234,11 @@ async def main():
     if entity is None:
         print("No entity found")
         return
-    # Get metadata for context with entity filter
-    metadata_doc = await store.metadata.find_one(
-        {"type": "entity_definitions"},
-        {"entities": {"$elemMatch": {"name": entity}}}
-    )
     
     # Extract entity metadata from the document
     entity_metadata = await store.metadata.find_one({"name": entity})
-    
-    # Get latest metrics data
+    print(entity_metadata)
+    # # Get latest metrics data
     db_response = await store.query_latest(entity=entity, **filters)
     if db_response is None:
         print("No data found for the given query")
