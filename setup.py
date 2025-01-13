@@ -68,7 +68,7 @@ async def setup_store():
     """ETL process: Load from raw files and insert into MongoDB"""
     try:
         # Load raw data configurations
-        with open('config.raw.json', 'r') as f:
+        with open('config.file.json', 'r') as f:
             raw_configs = json.load(f)
             
         # Load MongoDB configurations
