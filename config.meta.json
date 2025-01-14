@@ -1,27 +1,22 @@
 [{
 	"name" : "TVL",
 	"description" : "Total Value Locked",
-	"sources" : "webiste url",
 	"scope" : "chain",
 	"freq" : "daily",
 	"period" : "1d",
 	"vector" : [ 0.1, 0.2, 0.3 ]
 },
-
 {
 	"name" : "Realized Profit",
 	"description" : "The total profit realized by a wallet over different periods.",
-	"sources" : "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc",
 	"scope" : "wallet",
 	"freq" : "daily",
 	"period" : "1d",
 	"vector" : [ 0.2, 0.4, 0.6 ]
 },
-
 {
 	"name" : "PnL",
 	"description" : "The profit and loss percentage over 1-day, 7-day, and 30-day periods.",
-	"sources" : "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc",
 	"scope" : "wallet",
 	"freq" : "daily",
 	"period" : "1d",

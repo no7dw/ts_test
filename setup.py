@@ -7,7 +7,7 @@ from urllib.parse import urlparse
 
 from motor.motor_asyncio import AsyncIOMotorClient
 
-from nl2query import METADATA_EXAMPLE, NL2QueryEngine
+from nl2query import NL2QueryEngine
 
 # Initialize logger
 logging.basicConfig(
@@ -50,13 +50,20 @@ async def init_metadata():
         db = client["metrics_store"]
         metadata_collection = db["metric_metadata"]
 
-        # todo let LLM to generate metadata , with source is dynamic added once different sources are added
-        metadata = METADATA_EXAMPLE
+        # Read metadata from meta.json file
+        try:
+            with open("config.meta.json", "r") as f:
+                metadata = json.load(f)
+            logger.debug(f"Loaded metadata from meta.json: {len(metadata)} records")
+        except Exception as e:
+            logger.error(f"Failed to load meta.json: {str(e)}")
+            raise
 
         # Create indexes
         await metadata_collection.create_index("name")
         await metadata_collection.create_index("sources")
 
+        # Check if metadata already exists and insert if it doesn't
         existing = await metadata_collection.find_one({"name": metadata[0]["name"]})
         if not existing:
             result = await metadata_collection.insert_many(metadata)
@@ -72,7 +79,7 @@ async def init_metadata():
         raise
     finally:
         if client:
-            client.close()  # No await needed for close()
+            client.close()
 
 
 async def setup_store():

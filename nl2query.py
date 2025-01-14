@@ -21,7 +21,6 @@ METADATA_EXAMPLE = [
     {
         "name": "TVL",
         "description": "Total Value Locked",
-        "sources": "webiste url",
         "scope": "chain",
         "freq": "daily",
         "period": "1d",
