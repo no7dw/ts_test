@@ -20,6 +20,9 @@ METADATA_EXAMPLE = [
                         "name": "TVL",
                         "description": "Total Value Locked",
                         "sources": "webiste url",
+                        "scope": "chain",
+                        "freq": "daily",
+                        "period": "1d",
                         "vector": [0.1, 0.2, 0.3]  # Example vector embedding
                     },
 ]
@@ -34,6 +37,16 @@ EXTRACT_METADATA_TEMPLATE = """
         
         # metadata
         {metadata}
+
+        # schema of the data is:
+        {{
+            _id: ObjectId
+            entity: str, (which is the value of the entity )
+            metric: str,
+            value: float,
+            timestamp: int,
+            source: str
+        }}
         
         # question
         {question}

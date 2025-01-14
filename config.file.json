@@ -6,5 +6,9 @@
     {
         "source":"footprint analytics",
         "uri": "file:///Users/dengwei/ts-test/tvl_fp.json"
+    },
+    {
+        "source":"gmgn.ai",
+        "uri": "file:///Users/dengwei/ts-test/sol_smart_wallet.json"
     }
 ]

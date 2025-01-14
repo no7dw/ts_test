@@ -1,0 +1,30 @@
+[
+    {
+        "entity": "45yBcpnzFTqLYQJtjxsa1DdZkgrTYponCg6yLQ6LQPu6",
+        "metric": "Realized Profit",
+        "value": 2096747,
+        "timestamp": 1736215200,
+        "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
+      },
+      {
+        "entity": "CWvdyvKHEu8Z6QqGraJT3sLPyp9bJfFhoXcxUYRKC8ou",
+        "metric": "Realized Profit",
+        "value": 3423310,
+        "timestamp": 1736215200,
+        "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
+      },
+      {
+        "entity": "45yBcpnzFTqLYQJtjxsa1DdZkgrTYponCg6yLQ6LQPu6",
+        "metric": "pnl",
+        "value": 5.732970927245722,
+        "timestamp": 1736215200,
+        "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
+      },
+      {
+        "entity": "CWvdyvKHEu8Z6QqGraJT3sLPyp9bJfFhoXcxUYRKC8ou",
+        "metric": "pnl",
+        "value":1.9510828475838957,
+        "timestamp": 1736215200,
+        "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
+      }
+]

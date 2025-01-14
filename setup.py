@@ -54,7 +54,7 @@ async def init_metadata():
         await metadata_collection.create_index("name")
         await metadata_collection.create_index("sources")
         
-        existing = await metadata_collection.find_one({"name": "TVL"})
+        existing = await metadata_collection.find_one({"name": metadata[0]['name']})
         if not existing:
             result = await metadata_collection.insert_many(metadata)
             logger.info(f"Metadata initialized successfully: {len(result.inserted_ids)} documents")
