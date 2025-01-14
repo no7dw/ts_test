@@ -1,10 +1,13 @@
 import re
-from pydantic import BaseModel, ValidationError
-from typing import Dict, Any, List, TypeVar
-ModelT = TypeVar("ModelT", bound="BaseModel")
+from typing import TypeVar
 
 import structlog
+from pydantic import BaseModel, ValidationError
+
+ModelT = TypeVar("ModelT", bound="BaseModel")
+
 logger = structlog.get_logger(__name__)
+
 
 def extract_json_str(s: str) -> str:
     if match := re.search(r"```(?:json)?(.+)```", s, re.DOTALL):
@@ -14,6 +17,7 @@ def extract_json_str(s: str) -> str:
         return match[1]
 
     return s.strip("`")
+
 
 def extract_json(s: str, *, model: type[ModelT]) -> ModelT | None:
     if json_str := extract_json_str(s):

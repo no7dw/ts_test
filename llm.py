@@ -42,4 +42,3 @@ async def chat(
     )
 
     return "".join([choice.message.content or "" for choice in chat_completion.choices])
-
