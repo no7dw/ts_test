@@ -7,7 +7,7 @@ from urllib.parse import urlparse
 
 from motor.motor_asyncio import AsyncIOMotorClient
 
-from nl2query import METADATA_EXAMPLE, TSQuery
+from nl2query import METADATA_EXAMPLE, NL2QueryEngine
 
 # Initialize logger
 logging.basicConfig(
@@ -83,7 +83,7 @@ async def setup_store():
             raw_configs = json.load(f)
 
         # Initialize TSQuery engine
-        query_engine = TSQuery()  # Replace MetricStore initialization
+        query_engine = NL2QueryEngine()  # Replace MetricStore initialization
 
         # Process each raw data source
         all_data = []

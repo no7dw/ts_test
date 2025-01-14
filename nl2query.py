@@ -99,6 +99,9 @@ class NL2Query:
         self, query: Dict[str, Any], default_limit: int = 5
     ) -> List[Dict[str, Any]]:
         raise NotImplementedError("method not implemented")
+    
+    async def get_schema_info(self) -> str:
+        raise NotImplementedError("method not implemented")
 
     async def get_metrics(self, entity: str, filters: Dict[str, Any]):
         raise NotImplementedError("method not implemented")
@@ -118,6 +121,10 @@ class NL2QueryEngine(NL2Query):
         self.db = self.client["metrics_store"]
         self.metrics = self.db["metric_data"]
         self.metadata = self.db["metric_metadata"]
+
+    async def get_schema_info(self) -> str:
+        """Currently returns static schema, but prepared for future DB implementation."""
+        return DATA_SCHEMA
 
     async def get_response(self, question: str) -> str:
         # Get entity and filters from the question
@@ -154,7 +161,7 @@ class NL2QueryEngine(NL2Query):
 
         extract_metadata_template = EXTRACT_METADATA_TEMPLATE.format(
             metadata=metadata_examples,  # Use actual metadata from database
-            schema=DATA_SCHEMA,
+            schema=await self.get_schema_info(),
             question=question,
         )
         logger.debug(extract_metadata_template)
