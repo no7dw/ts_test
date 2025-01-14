@@ -139,7 +139,7 @@ class NL2QueryEngine(NL2Query):
 
         # Query metrics data
         db_response = await self.execute_query(
-            query={entity: entity, "filter": filters}
+            query={"entity": entity, "filter": filters}
         )
         if db_response is None:
             return "No data found for the given query"
@@ -151,7 +151,7 @@ class NL2QueryEngine(NL2Query):
             current_time=now,
             metadata=entity_metadata,
         )
-        logger.debug(metrics_template)
+        # logger.debug(metrics_template)
         return await llm.chat(metrics_template, model="gpt-4o-mini")
 
     async def generate_query(self, question: str):
@@ -164,7 +164,7 @@ class NL2QueryEngine(NL2Query):
             question=question,
         )
         logger.debug(extract_metadata_template)
-        response = await llm.chat(extract_metadata_template, model="gpt-4o-mini")
+        response = await llm.chat(extract_metadata_template, model="gpt-4o")
         data_dict = extract_json(response, model=EntityFilter)
         logger.debug(f"Extracted entity and filters: {data_dict}")
         return data_dict.entity, data_dict.filter

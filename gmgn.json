@@ -1,6 +1,4 @@
-/* 1 createdAt:1/7/2025, 4:00:29 PM*/
-{
-    "_id" : ObjectId("677cdf1d123d550b74749265"),
+[{
     "url" : "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=pump_smart&orderby=pnl_7d&direction=desc",
     "type" : "gmgn_copy_trade_rank_pump_smart",
     "chain" : "sol",
@@ -9580,13 +9578,11 @@
             }
         ]
     },
-    "created_at" : ISODate("2025-01-07T16:00:29.547+08:00"),
-    "updated_at" : ISODate("2025-01-07T16:00:29.547+08:00")
+    "created_at" : "2025-01-07T16:00:29.547+08:00",
+    "updated_at" : "2025-01-07T16:00:29.547+08:00"
 },
 
-/* 2 createdAt:1/7/2025, 4:00:29 PM*/
 {
-    "_id" : ObjectId("677cdf1d123d550b74749263"),
     "url" : "https://gmgn.ai/defi/quotation/v1/rank/tron/swaps/1h?orderby=swaps&direction=desc&filters[]=not_honeypot&filters[]=verified&filters[]=renounced",
     "type" : "gmgn_trending_rank_swaps",
     "chain" : "tron",
@@ -10816,13 +10812,11 @@
             }
         ]
     },
-    "created_at" : ISODate("2025-01-07T16:00:29.542+08:00"),
-    "updated_at" : ISODate("2025-01-07T16:00:29.542+08:00")
+    "created_at" : "2025-01-07T16:00:29.542+08:00",
+    "updated_at" : "2025-01-07T16:00:29.542+08:00"
 },
 
-/* 3 createdAt:1/7/2025, 4:00:18 PM*/
 {
-    "_id" : ObjectId("677cdf12123d550b74749260"),
     "url" : "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?orderby=pnl_7d&direction=desc",
     "type" : "gmgn_copy_trade_rank_all",
     "chain" : "sol",
@@ -20336,13 +20330,11 @@
             }
         ]
     },
-    "created_at" : ISODate("2025-01-07T16:00:18.146+08:00"),
-    "updated_at" : ISODate("2025-01-07T16:00:18.146+08:00")
+    "created_at" : "2025-01-07T16:00:18.146+08:00",
+    "updated_at" : "2025-01-07T16:00:18.146+08:00"
 },
 
-/* 4 createdAt:1/7/2025, 4:00:05 PM*/
 {
-    "_id" : ObjectId("677cdf05123d550b7474925e"),
     "url" : "https://gmgn.ai/defi/quotation/v1/rank/sol/swaps/1h?orderby=swaps&direction=desc&filters[]=renounced&filters[]=frozen",
     "type" : "gmgn_trending_rank_swaps",
     "chain" : "sol",
@@ -21628,7 +21620,7 @@
                 "swaps" : 4230,
                 "volume" : 933467,
                 "liquidity" : 939978,
-                "market_cap" : Long("9995130000"),
+                "market_cap" : "9995130000",
                 "hot_level" : 2,
                 "pool_creation_timestamp" : 1736225687,
                 "holder_count" : 3001,
@@ -22097,7 +22089,7 @@
                 "swaps" : 3552,
                 "volume" : 840284,
                 "liquidity" : 1152100,
-                "market_cap" : Long("12618400000"),
+                "market_cap" : "12618400000",
                 "hot_level" : 2,
                 "pool_creation_timestamp" : 1736226505,
                 "holder_count" : 2676,
@@ -22520,7 +22512,7 @@
                 "swaps" : 3082,
                 "volume" : 903280,
                 "liquidity" : 1067790,
-                "market_cap" : Long("12537400000"),
+                "market_cap" : "12537400000",
                 "hot_level" : 2,
                 "pool_creation_timestamp" : 1736172050,
                 "holder_count" : 3388,
@@ -22661,7 +22653,7 @@
                 "swaps" : 2987,
                 "volume" : 625682,
                 "liquidity" : 769626,
-                "market_cap" : Long("6851820000"),
+                "market_cap" : "6851820000",
                 "hot_level" : 1,
                 "pool_creation_timestamp" : 1736234773,
                 "holder_count" : 763,
@@ -23084,7 +23076,7 @@
                 "swaps" : 2792,
                 "volume" : 1316860,
                 "liquidity" : 957761,
-                "market_cap" : Long("10321300000"),
+                "market_cap" : "10321300000",
                 "hot_level" : 1,
                 "pool_creation_timestamp" : 1736226258,
                 "holder_count" : 859,
@@ -23366,7 +23358,7 @@
                 "swaps" : 2396,
                 "volume" : 775138,
                 "liquidity" : 792131,
-                "market_cap" : Long("7222840000"),
+                "market_cap" : "7222840000",
                 "hot_level" : 0,
                 "pool_creation_timestamp" : 1736234179,
                 "holder_count" : 854,
@@ -23741,7 +23733,7 @@
                 "swaps" : 2200,
                 "volume" : 161257,
                 "liquidity" : 617897,
-                "market_cap" : Long("4144900000"),
+                "market_cap" : "4144900000",
                 "hot_level" : 0,
                 "pool_creation_timestamp" : 1735540038,
                 "holder_count" : 528,
@@ -23882,7 +23874,7 @@
                 "swaps" : 2103,
                 "volume" : 1042130,
                 "liquidity" : 43533200,
-                "market_cap" : Long("3706120000"),
+                "market_cap" : "3706120000",
                 "hot_level" : 0,
                 "pool_creation_timestamp" : 1734439568,
                 "holder_count" : 608648,
@@ -24022,7 +24014,7 @@
                 "swaps" : 2076,
                 "volume" : 445932,
                 "liquidity" : 35835000,
-                "market_cap" : Long("3109300000"),
+                "market_cap" : "3109300000",
                 "hot_level" : 0,
                 "pool_creation_timestamp" : 1696430892,
                 "holder_count" : 93246,
@@ -24480,13 +24472,11 @@
             }
         ]
     },
-    "created_at" : ISODate("2025-01-07T16:00:05.686+08:00"),
-    "updated_at" : ISODate("2025-01-07T16:00:05.686+08:00")
+    "created_at" : "2025-01-07T16:00:05.686+08:00",
+    "updated_at" : "2025-01-07T16:00:05.686+08:00"
 },
 
-/* 5 createdAt:1/7/2025, 3:04:05 PM*/
 {
-    "_id" : ObjectId("677cd1e53ae6937563db8021"),
     "url" : "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc",
     "type" : "gmgn_copy_trade_rank_snipe_bot",
     "chain" : "sol",
@@ -34144,13 +34134,11 @@
             }
         ]
     },
-    "created_at" : ISODate("2025-01-07T15:04:05.044+08:00"),
-    "updated_at" : ISODate("2025-01-07T15:04:05.044+08:00")
+    "created_at" : "2025-01-07T15:04:05.044+08:00",
+    "updated_at" : "2025-01-07T15:04:05.044+08:00"
 },
 
-/* 6 createdAt:1/7/2025, 3:04:04 PM*/
 {
-    "_id" : ObjectId("677cd1e43ae6937563db801d"),
     "url" : "https://gmgn.ai/defi/quotation/v1/rank/blast/swaps/1h?orderby=swaps&direction=desc&filters[]=not_honeypot&filters[]=verified&filters[]=renounced",
     "type" : "gmgn_trending_rank_swaps",
     "chain" : "blast",
@@ -34242,13 +34230,11 @@
             }
         ]
     },
-    "created_at" : ISODate("2025-01-07T15:04:04.994+08:00"),
-    "updated_at" : ISODate("2025-01-07T15:04:04.994+08:00")
+    "created_at" : "2025-01-07T15:04:04.994+08:00",
+    "updated_at" : "2025-01-07T15:04:04.994+08:00"
 },
 
-/* 7 createdAt:1/7/2025, 3:03:51 PM*/
 {
-    "_id" : ObjectId("677cd1d73ae6937563db801b"),
     "url" : "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=renowned&orderby=pnl_7d&direction=desc",
     "type" : "gmgn_copy_trade_rank_renowned",
     "chain" : "sol",
@@ -43484,13 +43470,11 @@
             }
         ]
     },
-    "created_at" : ISODate("2025-01-07T15:03:51.718+08:00"),
-    "updated_at" : ISODate("2025-01-07T15:03:51.718+08:00")
+    "created_at" : "2025-01-07T15:03:51.718+08:00",
+    "updated_at" : "2025-01-07T15:03:51.718+08:00"
 },
 
-/* 8 createdAt:1/7/2025, 3:03:49 PM*/
 {
-    "_id" : ObjectId("677cd1d53ae6937563db8014"),
     "url" : "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=fresh_wallet&orderby=pnl_7d&direction=desc",
     "type" : "gmgn_copy_trade_rank_fresh_wallet",
     "chain" : "sol",
@@ -53070,13 +53054,11 @@
             }
         ]
     },
-    "created_at" : ISODate("2025-01-07T15:03:49.623+08:00"),
-    "updated_at" : ISODate("2025-01-07T15:03:49.623+08:00")
+    "created_at" : "2025-01-07T15:03:49.623+08:00",
+    "updated_at" : "2025-01-07T15:03:49.623+08:00"
 },
 
-/* 9 createdAt:1/7/2025, 3:03:49 PM*/
 {
-    "_id" : ObjectId("677cd1d53ae6937563db8011"),
     "url" : "https://gmgn.ai/defi/quotation/v1/rank/eth/swaps/1h?orderby=swaps&direction=desc&filters[]=not_honeypot&filters[]=verified&filters[]=renounced",
     "type" : "gmgn_trending_rank_swaps",
     "chain" : "eth",
@@ -54006,7 +53988,7 @@
                 "swaps" : 49,
                 "volume" : 897517.09,
                 "liquidity" : 50090359.94110825,
-                "market_cap" : Long("22793283000"),
+                "market_cap" : "22793283000",
                 "call_number" : 0,
                 "smart_buy_24h" : 1,
                 "smart_sell_24h" : 0,
@@ -54089,7 +54071,7 @@
                 "swaps" : 48,
                 "volume" : 161837.81,
                 "liquidity" : 4491540.583746662,
-                "market_cap" : Long("3881931700"),
+                "market_cap" : "3881931700",
                 "call_number" : 0,
                 "smart_buy_24h" : 0,
                 "smart_sell_24h" : 0,
@@ -54184,7 +54166,7 @@
                 "swaps" : 40,
                 "volume" : 146708.09,
                 "liquidity" : 72792040.45373054,
-                "market_cap" : Long("8612964000"),
+                "market_cap" : "8612964000",
                 "call_number" : 0,
                 "smart_buy_24h" : 2,
                 "smart_sell_24h" : 6,
@@ -55034,7 +55016,7 @@
                 "swaps" : 21,
                 "volume" : 35305.942,
                 "liquidity" : 7732069.310110571,
-                "market_cap" : Long("23983237000"),
+                "market_cap" : "23983237000",
                 "call_number" : 0,
                 "smart_buy_24h" : 2,
                 "smart_sell_24h" : 0,
@@ -55496,7 +55478,7 @@
                 "swaps" : 18,
                 "volume" : 410450.42,
                 "liquidity" : 2695340282.5018425,
-                "market_cap" : Long("5819962700"),
+                "market_cap" : "5819962700",
                 "call_number" : 0,
                 "smart_buy_24h" : 0,
                 "smart_sell_24h" : 2,
@@ -55723,7 +55705,7 @@
                         {
                             "percent" : "0",
                             "pool" : "UNCX",
-                            "leftTimeLast" : Long("3913214400"),
+                            "leftTimeLast" : "3913214400",
                             "leftTime" : "69 y"
                         }
                     ],
@@ -55990,7 +55972,7 @@
                 "swaps" : 15,
                 "volume" : 6331.6157,
                 "liquidity" : 32818424.45328544,
-                "market_cap" : Long("7238206300"),
+                "market_cap" : "7238206300",
                 "call_number" : 0,
                 "smart_buy_24h" : 0,
                 "smart_sell_24h" : 0,
@@ -56222,7 +56204,7 @@
                 "swaps" : 14,
                 "volume" : 54847.447,
                 "liquidity" : 3124794.496068381,
-                "market_cap" : Long("15376446000"),
+                "market_cap" : "15376446000",
                 "call_number" : 0,
                 "smart_buy_24h" : 0,
                 "smart_sell_24h" : 0,
@@ -56251,13 +56233,11 @@
             }
         ]
     },
-    "created_at" : ISODate("2025-01-07T15:03:49.615+08:00"),
-    "updated_at" : ISODate("2025-01-07T15:03:49.615+08:00")
+    "created_at" : "2025-01-07T15:03:49.615+08:00",
+    "updated_at" : "2025-01-07T15:03:49.615+08:00"
 },
 
-/* 10 createdAt:1/7/2025, 3:03:44 PM*/
 {
-    "_id" : ObjectId("677cd1d03ae6937563db800d"),
     "url" : "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=smart_degen&tag=pump_smart&orderby=pnl_7d&direction=desc",
     "type" : "gmgn_copy_trade_rank_smart_degen_and_pump",
     "chain" : "sol",
@@ -65764,6 +65744,7 @@
             }
         ]
     },
-    "created_at" : ISODate("2025-01-07T15:03:44.562+08:00"),
-    "updated_at" : ISODate("2025-01-07T15:03:44.562+08:00")
+    "created_at" : "2025-01-07T15:03:44.562+08:00",
+    "updated_at" : "2025-01-07T15:03:44.562+08:00"
 }
+]
