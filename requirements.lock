@@ -68,6 +68,8 @@ requests==2.32.3
 sniffio==1.3.1
     # via anyio
     # via openai
+structlog==24.4.0
+    # via ts-test
 taospy==2.7.21
     # via ts-test
 tqdm==4.67.1

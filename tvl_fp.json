@@ -1,102 +1,79 @@
 [
-
-    {
-        "entity": "TVL",
-        "source": "https://www.footprint.network/research/chain/chain-ecosystem/layer-2-overview",
-        "timestamp": "2025-01-07T10:00:00Z",
-        "value": 9681676288.17,
-        "metadata": {
-            "chain": "Arbitrum"
-        }
-    },
-    {
-        "entity": "TVL",
-        "source": "https://www.footprint.network/research/chain/chain-ecosystem/layer-2-overview",
-        "timestamp": "2025-01-07T10:00:00Z",
-        "value": 63631232181.09,
-        "metadata": {
-            "chain": "Base"
-        }
-    },
-    {
-        "entity": "TVL",
-        "source": "https://www.footprint.network/research/chain/chain-ecosystem/layer-2-overview",
-        "timestamp": "2025-01-07T10:00:00Z",
-        "value": 3862667841.42,
-        "metadata": {
-            "chain": "Optimism"
-        }
-    },
-    {
-        "entity": "TVL",
-        "source": "https://www.footprint.network/research/chain/chain-ecosystem/layer-2-overview",
-        "timestamp": "2025-01-07T10:00:00Z",
-        "value": 1209064064.99,
-        "metadata": {
-            "chain": "Starknet"
-        }
-    },
-    {
-        "entity": "TVL",
-        "source": "https://www.footprint.network/research/chain/chain-ecosystem/layer-2-overview",
-        "timestamp": "2025-01-07T10:00:00Z",
-        "value": 793964588.20,
-        "metadata": {
-            "chain": "zkSync Era"
-        }
-    },
-    {
-        "entity": "TVL",
-        "source": "https://www.footprint.network/research/chain/chain-ecosystem/layer-2-overview",
-        "timestamp": "2025-01-07T10:00:00Z",
-        "value": 625581514.00,
-        "metadata": {
-            "chain": "Blast"
-        }
-    },
-    {
-        "entity": "TVL",
-        "source": "https://www.footprint.network/research/chain/chain-ecosystem/layer-2-overview",
-        "timestamp": "2025-01-07T10:00:00Z",
-        "value": 555423706.91,
-        "metadata": {
-            "chain": "Linea"
-        }
-    },
-    {
-        "entity": "TVL",
-        "source": "https://www.footprint.network/research/chain/chain-ecosystem/layer-2-overview",
-        "timestamp": "2025-01-07T10:00:00Z",
-        "value": 496463636.91,
-        "metadata": {
-            "chain": "World Chain"
-        }
-    },
-    {
-        "entity": "TVL",
-        "source": "https://www.footprint.network/research/chain/chain-ecosystem/layer-2-overview",
-        "timestamp": "2025-01-07T10:00:00Z",
-        "value": 232063689.33,
-        "metadata": {
-            "chain": "Scroll"
-        }
-    },
-    {
-        "entity": "TVL",
-        "source": "https://www.footprint.network/research/chain/chain-ecosystem/layer-2-overview",
-        "timestamp": "2025-01-07T10:00:00Z",
-        "value": 226807282.59,
-        "metadata": {
-            "chain": "Fuel"
-        }
-    },
-    {
-        "entity": "TVL",
-        "source": "https://www.footprint.network/research/chain/chain-ecosystem/layer-2-overview",
-        "timestamp": "2025-01-07T10:00:00Z",
-        "value": 135151203.01,
-        "metadata": {
-            "chain": "Polygon zkEVM"
-        }
-    }
+  {
+    "entity": "Arbitrum",
+    "metric": "TVL",
+    "value": 9681676288.17,
+    "timestamp": 1736215200,
+    "source": "https://www.footprint.network/research/chain/chain-ecosystem/layer-2-overview"
+  },
+  {
+    "entity": "Base",
+    "metric": "TVL",
+    "value": 63631232181.09,
+    "timestamp": 1736215200,
+    "source": "https://www.footprint.network/research/chain/chain-ecosystem/layer-2-overview"
+  },
+  {
+    "entity": "Optimism",
+    "metric": "TVL",
+    "value": 3862667841.42,
+    "timestamp": 1736215200,
+    "source": "https://www.footprint.network/research/chain/chain-ecosystem/layer-2-overview"
+  },
+  {
+    "entity": "Starknet",
+    "metric": "TVL",
+    "value": 1209064064.99,
+    "timestamp": 1736215200,
+    "source": "https://www.footprint.network/research/chain/chain-ecosystem/layer-2-overview"
+  },
+  {
+    "entity": "zkSync Era",
+    "metric": "TVL",
+    "value": 793964588.2,
+    "timestamp": 1736215200,
+    "source": "https://www.footprint.network/research/chain/chain-ecosystem/layer-2-overview"
+  },
+  {
+    "entity": "Blast",
+    "metric": "TVL",
+    "value": 625581514.0,
+    "timestamp": 1736215200,
+    "source": "https://www.footprint.network/research/chain/chain-ecosystem/layer-2-overview"
+  },
+  {
+    "entity": "Linea",
+    "metric": "TVL",
+    "value": 555423706.91,
+    "timestamp": 1736215200,
+    "source": "https://www.footprint.network/research/chain/chain-ecosystem/layer-2-overview"
+  },
+  {
+    "entity": "World Chain",
+    "metric": "TVL",
+    "value": 496463636.91,
+    "timestamp": 1736215200,
+    "source": "https://www.footprint.network/research/chain/chain-ecosystem/layer-2-overview"
+  },
+  {
+    "entity": "Scroll",
+    "metric": "TVL",
+    "value": 232063689.33,
+    "timestamp": 1736215200,
+    "source": "https://www.footprint.network/research/chain/chain-ecosystem/layer-2-overview"
+  },
+  {
+    "entity": "Fuel",
+    "metric": "TVL",
+    "value": 226807282.59,
+    "timestamp": 1736215200,
+    "source": "https://www.footprint.network/research/chain/chain-ecosystem/layer-2-overview"
+  },
+  {
+    "entity": "Polygon zkEVM",
+    "metric": "TVL",
+    "value": 135151203.01,
+    "timestamp": 1736215200,
+    "source": "https://www.footprint.network/research/chain/chain-ecosystem/layer-2-overview"
+  }
 ]

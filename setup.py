@@ -1,11 +1,11 @@
 import json
-from appm import MetricStore
 import asyncio
 import logging
 from typing import Dict, List
 from motor.motor_asyncio import AsyncIOMotorClient
 import os
 from urllib.parse import urlparse
+from nl2query import TSQuery, METADATA_EXAMPLE
 
 # Initialize logger
 logging.basicConfig(
@@ -48,16 +48,7 @@ async def init_metadata():
         metadata_collection = db['metric_metadata']
         
         # todo let LLM to generate metadata , with source is dynamic added once different sources are added
-        metadata = [{
-            "name": "TVL",
-            "description": "Total Value Locked",
-            "sources": ["defillama", "footprint analytics"],  # Track original sources
-            "metadata": {
-                "chain": "Blockchain name",
-                "protocol": "Protocol name"
-            },
-            "vector": [0.1, 0.2, 0.3]
-        }]
+        metadata = METADATA_EXAMPLE
         
         # Create indexes
         await metadata_collection.create_index("name")
@@ -89,32 +80,27 @@ async def setup_store():
         with open('config.json', 'r') as f:
             mongo_configs = json.load(f)
             
-        # Create mapping of source to MongoDB URI
-        source_to_mongo = {config['source']: config['uri'] for config in mongo_configs}
-        
-        # Initialize main store for final data (27017)
-        import os
+        # Initialize TSQuery engine
         main_store_uri = os.environ.get('MAIN_STORE_URI')
-        main_store = MetricStore(main_store_uri)  # Using defillama's URI as main
+        query_engine = TSQuery()  # Replace MetricStore initialization
         
         # Process each raw data source
         all_data = []
         for config in raw_configs:
             source = config['source']
             raw_data = load_raw_data(config['uri'])
-            
-            
             all_data.extend(raw_data)
             logger.info(f"Processed {len(raw_data)} records from {source}")
         
-        # Insert all data into main store
+        # Insert all data using TSQuery
         if all_data:
-            await main_store.insert_metrics(all_data)
+            # Assuming TSQuery has a method for inserting data
+            await query_engine.insert_metrics(all_data)  # Update method name as per TSQuery implementation
             logger.info(f"Successfully inserted {len(all_data)} total records into main store")
         
             await init_metadata()
             logger.info("Metadata initialized successfully")
-        return main_store
+        return query_engine
         
     except FileNotFoundError:
         logger.error("Configuration file not found")
