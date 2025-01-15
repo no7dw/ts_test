@@ -43,7 +43,7 @@ async def main():
     if isinstance(input_questions, str):
         input_questions = [input_questions]
     for question in input_questions:
-        response = await engine.get_response(question)
+        response = await engine.get_llm_response(question)
         print(response)
 
 

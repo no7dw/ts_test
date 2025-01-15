@@ -102,13 +102,10 @@ class NL2Query:
     async def get_schema_info(self) -> str:
         raise NotImplementedError("method not implemented")
 
-    async def get_metrics(self, entity: str, filters: Dict[str, Any]):
-        raise NotImplementedError("method not implemented")
-
     async def insert_metrics(self, metrics: List[Dict[str, Any]]) -> List[Any]:
         raise NotImplementedError("method not implemented")
 
-    async def get_response(self, question: str) -> str:
+    async def get_llm_response(self, question: str) -> str:
         raise NotImplementedError("method not implemented")
 
 
@@ -125,7 +122,7 @@ class NL2QueryEngine(NL2Query):
         """Currently returns static schema, but prepared for future DB implementation."""
         return DATA_SCHEMA
 
-    async def get_response(self, question: str) -> str:
+    async def get_llm_response(self, question: str) -> str:
         # Get entity and filters from the question
         entity, filters = await self.generate_query(question)
 
