@@ -5,35 +5,8 @@ from typing import Any, Dict, List, Optional
 from slugify import slugify
 import jsonpath_ng.ext as jsonpath  # Using jsonpath-ng extended for better syntax
 import structlog
-import json
-import llm
-from utils import extract_json
-from pydantic import BaseModel
+
 logger = structlog.get_logger(__name__)
-
-
-METADATA_EXAMPLE = {
-        "name": "tvl",
-        "description": "Total Value Locked",
-        "scope": "chain",
-        "freq": "daily",
-        "period": "1d"
-    }
-
-
-PROMPT_GENERATE_METADATA_SCHEMA = """
-    you're a helpful assistant that can convert the raw crawl data and given metadata schema to a time series metric metadata schema.    
-    return in json format with a list of objects under a 'metrics' key.
-
-    ## example metadata schema:
-    {{"metrics": [{metadata}]}}
-
-    ## example raw data:
-    {sample_data}
-
-    ## your answer:
-
-"""
 
 
 class MetricNameFormat(Enum):
@@ -50,16 +23,6 @@ class MetricDefinition:
     entity_path: Optional[str] = None
     timestamp_path: Optional[str] = None
 
-@dataclass
-class MetricMetadata(BaseModel):
-    name: str
-    description: str
-    scope: str
-    freq: str
-    period: str
-
-class MetricMetadataList(BaseModel):
-    metrics: List[MetricMetadata]
 
 @dataclass
 class TimeSeriesPoint:
@@ -179,7 +142,6 @@ class GenericExtractor:
 
     def _compile_paths(self):
         """Compile the mapping rules into metric definitions"""
-        # self.metrics = []  # Start fresh with empty list
 
         for metric in self.mapping_rules["metrics"]:
             self.metrics.append(
@@ -256,22 +218,6 @@ class ExtractorRegistry:
         return self.extractors.get(data_type)
 
 
-async def generate_metadata_schema(sample_data: Dict) -> List[MetricMetadata]:
-    metrics_template = PROMPT_GENERATE_METADATA_SCHEMA.format(
-            sample_data=json.dumps(sample_data),
-            metadata=json.dumps(METADATA_EXAMPLE),
-        )
-    response = await llm.chat(metrics_template, model="gpt-4o-mini") 
-    logger.debug(f"llm metadata schema response: {response}")
-    
-    if schema_list := extract_json(response, model=MetricMetadataList):
-        # Normalize metric names using slugify
-        for metric in schema_list.metrics:
-            metric.name = slugify(metric.name)
-        return schema_list.metrics
-    return []
-
-
 def process_data(
     raw_data: Dict[str, Any],
     registry: ExtractorRegistry,
@@ -283,7 +229,7 @@ def process_data(
     """
     data_type = raw_data.get("type")
     extractor = registry.get_extractor(data_type)
-    if not extractor: # use default mapping
+    if not extractor:
         mapping = MappingGenerator.infer_mapping(raw_data, entity_id, timestamp_field)
         logger.debug(f"Mapping: {mapping}")
         registry.register(data_type, GenericExtractor(mapping))
@@ -294,107 +240,77 @@ def process_data(
 
 # Example usage:
 if __name__ == "__main__":
-    
+    # Initialize registry
+    registry = ExtractorRegistry()
 
-    sample_item_data = {
+    # Process actual data directly
+    actual_data = {
+        "type": "gmgn_wallet_data",
+        "url": "https://gmgn.ai/api/...",
+        "data": {
+            "rank": [
+                {
                     "wallet_address": "abc123",
                     "realized_profit": 150.0,
-                    "buy" : 24,
-                    "sell" : 30,
-                    "last_active" : 1736817888,
-                    "realized_profit_1d" : 70879.49853688761,
-                    "realized_profit_7d" : 122662.43403346688,
-                    "realized_profit_30d" : 191269.16539506766,
-                    "pnl_30d" : 0.27870596416424176,
-                    "pnl_7d" : 2.2182305885237708,
-                    "pnl_1d" : 5.732970927245722,
-                    "txs_30d" : 396,
-                    "buy_30d" : 191,
-                    "sell_30d" : 205,
-                    "balance" : 761.744124299,
-                    "eth_balance" : 761.744124299,
-                    "sol_balance" : 761.744124299,
-                    "trx_balance" : 761.744124299,
+                    "pnl_7d": 75.0,
                     "created_at": "2024-01-02T00:00:00Z",
-                }
-    import asyncio
-    schema = asyncio.run(generate_metadata_schema(sample_item_data))
-    logger.debug(f"Schema: {schema}")
+                },
+                {
+                    "wallet_address": "def456",
+                    "realized_profit": 200.0,
+                    "pnl_7d": 100.0,
+                    "created_at": "2024-01-02T00:00:00Z",
+                },
+            ]
+        },
+    }
 
-
-    # Initialize registry
-    # registry = ExtractorRegistry()
-
-    # # Process actual data directly
-    # actual_data = {
-    #     "type": "gmgn_wallet_data",
-    #     "url": "https://gmgn.ai/api/...",
-    #     "data": {
-    #         "rank": [
-    #             {
-    #                 "wallet_address": "abc123",
-    #                 "realized_profit": 150.0,
-    #                 "pnl_7d": 75.0,
-    #                 "created_at": "2024-01-02T00:00:00Z",
-    #                 "balance" : 87.33737425
-    #             },
-    #             {
-    #                 "wallet_address": "def456",
-    #                 "realized_profit": 200.0,
-    #                 "pnl_7d": 100.0,
-    #                 "created_at": "2024-01-02T00:00:00Z",
-    #                 "balance" : 17.1
-    #             },
-    #         ]
-    #     },
-    # }
-
-    # actual_data = {
-    #     "type": "gmgn_wallet_data",
-    #     "url": "https://gmgn.ai/api/...",
-    #     "data": [
-    #         {
-    #             "wallet_address": "abc123",
-    #             "realized_profit": 150.0,
-    #             "pnl_7d": 75.0,
-    #             "created_at": "2024-01-02T00:00:00Z",
-    #         },
-    #         {
-    #             "wallet_address": "def456",
-    #             "realized_profit": 200.0,
-    #             "pnl_7d": 100.0,
-    #             "created_at": "2024-01-02T00:00:00Z",
-    #         },
-    #     ],
-    # }
+    actual_data = {
+        "type": "gmgn_wallet_data",
+        "url": "https://gmgn.ai/api/...",
+        "data": [
+            {
+                "wallet_address": "abc123",
+                "realized_profit": 150.0,
+                "pnl_7d": 75.0,
+                "created_at": "2024-01-02T00:00:00Z",
+            },
+            {
+                "wallet_address": "def456",
+                "realized_profit": 200.0,
+                "pnl_7d": 100.0,
+                "created_at": "2024-01-02T00:00:00Z",
+            },
+        ],
+    }
 
     # Process the data - it will automatically create the extractor if needed
-    # entity_id = "wallet_address"
-    # results = process_data(actual_data, registry, entity_id)
-    # logger.info(f"Results: {results}")
+    entity_id = "wallet_address"
+    results = process_data(actual_data, registry, entity_id)
+    logger.info(f"Results: {results}")
 
-    # # Example 2: Generic protocol data
-    # actual_data = {
-    #     "type": "defillama_chain_data",
-    #     "url": "https://defillama.com/chains",
-    #     "data": {
-    #         "chains": [
-    #             {
-    #                 "chain": "Ethereum",
-    #                 "tvl": 1000000.0,
-    #                 "volume_24h": 500000.0,
-    #                 "timestamp": "2024-01-02T00:00:00Z",
-    #             },
-    #             {
-    #                 "chain": "Base",
-    #                 "tvl": 300000.0,
-    #                 "volume_24h": 100000.0,
-    #                 "timestamp": "2024-01-02T00:00:00Z",
-    #             },
-    #         ]
-    #     },
-    # }
-    # entity_id = "chain"
-    # timestamp_field = "timestamp"
-    # results = process_data(actual_data, registry, entity_id, timestamp_field)
-    # logger.info(f"Results: {results}")
+    # Example 2: Generic protocol data
+    actual_data = {
+        "type": "defillama_chain_data",
+        "url": "https://defillama.com/chains",
+        "data": {
+            "chains": [
+                {
+                    "chain": "Ethereum",
+                    "tvl": 1000000.0,
+                    "volume_24h": 500000.0,
+                    "timestamp": "2024-01-02T00:00:00Z",
+                },
+                {
+                    "chain": "Base",
+                    "tvl": 300000.0,
+                    "volume_24h": 100000.0,
+                    "timestamp": "2024-01-02T00:00:00Z",
+                },
+            ]
+        },
+    }
+    entity_id = "chain"
+    timestamp_field = "timestamp"
+    results = process_data(actual_data, registry, entity_id, timestamp_field)
+    logger.info(f"Results: {results}")

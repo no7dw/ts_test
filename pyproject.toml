@@ -11,6 +11,7 @@ dependencies = [
     "motor>=3.6.0",
     "structlog>=24.4.0",
     "jsonpath-ng>=1.7.0",
+    "python-slugify>=8.0.4",
 ]
 readme = "README.md"
 requires-python = ">= 3.8"

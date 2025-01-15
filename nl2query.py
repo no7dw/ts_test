@@ -17,15 +17,6 @@ class EntityFilter(BaseModel):
     filter: Dict[str, Any]
 
 
-METADATA_EXAMPLE = [
-    {
-        "name": "TVL",
-        "description": "Total Value Locked",
-        "scope": "chain",
-        "freq": "daily",
-        "period": "1d",
-    },
-]
 
 
 DATA_SCHEMA = """

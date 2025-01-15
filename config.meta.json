@@ -1,19 +1,19 @@
 [{
-	"name" : "TVL",
+	"name" : "tvl",
 	"description" : "Total Value Locked",
 	"scope" : "chain",
 	"freq" : "daily",
 	"period" : "1d"
 },
 {
-	"name" : "Realized Profit",
+	"name" : "realized-profit",
 	"description" : "The total profit realized by a wallet over different periods.",
 	"scope" : "wallet",
 	"freq" : "daily",
 	"period" : "1d"
 },
 {
-	"name" : "PnL",
+	"name" : "pnl",
 	"description" : "The profit and loss percentage over 1-day, 7-day, and 30-day periods.",
 	"scope" : "wallet",
 	"freq" : "daily",

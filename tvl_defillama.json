@@ -1,210 +1,210 @@
 [
   {
     "entity": "Ethereum",
-    "metric": "TVL",
+    "metric": "tvl",
     "value": 65639000000,
     "timestamp": 1736301600,
     "source": "https://defillama.com/chains"
   },
   {
     "entity": "Solana",
-    "metric": "TVL",
+    "metric": "tvl",
     "value": 8832000000,
     "timestamp": 1736301600,
     "source": "https://defillama.com/chains"
   },
   {
     "entity": "Tron",
-    "metric": "TVL",
+    "metric": "tvl",
     "value": 7299000000,
     "timestamp": 1736301600,
     "source": "https://defillama.com/chains"
   },
   {
     "entity": "Bitcoin",
-    "metric": "TVL",
+    "metric": "tvl",
     "value": 6608000000,
     "timestamp": 1736301600,
     "source": "https://defillama.com/chains"
   },
   {
     "entity": "BSC",
-    "metric": "TVL",
+    "metric": "tvl",
     "value": 5551000000,
     "timestamp": 1736301600,
     "source": "https://defillama.com/chains"
   },
   {
     "entity": "Base",
-    "metric": "TVL",
+    "metric": "tvl",
     "value": 3656000000,
     "timestamp": 1736301600,
     "source": "https://defillama.com/chains"
   },
   {
     "entity": "Arbitrum",
-    "metric": "TVL",
+    "metric": "tvl",
     "value": 2999000000,
     "timestamp": 1736301600,
     "source": "https://defillama.com/chains"
   },
   {
     "entity": "Sui",
-    "metric": "TVL",
+    "metric": "tvl",
     "value": 1876000000,
     "timestamp": 1736301600,
     "source": "https://defillama.com/chains"
   },
   {
     "entity": "Hyperliquid",
-    "metric": "TVL",
+    "metric": "tvl",
     "value": 1553000000,
     "timestamp": 1736301600,
     "source": "https://defillama.com/chains"
   },
   {
     "entity": "Avalanche",
-    "metric": "TVL",
+    "metric": "tvl",
     "value": 1347000000,
     "timestamp": 1736301600,
     "source": "https://defillama.com/chains"
   },
   {
     "entity": "Aptos",
-    "metric": "TVL",
+    "metric": "tvl",
     "value": 1042000000,
     "timestamp": 1736301600,
     "source": "https://defillama.com/chains"
   },
   {
     "entity": "Polygon",
-    "metric": "TVL",
+    "metric": "tvl",
     "value": 862490000,
     "timestamp": 1736301600,
     "source": "https://defillama.com/chains"
   },
   {
     "entity": "Optimism",
-    "metric": "TVL",
+    "metric": "tvl",
     "value": 755030000,
     "timestamp": 1736301600,
     "source": "https://defillama.com/chains"
   },
   {
     "entity": "Zircuit",
-    "metric": "TVL",
+    "metric": "tvl",
     "value": 728790000,
     "timestamp": 1736301600,
     "source": "https://defillama.com/chains"
   },
   {
     "entity": "CORE",
-    "metric": "TVL",
+    "metric": "tvl",
     "value": 725100000,
     "timestamp": 1736301600,
     "source": "https://defillama.com/chains"
   },
   {
     "entity": "Cardano",
-    "metric": "TVL",
+    "metric": "tvl",
     "value": 524590000,
     "timestamp": 1736301600,
     "source": "https://defillama.com/chains"
   },
   {
     "entity": "Cronos",
-    "metric": "TVL",
+    "metric": "tvl",
     "value": 519110000,
     "timestamp": 1736301600,
     "source": "https://defillama.com/chains"
   },
   {
     "entity": "PulseChain",
-    "metric": "TVL",
+    "metric": "tvl",
     "value": 508300000,
     "timestamp": 1736301600,
     "source": "https://defillama.com/chains"
   },
   {
     "entity": "Mantle",
-    "metric": "TVL",
+    "metric": "tvl",
     "value": 466160000,
     "timestamp": 1736301600,
     "source": "https://defillama.com/chains"
   },
   {
     "entity": "Blast",
-    "metric": "TVL",
+    "metric": "tvl",
     "value": 445900000,
     "timestamp": 1736301600,
     "source": "https://defillama.com/chains"
   },
   {
     "entity": "Bitlayer",
-    "metric": "TVL",
+    "metric": "tvl",
     "value": 416220000,
     "timestamp": 1736301600,
     "source": "https://defillama.com/chains"
   },
   {
     "entity": "dYdX",
-    "metric": "TVL",
+    "metric": "tvl",
     "value": 393250000,
     "timestamp": 1736301600,
     "source": "https://defillama.com/chains"
   },
   {
     "entity": "Taiko",
-    "metric": "TVL",
+    "metric": "tvl",
     "value": 378310000,
     "timestamp": 1736301600,
     "source": "https://defillama.com/chains"
   },
   {
     "entity": "Thorchain",
-    "metric": "TVL",
+    "metric": "tvl",
     "value": 368120000,
     "timestamp": 1736301600,
     "source": "https://defillama.com/chains"
   },
   {
     "entity": "Gnosis",
-    "metric": "TVL",
+    "metric": "tvl",
     "value": 335560000,
     "timestamp": 1736301600,
     "source": "https://defillama.com/chains"
   },
   {
     "entity": "Linea",
-    "metric": "TVL",
+    "metric": "tvl",
     "value": 320620000,
     "timestamp": 1736301600,
     "source": "https://defillama.com/chains"
   },
   {
     "entity": "BSquared",
-    "metric": "TVL",
+    "metric": "tvl",
     "value": 309010000,
     "timestamp": 1736301600,
     "source": "https://defillama.com/chains"
   },
   {
     "entity": "TON",
-    "metric": "TVL",
+    "metric": "tvl",
     "value": 272270000,
     "timestamp": 1736301600,
     "source": "https://defillama.com/chains"
   },
   {
     "entity": "Near",
-    "metric": "TVL",
+    "metric": "tvl",
     "value": 252560000,
     "timestamp": 1736301600,
     "source": "https://defillama.com/chains"
   },
   {
     "entity": "Starknet",
-    "metric": "TVL",
+    "metric": "tvl",
     "value": 236750000,
     "timestamp": 1736301600,
     "source": "https://defillama.com/chains"

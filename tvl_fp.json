@@ -1,77 +1,77 @@
 [
   {
     "entity": "Arbitrum",
-    "metric": "TVL",
+    "metric": "tvl",
     "value": 9681676288.17,
     "timestamp": 1736215200,
     "source": "https://www.footprint.network/research/chain/chain-ecosystem/layer-2-overview"
   },
   {
     "entity": "Base",
-    "metric": "TVL",
+    "metric": "tvl",
     "value": 63631232181.09,
     "timestamp": 1736215200,
     "source": "https://www.footprint.network/research/chain/chain-ecosystem/layer-2-overview"
   },
   {
     "entity": "Optimism",
-    "metric": "TVL",
+    "metric": "tvl",
     "value": 3862667841.42,
     "timestamp": 1736215200,
     "source": "https://www.footprint.network/research/chain/chain-ecosystem/layer-2-overview"
   },
   {
     "entity": "Starknet",
-    "metric": "TVL",
+    "metric": "tvl",
     "value": 1209064064.99,
     "timestamp": 1736215200,
     "source": "https://www.footprint.network/research/chain/chain-ecosystem/layer-2-overview"
   },
   {
     "entity": "zkSync Era",
-    "metric": "TVL",
+    "metric": "tvl",
     "value": 793964588.2,
     "timestamp": 1736215200,
     "source": "https://www.footprint.network/research/chain/chain-ecosystem/layer-2-overview"
   },
   {
     "entity": "Blast",
-    "metric": "TVL",
+    "metric": "tvl",
     "value": 625581514.0,
     "timestamp": 1736215200,
     "source": "https://www.footprint.network/research/chain/chain-ecosystem/layer-2-overview"
   },
   {
     "entity": "Linea",
-    "metric": "TVL",
+    "metric": "tvl",
     "value": 555423706.91,
     "timestamp": 1736215200,
     "source": "https://www.footprint.network/research/chain/chain-ecosystem/layer-2-overview"
   },
   {
     "entity": "World Chain",
-    "metric": "TVL",
+    "metric": "tvl",
     "value": 496463636.91,
     "timestamp": 1736215200,
     "source": "https://www.footprint.network/research/chain/chain-ecosystem/layer-2-overview"
   },
   {
     "entity": "Scroll",
-    "metric": "TVL",
+    "metric": "tvl",
     "value": 232063689.33,
     "timestamp": 1736215200,
     "source": "https://www.footprint.network/research/chain/chain-ecosystem/layer-2-overview"
   },
   {
     "entity": "Fuel",
-    "metric": "TVL",
+    "metric": "tvl",
     "value": 226807282.59,
     "timestamp": 1736215200,
     "source": "https://www.footprint.network/research/chain/chain-ecosystem/layer-2-overview"
   },
   {
     "entity": "Polygon zkEVM",
-    "metric": "TVL",
+    "metric": "tvl",
     "value": 135151203.01,
     "timestamp": 1736215200,
     "source": "https://www.footprint.network/research/chain/chain-ecosystem/layer-2-overview"
