@@ -99,15 +99,8 @@ class MappingGenerator:
         return name
 
     @staticmethod
-    def infer_mapping(
-        data_sample: Dict[str, Any],
-        entity_identifier: str,
-        timestamp_field: str = "created_at",
-        name_format: MetricNameFormat = MetricNameFormat.SLUG,
-    ) -> Dict[str, Any]:
-        """
-        Dynamically generate mapping rules by analyzing a data sample
-        """
+    def extract_sample_item(data_sample: Dict[str, Any], entity_identifier: str) -> tuple[Dict[str, Any], str]:
+        """Extract a single item from the raw data structure and return with its base path"""
         # Find potential base paths containing arrays with the entity identifier
         base_paths = []
         for path, value in MappingGenerator._traverse_json(data_sample):
@@ -117,9 +110,7 @@ class MappingGenerator:
                     base_paths.append(path)
 
         if not base_paths:
-            available_paths = [
-                p for p, _ in MappingGenerator._traverse_json(data_sample)
-            ]
+            available_paths = [p for p, _ in MappingGenerator._traverse_json(data_sample)]
             raise ValueError(
                 f"Could not find {entity_identifier} in data sample. Available paths: {available_paths}"
             )
@@ -127,15 +118,29 @@ class MappingGenerator:
         # Select the most specific path that contains our entities
         base_path = min(base_paths, key=len) if base_paths else ""
         logger.debug(f"Base Path: {base_path}")
-        # Get a sample entity from the array
+        
+        # Get first item from the array
         sample_array = jsonpath.parse(f"$.{base_path}").find(data_sample)[0].value
         if not sample_array or not isinstance(sample_array, list):
             raise ValueError("No array data found at the specified path")
+            
+        return sample_array[0], base_path
 
-        sample_entity = sample_array[0]
+    @staticmethod
+    def infer_mapping(
+        data_sample: Dict[str, Any],
+        entity_identifier: str,
+        timestamp_field: str = "created_at",
+        name_format: MetricNameFormat = MetricNameFormat.SLUG,
+    ) -> Dict[str, Any]:
+        """
+        Dynamically generate mapping rules by analyzing a data sample
+        """
+        # Extract a single item and its path
+        sample_item, base_path = MappingGenerator.extract_sample_item(data_sample, entity_identifier)
         metrics = []
 
-        for key, value in sample_entity.items():
+        for key, value in sample_item.items():
             if isinstance(value, (int, float)) and key != entity_identifier:
                 metrics.append(
                     {
@@ -295,8 +300,40 @@ def process_data(
 # Example usage:
 if __name__ == "__main__":
     
+    import asyncio
 
-    sample_item_data = {
+    # sample_item_data = {
+    #                 "wallet_address": "abc123",
+    #                 "realized_profit": 150.0,
+    #                 "buy" : 24,
+    #                 "sell" : 30,
+    #                 "last_active" : 1736817888,
+    #                 "realized_profit_1d" : 70879.49853688761,
+    #                 "realized_profit_7d" : 122662.43403346688,
+    #                 "realized_profit_30d" : 191269.16539506766,
+    #                 "pnl_30d" : 0.27870596416424176,
+    #                 "pnl_7d" : 2.2182305885237708,
+    #                 "pnl_1d" : 5.732970927245722,
+    #                 "txs_30d" : 396,
+    #                 "buy_30d" : 191,
+    #                 "sell_30d" : 205,
+    #                 "balance" : 761.744124299,
+    #                 "eth_balance" : 761.744124299,
+    #                 "sol_balance" : 761.744124299,
+    #                 "trx_balance" : 761.744124299,
+    #                 "created_at": "2024-01-02T00:00:00Z",
+    #             }
+     
+    # schema = asyncio.run(generate_metadata_schema(sample_item_data))
+    # logger.debug(f"Schema: {schema}")
+
+    # Process actual data directly
+    actual_data = {
+        "type": "gmgn_wallet_data",
+        "url": "https://gmgn.ai/api/...",
+        "data": {
+            "rank": [
+                {
                     "wallet_address": "abc123",
                     "realized_profit": 150.0,
                     "buy" : 24,
@@ -317,84 +354,88 @@ if __name__ == "__main__":
                     "trx_balance" : 761.744124299,
                     "created_at": "2024-01-02T00:00:00Z",
                 }
-    import asyncio
-    schema = asyncio.run(generate_metadata_schema(sample_item_data))
+            ]
+        },
+    }
+
+    sample_item, _ = MappingGenerator.extract_sample_item(actual_data, "wallet_address")
+    schema = asyncio.run(generate_metadata_schema(sample_item))
     logger.debug(f"Schema: {schema}")
 
 
-    # Initialize registry
-    # registry = ExtractorRegistry()
+    # # Initialize registry
+    registry = ExtractorRegistry()
 
-    # # Process actual data directly
-    # actual_data = {
-    #     "type": "gmgn_wallet_data",
-    #     "url": "https://gmgn.ai/api/...",
-    #     "data": {
-    #         "rank": [
-    #             {
-    #                 "wallet_address": "abc123",
-    #                 "realized_profit": 150.0,
-    #                 "pnl_7d": 75.0,
-    #                 "created_at": "2024-01-02T00:00:00Z",
-    #                 "balance" : 87.33737425
-    #             },
-    #             {
-    #                 "wallet_address": "def456",
-    #                 "realized_profit": 200.0,
-    #                 "pnl_7d": 100.0,
-    #                 "created_at": "2024-01-02T00:00:00Z",
-    #                 "balance" : 17.1
-    #             },
-    #         ]
-    #     },
-    # }
+    # Process actual data directly
+    actual_data = {
+        "type": "gmgn_wallet_data",
+        "url": "https://gmgn.ai/api/...",
+        "data": {
+            "rank": [
+                {
+                    "wallet_address": "abc123",
+                    "realized_profit": 150.0,
+                    "pnl_7d": 75.0,
+                    "created_at": "2024-01-02T00:00:00Z",
+                    "balance" : 87.33737425
+                },
+                {
+                    "wallet_address": "def456",
+                    "realized_profit": 200.0,
+                    "pnl_7d": 100.0,
+                    "created_at": "2024-01-02T00:00:00Z",
+                    "balance" : 17.1
+                },
+            ]
+        },
+    }
 
-    # actual_data = {
-    #     "type": "gmgn_wallet_data",
-    #     "url": "https://gmgn.ai/api/...",
-    #     "data": [
-    #         {
-    #             "wallet_address": "abc123",
-    #             "realized_profit": 150.0,
-    #             "pnl_7d": 75.0,
-    #             "created_at": "2024-01-02T00:00:00Z",
-    #         },
-    #         {
-    #             "wallet_address": "def456",
-    #             "realized_profit": 200.0,
-    #             "pnl_7d": 100.0,
-    #             "created_at": "2024-01-02T00:00:00Z",
-    #         },
-    #     ],
-    # }
+    actual_data = {
+        "type": "gmgn_wallet_data",
+        "url": "https://gmgn.ai/api/...",
+        "data": [
+            {
+                "wallet_address": "abc123",
+                "realized_profit": 150.0,
+                "pnl_7d": 75.0,
+                "created_at": "2024-01-02T00:00:00Z",
+            },
+            {
+                "wallet_address": "def456",
+                "realized_profit": 200.0,
+                "pnl_7d": 100.0,
+                "created_at": "2024-01-02T00:00:00Z",
+            },
+        ],
+    }
 
     # Process the data - it will automatically create the extractor if needed
-    # entity_id = "wallet_address"
-    # results = process_data(actual_data, registry, entity_id)
-    # logger.info(f"Results: {results}")
+    entity_id = "wallet_address"
+    results = process_data(actual_data, registry, entity_id)
+    logger.info(f"Results: {results}")
 
-    # # Example 2: Generic protocol data
-    # actual_data = {
-    #     "type": "defillama_chain_data",
-    #     "url": "https://defillama.com/chains",
-    #     "data": {
-    #         "chains": [
-    #             {
-    #                 "chain": "Ethereum",
-    #                 "tvl": 1000000.0,
-    #                 "volume_24h": 500000.0,
-    #                 "timestamp": "2024-01-02T00:00:00Z",
-    #             },
-    #             {
-    #                 "chain": "Base",
-    #                 "tvl": 300000.0,
-    #                 "volume_24h": 100000.0,
-    #                 "timestamp": "2024-01-02T00:00:00Z",
-    #             },
-    #         ]
-    #     },
-    # }
-    # entity_id = "chain"
-    # timestamp_field = "timestamp"
-    # results = process_data(actual_data, registry, entity_id, timestamp_field)
-    # logger.info(f"Results: {results}")
+    # Example 2: Generic protocol data
+    actual_data = {
+        "type": "defillama_chain_data",
+        "url": "https://defillama.com/chains",
+        "data": {
+            "chains": [
+                {
+                    "chain": "Ethereum",
+                    "tvl": 1000000.0,
+                    "volume_24h": 500000.0,
+                    "timestamp": "2024-01-02T00:00:00Z",
+                },
+                {
+                    "chain": "Base",
+                    "tvl": 300000.0,
+                    "volume_24h": 100000.0,
+                    "timestamp": "2024-01-02T00:00:00Z",
+                },
+            ]
+        },
+    }
+    entity_id = "chain"
+    timestamp_field = "timestamp"
+    results = process_data(actual_data, registry, entity_id, timestamp_field)
+    logger.info(f"Results: {results}")
