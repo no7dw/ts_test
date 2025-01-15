@@ -1,0 +1,14 @@
+[
+    {
+        "source":"defillama",
+        "uri": "file:///Users/dengwei/ts-test/src/data/tvl_defillama.json"
+    },
+    {
+        "source":"footprint analytics",
+        "uri": "file:///Users/dengwei/ts-test/src/data/tvl_fp.json"
+    },
+    {
+        "source":"gmgn.ai",
+        "uri": "file:///Users/dengwei/ts-test/src/data/sol_smart_wallet.json"
+    }
+]

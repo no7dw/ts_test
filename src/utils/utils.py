@@ -30,3 +30,4 @@ def extract_json(s: str, *, model: type[ModelT]) -> ModelT | None:
             return None
 
     return None
+
