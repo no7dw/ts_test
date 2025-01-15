@@ -8,7 +8,7 @@
   },
   {
     "entity": "FgNijtNfGeCNjJnHrHTYiZdHkPWZyuUg1xhzk2HQzRch",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 139.7953944250537,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -22,7 +22,7 @@
   },
   {
     "entity": "9ZKBTsTFqsoKzfpzLrx5ioizmFK5kkdFdva8acUAqo62",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 83.22511319239308,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -36,7 +36,7 @@
   },
   {
     "entity": "EKncgJto5TVhYwL1GwKG5349a6boQijfr8HfMP5E5Jdp",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 43.26369175978476,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -50,7 +50,7 @@
   },
   {
     "entity": "A4sBWr78Vapxk2ig8VUpGEGRxcNL2acs57rTrmWf9Mse",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 31.302792288808092,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -64,7 +64,7 @@
   },
   {
     "entity": "3jcyme1UWnEccoF5KWtL6WcydthfTtbPCjAMmVXCPUKX",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 26.71683823007214,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -78,7 +78,7 @@
   },
   {
     "entity": "2YHNuhz9zYhPNT8fhnGwjSoxHrVHkLQE7C2XtEj81b5y",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 25.970041879817412,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -92,7 +92,7 @@
   },
   {
     "entity": "CcaCLDnsvVSox3xNZu5VgyAvmnJfa4pCvDggLuMAYio2",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 8.921701563928671,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -106,7 +106,7 @@
   },
   {
     "entity": "6cGVA7qNiBq2V88yCWFMECxtURbNLCHzmk598H2tWFvN",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 8.672386857997468,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -120,7 +120,7 @@
   },
   {
     "entity": "EiwBpX9dJiKAvZTnL1jSYrGrsL7MZHxYL7McRwp5bNvw",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 7.294262807614246,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -134,7 +134,7 @@
   },
   {
     "entity": "3PWiUH1iZRFUggYFGW5qGcskqp4JZsZxneWBJi5iSijL",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 4.393900703335899,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -148,7 +148,7 @@
   },
   {
     "entity": "DQhtyN8w1jjjfE7cj4iCSoGJYiBRzNaPvaw857fgehgp",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 4.369157419474876,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -162,7 +162,7 @@
   },
   {
     "entity": "5xu8bc6NBCEEm2oJfT5miNkAjdzFs6PRgyTrS5PtvFEL",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 3.6597403279934073,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -176,7 +176,7 @@
   },
   {
     "entity": "7YMsqyNvMPwJswzCpDufUJnLjQTX5iB97ejemY5mYXMX",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 3.414290177213692,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -190,7 +190,7 @@
   },
   {
     "entity": "EEcsFs53wjc3WqMBkJZPwFuQAViq5MjFqjoPzyKhaWfM",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 3.287096741389493,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -204,7 +204,7 @@
   },
   {
     "entity": "EArjNi7vxETDkzQySBU7hbjTtTwaj87EJeFBrqGHFByq",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 3.1710959357230792,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -218,7 +218,7 @@
   },
   {
     "entity": "7Wdhfq5HbPiCiCQjLLmzcooamN2gYwU4SN8n9wghszGc",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 2.895552266911357,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -232,7 +232,7 @@
   },
   {
     "entity": "7gPvY4b6Nco6fz8g8nUABawBx4xRnrvaNQiQ71Qsw7xJ",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 2.7391470416496433,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -246,7 +246,7 @@
   },
   {
     "entity": "F3EwMJKHxKfGoxy689Xuwnt9NnPcSnZFbQb6qmPgbvKx",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 2.716314309508148,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -260,7 +260,7 @@
   },
   {
     "entity": "AeVDMT5xi2ydHqNbshvnTmL4v3f71VLfVhvFULz9csS4",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 2.4984311553819993,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -274,7 +274,7 @@
   },
   {
     "entity": "3k2KDCZXEusrBx76Ka9oHbsC619RBK9paUFgb9VEFFHM",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 2.3230276712080835,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -288,7 +288,7 @@
   },
   {
     "entity": "HpBneyLLKwncJDek4zfzX8QTfFKBdmw5iUij9XiWDed6",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 2.2331979560966544,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -302,7 +302,7 @@
   },
   {
     "entity": "28NzvhFKr9Rxrezipi5RPA7RA5KzNdDqvKToLTbamxon",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 2.152697700135984,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -316,7 +316,7 @@
   },
   {
     "entity": "DDpy9UrE7wPHu6tiHLyxVBpb2i2sbvd8Edh8KLwytrEH",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 2.0273634791192467,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -330,7 +330,7 @@
   },
   {
     "entity": "BjRg2dik5HjCgYweeetL6XK1WujFvNLPxN7j6wozhiFA",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.8941984369017613,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -344,7 +344,7 @@
   },
   {
     "entity": "HHqJYRCWETTVUDxheV2jh3HTKgCrGTpDFhawKunsem8A",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.8672613011576247,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -358,7 +358,7 @@
   },
   {
     "entity": "68N28ivs6y5Rpd5xPEdK8FQi4vTzjnmKSRftq1qUb6LW",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.8129371255831084,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -372,7 +372,7 @@
   },
   {
     "entity": "F3xS8FSLjM6j15XfWynwLRhv6ihyqjV4V1FDHHNZSww7",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.67915379531023,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -386,7 +386,7 @@
   },
   {
     "entity": "695YWrLAcPAS6oaigQK8qzUNxbvx4iswiPyRVQ65qDTG",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.6074047989233258,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -400,7 +400,7 @@
   },
   {
     "entity": "C1qNuwm3WC6CguWBdmS8yaZgw5nEx23JybJFCipGzfzW",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.5882228737666073,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -414,7 +414,7 @@
   },
   {
     "entity": "22KQUKECS3yF6crwQ8uJBiQFmzvCQmwb1iWfnK9jSfNT",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.5603095645168836,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -428,7 +428,7 @@
   },
   {
     "entity": "Bx36SW4JCHtr69Dvy9Jr27mUb37EgcpSMKzyi3h39qDd",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.4406738606089258,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -442,7 +442,7 @@
   },
   {
     "entity": "2BykKcAeHmZ5vKmeoEDRmwAcEMnjJaR2MDdRbTFeRfz6",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.3641137373033945,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -456,7 +456,7 @@
   },
   {
     "entity": "FUBxAZPWFECh2rtE5muPZGRsojAX49E1b6MycMfs9y75",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.3504955720083263,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -470,7 +470,7 @@
   },
   {
     "entity": "HGXfu3MRTyUgcJTwR63onouDpVrMUCghUNghapCfuz1h",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.3390832736258274,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -484,7 +484,7 @@
   },
   {
     "entity": "CKtwbaSyxSjEjjjYFWWns7Ko96JR8LMkmhSgxay9BqzP",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.2916942826801918,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -498,7 +498,7 @@
   },
   {
     "entity": "re4eqokpVZRka9V5BDMCix3rtjiRgh25HBbf6kFmHLQ",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.189431959733125,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -512,7 +512,7 @@
   },
   {
     "entity": "8zWu722fJj7JcCDUVc5zU1MBkK2brNAVdeFg28QRGvtj",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.1726298482892181,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -526,7 +526,7 @@
   },
   {
     "entity": "5w9DWvwQQMKMpMuzgMKHNz5nW7mmekB5sUXMHATz7Wcf",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.120503517855104,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -540,7 +540,7 @@
   },
   {
     "entity": "13yeLhhxhij2VN2TqFqStLeT5mHAnj8y9zPTJgkG4UkP",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.117073582785189,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -554,7 +554,7 @@
   },
   {
     "entity": "DA25JE52kSLbRt8m8aqAN1WJ7F6Cf9AMDxiBV4WuXqj5",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.1071021561639698,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -568,7 +568,7 @@
   },
   {
     "entity": "2KbUQXh5AHdpUNKoB4RtZR57raxgULrxXJpii6AegUCV",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.0687310896951703,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -582,7 +582,7 @@
   },
   {
     "entity": "4hMQWrxkPuV4Qj129bsRyhVNfsiQ1Dx7kSgUsB9dKZa1",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.054523714479441,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -596,7 +596,7 @@
   },
   {
     "entity": "GrA6abRuUzDYGUaxrGUcnNj2KWRR55449GWXD4GCpc9M",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.0127875510509554,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -610,7 +610,7 @@
   },
   {
     "entity": "48ZgZoByHhiS7qx2aggWYXvTRAngDQeqJffgGv1yy6PX",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.0015443710804577,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -624,7 +624,7 @@
   },
   {
     "entity": "J1tVEm7AFF3PV4cBtXcTSSoY7DAYsdasEupqihhCACn5",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.9456369831019364,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -638,7 +638,7 @@
   },
   {
     "entity": "H6hCSVHxXJEys1T5jn97cJoHqtqA3azAttK2gBbkf7oU",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.9348818349056817,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -652,7 +652,7 @@
   },
   {
     "entity": "Bqm7sAqsg45GNAU56V521gBsEph1qqXgUT8CeewyyJsU",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.8734838756963266,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -666,7 +666,7 @@
   },
   {
     "entity": "BgN9uRgdoE6bZ9qcq33DGm5fYoXkiNtfEZnpkUmQrZ1P",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.8625198706573561,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -680,7 +680,7 @@
   },
   {
     "entity": "C3gktdpnJPSgctPEatwYJKFC8ZAmgU32tjSTqM672Mb9",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.8597853786782359,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -694,7 +694,7 @@
   },
   {
     "entity": "12F9jcGA8hV2SYjvDLMKPoVP13AxBCbukbHgKKDU2EP9",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.8511701606510979,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -708,7 +708,7 @@
   },
   {
     "entity": "5bbzVf9eVE19bqfbKCcMbdKDSmgapXqDFgzENzZw5Cjt",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.8149456175212659,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -722,7 +722,7 @@
   },
   {
     "entity": "YyjbtUtriWMkwwyJAGzMzMQPpB7Ei1XgQrhLtt1CkEC",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.8034395759486248,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -736,7 +736,7 @@
   },
   {
     "entity": "6E1m7EQTtBVma1YaeHY8haq6bPdASnTTE7956DQLm91n",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.7886559232777349,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -750,7 +750,7 @@
   },
   {
     "entity": "H9yxpcXFkPMXqxLhnP7YZstZ4n8HRbJYm3rAr47tYadU",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.7722884495676078,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -764,7 +764,7 @@
   },
   {
     "entity": "fpmegFr8xM7KyHyT1Uz1T5qR8LdzUHWX1uRUEUdqEAo",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.7595180100994601,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -778,7 +778,7 @@
   },
   {
     "entity": "2qd8duhTbvMHXoNsdT3wSd9WooXq9rodtuscZXQbVkiv",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.7504876474830156,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -792,7 +792,7 @@
   },
   {
     "entity": "FJ5HfLs2J672VX78hJs3nnoYypSEoot5hHoaWY3pRnQr",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.7289335074024749,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -806,7 +806,7 @@
   },
   {
     "entity": "FLtWkp7F7jgnyhzfBE4R7NwWKPUr6Ki1pyjsu8RCzULS",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.7205752582246064,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -820,7 +820,7 @@
   },
   {
     "entity": "2AVKQ8hzdksMxwQxHzhomHwVFVRaFey2fdAx8nTMG1AA",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.706975484779593,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -834,7 +834,7 @@
   },
   {
     "entity": "EWXFKF3Nnpm4e9o2Ywn3vue1dPjMSsW2uiYQ9kXZGW9V",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.6864077582724858,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -848,7 +848,7 @@
   },
   {
     "entity": "HZxXtBz8gCy1NhUgujFm336xtFTZa7CYZV1LeaNWwDAn",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.6801671529937557,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -862,7 +862,7 @@
   },
   {
     "entity": "C8Y19seayyRw4Nq62LfYbZdkHSUbpcnaHE88o16Ewmqj",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.6723886545104536,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -876,7 +876,7 @@
   },
   {
     "entity": "CDRP1XiF7aDApduNNC9xQUidyVCpPNJDVjdedmadN8CT",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.6688536067644765,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -890,7 +890,7 @@
   },
   {
     "entity": "8bTH65rZunQdfrh5fpPjFzWUNaze83F3coSb2LQtUMp5",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.6249508956802232,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -904,7 +904,7 @@
   },
   {
     "entity": "AYtCDgjAaup1Gv3xhvA2xLtr9kjhQPvwpRg2Sk9tKMB5",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.6229158561718445,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -918,7 +918,7 @@
   },
   {
     "entity": "BAaNiEqedUEKHAtc1tYxoctbPUHjJPqxEJur2fQDWzH",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.5998257847178411,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -932,7 +932,7 @@
   },
   {
     "entity": "E3VkeC4owBkQR9XXiKuqTbNUH6S1TcyCKaFvzaZ3WxDW",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.5793443156059656,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -946,7 +946,7 @@
   },
   {
     "entity": "7xq5CvArNbnPwNzSq2SD3Ugr8Wv6Em9fKC3Eo4ers7gV",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.5663600246129834,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -960,7 +960,7 @@
   },
   {
     "entity": "GrU9QwKTU48bggYYYq3nYno1D6Wna13UYQjPYzdGqjxW",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.5598577423748636,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -974,7 +974,7 @@
   },
   {
     "entity": "Fk9AUXhoMmeU9CysdwkfFEYLooVRaUqtkQzada4URgiz",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.5347903814308238,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -988,7 +988,7 @@
   },
   {
     "entity": "8wDMnckdjsbLmBcohxpeS4QwTgtLwiWZQWeHhdNaEG5z",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.5304347800458854,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -1002,7 +1002,7 @@
   },
   {
     "entity": "AKdzFMaHTRt2wp6wxJwiCNrY1A8DnDPymzmvw7gkVTGT",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.5297887617429546,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -1016,7 +1016,7 @@
   },
   {
     "entity": "D47XbhupYkEmC3bKrSVHR6Vr3Yw9oeusUydvFBn9nEAr",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.5158259853620398,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -1030,7 +1030,7 @@
   },
   {
     "entity": "2tNtqHWQoCjjU7iQYp5V2Q7ATbpcq9w6Jf5WP7xtPmBS",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.5144789548998487,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -1044,7 +1044,7 @@
   },
   {
     "entity": "2xirTqVydhSZGQr678y4xCWRdhJvZDpG78JbrMkgizgH",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.5107607838636379,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -1058,7 +1058,7 @@
   },
   {
     "entity": "JU221jpXEbNzvob7GGrf1xGRaBYd9NeDjapETPdD9Xx",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.5067769470747114,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -1072,7 +1072,7 @@
   },
   {
     "entity": "FUbS9rXG668AYhGyiKrGFWzc4QG6HKgrUvSuWPuLDeK6",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.49811848854353324,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -1086,7 +1086,7 @@
   },
   {
     "entity": "BAZNfYqmFxTWhHHVSP7My8BAvnTiNHsuLyzqdGdn6itN",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.48758946176289264,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -1100,7 +1100,7 @@
   },
   {
     "entity": "4JJjRQAdaKfVEGXtdDtkzdV16vxWwSEyJrTwauqhSxB5",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.4748863111585372,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -1114,7 +1114,7 @@
   },
   {
     "entity": "6ZYGTcUHziYxAXSpjnbuuaZ62sCtCDVmpLsM9cLcXjv9",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.4711059581443375,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -1128,7 +1128,7 @@
   },
   {
     "entity": "ENbuCQZSW492hj4y3CktdHLkeeaiq3YkkCnN7icQrTYt",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.4613985505542125,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -1142,7 +1142,7 @@
   },
   {
     "entity": "9XGi41pBkM7RZKDeMz8SrFaUMxpw76kB7A1W2X3NNe7B",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.4478113813686483,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -1156,7 +1156,7 @@
   },
   {
     "entity": "8sVrR9A6tDvGhrKPrvZincLp9uapN95m6h1YLirr5uYB",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.4469644573552173,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -1170,7 +1170,7 @@
   },
   {
     "entity": "J6rxgM8CoaC4wmojKHqFPwu1zttEZLbUrpYoXqdgNAac",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.43420039613842254,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -1184,7 +1184,7 @@
   },
   {
     "entity": "DQHQGMR2SaaKPv6chhKoFVX1ixDqDsSAVpSEExhS8fPW",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.43032701767733517,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -1198,7 +1198,7 @@
   },
   {
     "entity": "EXhCTbqk5xMGWapVZ9mQedXVfJgwTqAYJjgxWV7BPSmm",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.42909622487762356,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -1212,7 +1212,7 @@
   },
   {
     "entity": "3PnS6pARAN26taPmarnzbN8ZvqJHkLD3YK4AB6CxzW1h",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.41556613055310276,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -1226,7 +1226,7 @@
   },
   {
     "entity": "CvmnkCYPofEo34Gh16626f9U7VvuVjUAjzduDih3je1k",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.4082558665553962,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -1240,7 +1240,7 @@
   },
   {
     "entity": "FDj5dEqQZLedaEQARypkCtndaeV6wQsdaXyveTA9icje",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.3964129605903246,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -1254,7 +1254,7 @@
   },
   {
     "entity": "Ebkmsxa5fuDbVhJTNfhjXcNSQ4dFUfTKhJUahe3Mq3Pt",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.3877460787846693,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -1268,7 +1268,7 @@
   },
   {
     "entity": "C2AhcdzK9BMKfYzsu7JTZa5FtrBvjx8AbcBLZnwxKyWn",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.37814156463458487,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -1282,7 +1282,7 @@
   },
   {
     "entity": "FduMq1AWQBPoVfyeQVrM4vJE9opQpB5GLSdfWoaKyXv1",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.3703853611968083,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -1296,7 +1296,7 @@
   },
   {
     "entity": "4Cpv1npH2pwr5Gk96tLFJSMmmNCq7EDZ2rRsraVEyUdd",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.3693165178537771,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -1310,7 +1310,7 @@
   },
   {
     "entity": "7SCJGRYx5GQbQV28pB4sAPmDESfZfgdaSGhExWBaj5PT",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.36694347681921796,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -1324,7 +1324,7 @@
   },
   {
     "entity": "BFVJDiKg9Ptt1FJe8vK6w9K43A2wpYNQ44GDaJL7UA1R",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.35718669608249304,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -1338,7 +1338,7 @@
   },
   {
     "entity": "5BDoxksPjzpczgAAbdzdgBcFfywUwh3joLnettjiyenU",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.3568501385287858,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -1352,7 +1352,7 @@
   },
   {
     "entity": "CLhaKfnmFenvq6AAaY34udCyYTKBY3YYxbB1hBsqQSgE",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.35394873453354614,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -1366,7 +1366,7 @@
   },
   {
     "entity": "4VQVHU3SxSav6hSQAa4KWAZbwwF7VKgJw8AdEpsoX5KT",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.35390497149619987,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -1380,7 +1380,7 @@
   },
   {
     "entity": "5555zbhykpkN9DvxHxqWpC9ueCw9U1HkmzcrfdZFgtAF",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.35161313243369885,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -1394,7 +1394,7 @@
   },
   {
     "entity": "FRe53vNNaag8gKLfLzv7mTZ28ekGskgbyT1i3m8RTyvN",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.3473565722927518,
     "timestamp": 1736236829,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -1408,7 +1408,7 @@
   },
   {
     "entity": "FgNijtNfGeCNjJnHrHTYiZdHkPWZyuUg1xhzk2HQzRch",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 139.7953944250537,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -1422,7 +1422,7 @@
   },
   {
     "entity": "9ZKBTsTFqsoKzfpzLrx5ioizmFK5kkdFdva8acUAqo62",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 83.22511319239308,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -1436,7 +1436,7 @@
   },
   {
     "entity": "3uXtovQppUMUiEyZyawT4KXTs1saFWjFirxZbfe8ygk6",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 55.81017841714093,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -1450,7 +1450,7 @@
   },
   {
     "entity": "EKncgJto5TVhYwL1GwKG5349a6boQijfr8HfMP5E5Jdp",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 43.26369175978476,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -1464,7 +1464,7 @@
   },
   {
     "entity": "A4sBWr78Vapxk2ig8VUpGEGRxcNL2acs57rTrmWf9Mse",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 31.302792288808092,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -1478,7 +1478,7 @@
   },
   {
     "entity": "3jcyme1UWnEccoF5KWtL6WcydthfTtbPCjAMmVXCPUKX",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 26.71683823007214,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -1492,7 +1492,7 @@
   },
   {
     "entity": "2YHNuhz9zYhPNT8fhnGwjSoxHrVHkLQE7C2XtEj81b5y",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 25.970041879817412,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -1506,7 +1506,7 @@
   },
   {
     "entity": "7jgYhKgDz4XXnqV645Y8sHPorx1Tft9z3wat9u38z21Y",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 9.733693565305702,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -1520,7 +1520,7 @@
   },
   {
     "entity": "CcaCLDnsvVSox3xNZu5VgyAvmnJfa4pCvDggLuMAYio2",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 8.921701563928671,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -1534,7 +1534,7 @@
   },
   {
     "entity": "6cGVA7qNiBq2V88yCWFMECxtURbNLCHzmk598H2tWFvN",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 8.672386857997468,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -1548,7 +1548,7 @@
   },
   {
     "entity": "EiwBpX9dJiKAvZTnL1jSYrGrsL7MZHxYL7McRwp5bNvw",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 7.294262807614246,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -1562,7 +1562,7 @@
   },
   {
     "entity": "B2GjVV7h4VyCEguijGiR3rqAAYrxGSUqn32AZabHue53",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 6.678323731459443,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -1576,7 +1576,7 @@
   },
   {
     "entity": "7nfFzE1Ci5KniCJiPeWo1rWvSpv26JGibSYy775LEnKx",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 5.601242450163853,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -1590,7 +1590,7 @@
   },
   {
     "entity": "EFE9mJz2GkSvhpqRXsSpwk1AEuUSCqtANFNgYPDdhdFr",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 5.1412612632499375,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -1604,7 +1604,7 @@
   },
   {
     "entity": "3PWiUH1iZRFUggYFGW5qGcskqp4JZsZxneWBJi5iSijL",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 4.393900703335899,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -1618,7 +1618,7 @@
   },
   {
     "entity": "DQhtyN8w1jjjfE7cj4iCSoGJYiBRzNaPvaw857fgehgp",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 4.369157419474876,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -1632,7 +1632,7 @@
   },
   {
     "entity": "5xu8bc6NBCEEm2oJfT5miNkAjdzFs6PRgyTrS5PtvFEL",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 3.6597403279934073,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -1646,7 +1646,7 @@
   },
   {
     "entity": "G5RgJggex3zT15t8LLL9nBVUaUkC256fVYbSgF8SkkHG",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 3.656428411716426,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -1660,7 +1660,7 @@
   },
   {
     "entity": "7YMsqyNvMPwJswzCpDufUJnLjQTX5iB97ejemY5mYXMX",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 3.414290177213692,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -1674,7 +1674,7 @@
   },
   {
     "entity": "4HkkhVMDNPE1YRBUNdpEa8TtVMK5vLHButcwxaw3pXS2",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 3.3952121600366305,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -1688,7 +1688,7 @@
   },
   {
     "entity": "EEcsFs53wjc3WqMBkJZPwFuQAViq5MjFqjoPzyKhaWfM",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 3.287096741389493,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -1702,7 +1702,7 @@
   },
   {
     "entity": "EArjNi7vxETDkzQySBU7hbjTtTwaj87EJeFBrqGHFByq",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 3.1710959357230792,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -1716,7 +1716,7 @@
   },
   {
     "entity": "E2SRcmvvX71efevxnYJTcW9oggnprz7Xk2aSj3DV558L",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 3.024097518118446,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -1730,7 +1730,7 @@
   },
   {
     "entity": "E2E1Wy3M668TJdevoCjsWmYoWS8k9Ey7L8niJ5C7f7Ux",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 2.9482885439977067,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -1744,7 +1744,7 @@
   },
   {
     "entity": "F7MJy5xhx6bFnaeK9eMLHzUmNKmf9rLsr7JUsV1wnEFj",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 2.941104497124506,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -1758,7 +1758,7 @@
   },
   {
     "entity": "7Wdhfq5HbPiCiCQjLLmzcooamN2gYwU4SN8n9wghszGc",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 2.895552266911357,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -1772,7 +1772,7 @@
   },
   {
     "entity": "7gPvY4b6Nco6fz8g8nUABawBx4xRnrvaNQiQ71Qsw7xJ",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 2.7391470416496433,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -1786,7 +1786,7 @@
   },
   {
     "entity": "F3EwMJKHxKfGoxy689Xuwnt9NnPcSnZFbQb6qmPgbvKx",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 2.716314309508148,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -1800,7 +1800,7 @@
   },
   {
     "entity": "iqBywFjC58YXao8tAsiEs14UxbcspJ7fU7jzng59fvD",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 2.5378541036712465,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -1814,7 +1814,7 @@
   },
   {
     "entity": "AeVDMT5xi2ydHqNbshvnTmL4v3f71VLfVhvFULz9csS4",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 2.4984311553819993,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -1828,7 +1828,7 @@
   },
   {
     "entity": "3k2KDCZXEusrBx76Ka9oHbsC619RBK9paUFgb9VEFFHM",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 2.3230276712080835,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -1842,7 +1842,7 @@
   },
   {
     "entity": "HpBneyLLKwncJDek4zfzX8QTfFKBdmw5iUij9XiWDed6",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 2.2331979560966544,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -1856,7 +1856,7 @@
   },
   {
     "entity": "28NzvhFKr9Rxrezipi5RPA7RA5KzNdDqvKToLTbamxon",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 2.152697700135984,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -1870,7 +1870,7 @@
   },
   {
     "entity": "53Rrz9HLiWnM1q3wNP2g86DHLP5HT8cLG3vjDEWPupVK",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 2.044364412246126,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -1884,7 +1884,7 @@
   },
   {
     "entity": "DDpy9UrE7wPHu6tiHLyxVBpb2i2sbvd8Edh8KLwytrEH",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 2.0273634791192467,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -1898,7 +1898,7 @@
   },
   {
     "entity": "A9SUPgTCUsVzqzyeqjpRsxJRGNcEpdSwZRv94quyMK3o",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.9254953317668435,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -1912,7 +1912,7 @@
   },
   {
     "entity": "BjRg2dik5HjCgYweeetL6XK1WujFvNLPxN7j6wozhiFA",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.8941984369017613,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -1926,7 +1926,7 @@
   },
   {
     "entity": "HHqJYRCWETTVUDxheV2jh3HTKgCrGTpDFhawKunsem8A",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.8672613011576247,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -1940,7 +1940,7 @@
   },
   {
     "entity": "ve94tFcRnLnwMGf7e5mUXMyAkzzcS4qkzSKZGsQV4kk",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.8548962501368729,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -1954,7 +1954,7 @@
   },
   {
     "entity": "68N28ivs6y5Rpd5xPEdK8FQi4vTzjnmKSRftq1qUb6LW",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.8129371255831084,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -1968,7 +1968,7 @@
   },
   {
     "entity": "3yaQuMYMakKxoE8wayvMp9dASLZgFCgkvuYG7X1hk7Yh",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.8033636260643509,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -1982,7 +1982,7 @@
   },
   {
     "entity": "GeXAHmmETnizW6af4E2e64ju8mTkLdEQzxUiAjJVo6NZ",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.7602434807773786,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -1996,7 +1996,7 @@
   },
   {
     "entity": "F3xS8FSLjM6j15XfWynwLRhv6ihyqjV4V1FDHHNZSww7",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.67915379531023,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -2010,7 +2010,7 @@
   },
   {
     "entity": "BieeZkdnBAgNYknzo3RH2vku7FcPkFZMZmRJANh2TpW",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.6273584684861013,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -2024,7 +2024,7 @@
   },
   {
     "entity": "695YWrLAcPAS6oaigQK8qzUNxbvx4iswiPyRVQ65qDTG",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.6074047989233258,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -2038,7 +2038,7 @@
   },
   {
     "entity": "C1qNuwm3WC6CguWBdmS8yaZgw5nEx23JybJFCipGzfzW",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.5882228737666073,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -2052,7 +2052,7 @@
   },
   {
     "entity": "22KQUKECS3yF6crwQ8uJBiQFmzvCQmwb1iWfnK9jSfNT",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.5603095645168836,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -2066,7 +2066,7 @@
   },
   {
     "entity": "BMLMtdCRdJewAGaAobevPcZTvVn7H695do22gMjBTKhD",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.510779484223909,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -2080,7 +2080,7 @@
   },
   {
     "entity": "EnFU9XHN2nFrmSUuf6QNFDi2GEPD8YuLDi4onjKuCqzW",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.4508817229963191,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -2094,7 +2094,7 @@
   },
   {
     "entity": "AcYytLx7wojrcRsjrLDQLWgXgcXWhAwtJwzqhAtkd24K",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.4450110378498635,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -2108,7 +2108,7 @@
   },
   {
     "entity": "Bx36SW4JCHtr69Dvy9Jr27mUb37EgcpSMKzyi3h39qDd",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.4406738606089258,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -2122,7 +2122,7 @@
   },
   {
     "entity": "2BykKcAeHmZ5vKmeoEDRmwAcEMnjJaR2MDdRbTFeRfz6",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.3641137373033945,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -2136,7 +2136,7 @@
   },
   {
     "entity": "FUBxAZPWFECh2rtE5muPZGRsojAX49E1b6MycMfs9y75",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.3504955720083263,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -2150,7 +2150,7 @@
   },
   {
     "entity": "Gf9XgdmvNHt8fUTFsWAccNbKeyDXsgJyZN8iFJKg5Pbd",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.344597437273367,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -2164,7 +2164,7 @@
   },
   {
     "entity": "HGXfu3MRTyUgcJTwR63onouDpVrMUCghUNghapCfuz1h",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.3390832736258274,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -2178,7 +2178,7 @@
   },
   {
     "entity": "CKtwbaSyxSjEjjjYFWWns7Ko96JR8LMkmhSgxay9BqzP",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.2916942826801918,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -2192,7 +2192,7 @@
   },
   {
     "entity": "AcDhHHNnveuGTawCJWbJcbhLjHMBr29V4mVJi2fEdF9E",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.2308336245079285,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -2206,7 +2206,7 @@
   },
   {
     "entity": "re4eqokpVZRka9V5BDMCix3rtjiRgh25HBbf6kFmHLQ",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.189431959733125,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -2220,7 +2220,7 @@
   },
   {
     "entity": "8zWu722fJj7JcCDUVc5zU1MBkK2brNAVdeFg28QRGvtj",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.1726298482892181,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -2234,7 +2234,7 @@
   },
   {
     "entity": "5w9DWvwQQMKMpMuzgMKHNz5nW7mmekB5sUXMHATz7Wcf",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.120503517855104,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -2248,7 +2248,7 @@
   },
   {
     "entity": "13yeLhhxhij2VN2TqFqStLeT5mHAnj8y9zPTJgkG4UkP",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.117073582785189,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -2262,7 +2262,7 @@
   },
   {
     "entity": "DA25JE52kSLbRt8m8aqAN1WJ7F6Cf9AMDxiBV4WuXqj5",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.1071021561639698,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -2276,7 +2276,7 @@
   },
   {
     "entity": "BTp4uCeCeWKxT6pzTmqJzzrtyqeTmtF1zr2EtpnZSw7F",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.0749668931221525,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -2290,7 +2290,7 @@
   },
   {
     "entity": "2KbUQXh5AHdpUNKoB4RtZR57raxgULrxXJpii6AegUCV",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.0687310896951703,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -2304,7 +2304,7 @@
   },
   {
     "entity": "zrdWJB8Y7dsuy3DtYHc17k2DXMyJJwCNpaDjhNRP3FG",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.0658383916503578,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -2318,7 +2318,7 @@
   },
   {
     "entity": "4hMQWrxkPuV4Qj129bsRyhVNfsiQ1Dx7kSgUsB9dKZa1",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.054523714479441,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -2332,7 +2332,7 @@
   },
   {
     "entity": "J485YzQjuJPLYoFEYjrjxd7NAoLHTiyUU63JwK7kLxRr",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.0271660864512024,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -2346,7 +2346,7 @@
   },
   {
     "entity": "CJyiZ25kUkZLNjZMDNBgq6zk6FtiewEMgfmhvoKff7kG",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.0151112920761611,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -2360,7 +2360,7 @@
   },
   {
     "entity": "GrA6abRuUzDYGUaxrGUcnNj2KWRR55449GWXD4GCpc9M",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.0127875510509554,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -2374,7 +2374,7 @@
   },
   {
     "entity": "48ZgZoByHhiS7qx2aggWYXvTRAngDQeqJffgGv1yy6PX",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.0015443710804577,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -2388,7 +2388,7 @@
   },
   {
     "entity": "9zpmefaLz7g35GJ6TyD4FW1vFumXBHPYzuxNYAEibLHj",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.9990039994957329,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -2402,7 +2402,7 @@
   },
   {
     "entity": "ASxMiMb1AJGTU4AduPNB2CGqT1TiDqWkLvy7oCUnzw5x",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.9815923232251272,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -2416,7 +2416,7 @@
   },
   {
     "entity": "6MLHUAqSuGcKx2Ad2cf4NSQmvh3wk2re9wksUpRyNDLZ",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.9721226903302395,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -2430,7 +2430,7 @@
   },
   {
     "entity": "E82gkUvyvuHrj6j8E8SmdvQy9BV3xYdAjRJE6eDq94W",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.950231884985301,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -2444,7 +2444,7 @@
   },
   {
     "entity": "J1tVEm7AFF3PV4cBtXcTSSoY7DAYsdasEupqihhCACn5",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.9456369831019364,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -2458,7 +2458,7 @@
   },
   {
     "entity": "H6hCSVHxXJEys1T5jn97cJoHqtqA3azAttK2gBbkf7oU",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.9348818349056817,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -2472,7 +2472,7 @@
   },
   {
     "entity": "ELwogpDn5xqQ9AHoKA7pnctrvUc2djMMVFfn3BCcgecP",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.9323887141590574,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -2486,7 +2486,7 @@
   },
   {
     "entity": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.9244588207225772,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -2500,7 +2500,7 @@
   },
   {
     "entity": "GaT1xTgBKAc3L3LoMPBgqHx6Ko79Jn6VRg8nkYby18iB",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.9217422884810135,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -2514,7 +2514,7 @@
   },
   {
     "entity": "Bqm7sAqsg45GNAU56V521gBsEph1qqXgUT8CeewyyJsU",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.8734838756963266,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -2528,7 +2528,7 @@
   },
   {
     "entity": "9XtNAwgvsRxg7HfqoeKtcAGD1ES4Dj3Ax5g4wFNAUELy",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.8682748097546483,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -2542,7 +2542,7 @@
   },
   {
     "entity": "BgN9uRgdoE6bZ9qcq33DGm5fYoXkiNtfEZnpkUmQrZ1P",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.8625198706573561,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -2556,7 +2556,7 @@
   },
   {
     "entity": "C3gktdpnJPSgctPEatwYJKFC8ZAmgU32tjSTqM672Mb9",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.8597853786782359,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -2570,7 +2570,7 @@
   },
   {
     "entity": "2GzgmwoD2vzfdMdu6KAbqAXGJjXSmbHRPqtiv53d8o3B",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.8576116410852634,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -2584,7 +2584,7 @@
   },
   {
     "entity": "12F9jcGA8hV2SYjvDLMKPoVP13AxBCbukbHgKKDU2EP9",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.8511701606510979,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -2598,7 +2598,7 @@
   },
   {
     "entity": "B37vUa4D6frRG9iCJvFqh4fK52WpKeV93zN6ei7uevhA",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.8420369508129582,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -2612,7 +2612,7 @@
   },
   {
     "entity": "AxWczkAccQfrbb6vEpXut5ZQeBxLQnjTec2C3taZTuJ2",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.8290861122808245,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -2626,7 +2626,7 @@
   },
   {
     "entity": "5bbzVf9eVE19bqfbKCcMbdKDSmgapXqDFgzENzZw5Cjt",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.8149456175212659,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -2640,7 +2640,7 @@
   },
   {
     "entity": "HUpPyLU8KWisCAr3mzWy2FKT6uuxQ2qGgJQxyTpDoes5",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.8069792154535396,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -2654,7 +2654,7 @@
   },
   {
     "entity": "YyjbtUtriWMkwwyJAGzMzMQPpB7Ei1XgQrhLtt1CkEC",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.8034395759486248,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -2668,7 +2668,7 @@
   },
   {
     "entity": "6E1m7EQTtBVma1YaeHY8haq6bPdASnTTE7956DQLm91n",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.7886559232777349,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -2682,7 +2682,7 @@
   },
   {
     "entity": "H9yxpcXFkPMXqxLhnP7YZstZ4n8HRbJYm3rAr47tYadU",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.7722884495676078,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -2696,7 +2696,7 @@
   },
   {
     "entity": "33YELV5diCCBU5ZD9peRysK7c8aiAPgSdwzgyVWXP59g",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.7658927449974534,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -2710,7 +2710,7 @@
   },
   {
     "entity": "2AA2wWAqvzDArw9diZTPBd3K9HMyERXmAvBpE5YxRwxj",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.7620666666949577,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -2724,7 +2724,7 @@
   },
   {
     "entity": "fpmegFr8xM7KyHyT1Uz1T5qR8LdzUHWX1uRUEUdqEAo",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.7595180100994601,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -2738,7 +2738,7 @@
   },
   {
     "entity": "EkczQj5jBB9oLXYy4VwGNdyE15d923wnAQpibX244eqg",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.7590850032512276,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -2752,7 +2752,7 @@
   },
   {
     "entity": "2qd8duhTbvMHXoNsdT3wSd9WooXq9rodtuscZXQbVkiv",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.7504876474830156,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -2766,7 +2766,7 @@
   },
   {
     "entity": "HPZVcGhiyLRTwTHhYJEQVohhFxGDHYFSDrdnra7QvyKm",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.7456850752036899,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -2780,7 +2780,7 @@
   },
   {
     "entity": "mghHFEzMvPXr6E94yBsRHZ7pjLAdr2CwAqqJPnCjMhx",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.7419168472529671,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -2794,7 +2794,7 @@
   },
   {
     "entity": "FJ5HfLs2J672VX78hJs3nnoYypSEoot5hHoaWY3pRnQr",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.7289335074024749,
     "timestamp": 1736236818,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -2808,7 +2808,7 @@
   },
   {
     "entity": "3uXtovQppUMUiEyZyawT4KXTs1saFWjFirxZbfe8ygk6",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 55.81017841714093,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -2822,7 +2822,7 @@
   },
   {
     "entity": "7jgYhKgDz4XXnqV645Y8sHPorx1Tft9z3wat9u38z21Y",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 9.733693565305702,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -2836,7 +2836,7 @@
   },
   {
     "entity": "B2GjVV7h4VyCEguijGiR3rqAAYrxGSUqn32AZabHue53",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 5.839007796789973,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -2850,7 +2850,7 @@
   },
   {
     "entity": "7nfFzE1Ci5KniCJiPeWo1rWvSpv26JGibSYy775LEnKx",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 5.601242450163853,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -2864,7 +2864,7 @@
   },
   {
     "entity": "EFE9mJz2GkSvhpqRXsSpwk1AEuUSCqtANFNgYPDdhdFr",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 5.1412612632499375,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -2878,7 +2878,7 @@
   },
   {
     "entity": "G5RgJggex3zT15t8LLL9nBVUaUkC256fVYbSgF8SkkHG",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 3.656428411716426,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -2892,7 +2892,7 @@
   },
   {
     "entity": "4HkkhVMDNPE1YRBUNdpEa8TtVMK5vLHButcwxaw3pXS2",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 3.3952121600366305,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -2906,7 +2906,7 @@
   },
   {
     "entity": "E2E1Wy3M668TJdevoCjsWmYoWS8k9Ey7L8niJ5C7f7Ux",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 2.9482885439977067,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -2920,7 +2920,7 @@
   },
   {
     "entity": "F7MJy5xhx6bFnaeK9eMLHzUmNKmf9rLsr7JUsV1wnEFj",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 2.941104497124506,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -2934,7 +2934,7 @@
   },
   {
     "entity": "iqBywFjC58YXao8tAsiEs14UxbcspJ7fU7jzng59fvD",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 2.5378541036712465,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -2948,7 +2948,7 @@
   },
   {
     "entity": "53Rrz9HLiWnM1q3wNP2g86DHLP5HT8cLG3vjDEWPupVK",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 2.044364412246126,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -2962,7 +2962,7 @@
   },
   {
     "entity": "A9SUPgTCUsVzqzyeqjpRsxJRGNcEpdSwZRv94quyMK3o",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.9254953317668435,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -2976,7 +2976,7 @@
   },
   {
     "entity": "GeXAHmmETnizW6af4E2e64ju8mTkLdEQzxUiAjJVo6NZ",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.7602434807773786,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -2990,7 +2990,7 @@
   },
   {
     "entity": "BMLMtdCRdJewAGaAobevPcZTvVn7H695do22gMjBTKhD",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.5563958585661617,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -3004,7 +3004,7 @@
   },
   {
     "entity": "EnFU9XHN2nFrmSUuf6QNFDi2GEPD8YuLDi4onjKuCqzW",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.4508817229963191,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -3018,7 +3018,7 @@
   },
   {
     "entity": "AcYytLx7wojrcRsjrLDQLWgXgcXWhAwtJwzqhAtkd24K",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.4450110378498635,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -3032,7 +3032,7 @@
   },
   {
     "entity": "Gf9XgdmvNHt8fUTFsWAccNbKeyDXsgJyZN8iFJKg5Pbd",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.344597437273367,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -3046,7 +3046,7 @@
   },
   {
     "entity": "AcDhHHNnveuGTawCJWbJcbhLjHMBr29V4mVJi2fEdF9E",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.2308336245079285,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -3060,7 +3060,7 @@
   },
   {
     "entity": "BTp4uCeCeWKxT6pzTmqJzzrtyqeTmtF1zr2EtpnZSw7F",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.0749668931221525,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -3074,7 +3074,7 @@
   },
   {
     "entity": "zrdWJB8Y7dsuy3DtYHc17k2DXMyJJwCNpaDjhNRP3FG",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.0658383916503578,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -3088,7 +3088,7 @@
   },
   {
     "entity": "J485YzQjuJPLYoFEYjrjxd7NAoLHTiyUU63JwK7kLxRr",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.0271660864512024,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -3102,7 +3102,7 @@
   },
   {
     "entity": "CJyiZ25kUkZLNjZMDNBgq6zk6FtiewEMgfmhvoKff7kG",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.0151112920761611,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -3116,7 +3116,7 @@
   },
   {
     "entity": "9zpmefaLz7g35GJ6TyD4FW1vFumXBHPYzuxNYAEibLHj",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.9990039994957329,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -3130,7 +3130,7 @@
   },
   {
     "entity": "ASxMiMb1AJGTU4AduPNB2CGqT1TiDqWkLvy7oCUnzw5x",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.9815923232251272,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -3144,7 +3144,7 @@
   },
   {
     "entity": "6MLHUAqSuGcKx2Ad2cf4NSQmvh3wk2re9wksUpRyNDLZ",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.9721226903302395,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -3158,7 +3158,7 @@
   },
   {
     "entity": "E82gkUvyvuHrj6j8E8SmdvQy9BV3xYdAjRJE6eDq94W",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.950231884985301,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -3172,7 +3172,7 @@
   },
   {
     "entity": "ELwogpDn5xqQ9AHoKA7pnctrvUc2djMMVFfn3BCcgecP",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.9323887141590574,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -3186,7 +3186,7 @@
   },
   {
     "entity": "GaT1xTgBKAc3L3LoMPBgqHx6Ko79Jn6VRg8nkYby18iB",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.9217422884810135,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -3200,7 +3200,7 @@
   },
   {
     "entity": "9XtNAwgvsRxg7HfqoeKtcAGD1ES4Dj3Ax5g4wFNAUELy",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.8682748097546483,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -3214,7 +3214,7 @@
   },
   {
     "entity": "2GzgmwoD2vzfdMdu6KAbqAXGJjXSmbHRPqtiv53d8o3B",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.8576116410852634,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -3228,7 +3228,7 @@
   },
   {
     "entity": "B37vUa4D6frRG9iCJvFqh4fK52WpKeV93zN6ei7uevhA",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.8420369508129582,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -3242,7 +3242,7 @@
   },
   {
     "entity": "HUpPyLU8KWisCAr3mzWy2FKT6uuxQ2qGgJQxyTpDoes5",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.8069792154535396,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -3256,7 +3256,7 @@
   },
   {
     "entity": "33YELV5diCCBU5ZD9peRysK7c8aiAPgSdwzgyVWXP59g",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.7658927449974534,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -3270,7 +3270,7 @@
   },
   {
     "entity": "2AA2wWAqvzDArw9diZTPBd3K9HMyERXmAvBpE5YxRwxj",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.7620666666949577,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -3284,7 +3284,7 @@
   },
   {
     "entity": "EkczQj5jBB9oLXYy4VwGNdyE15d923wnAQpibX244eqg",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.7590850032512276,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -3298,7 +3298,7 @@
   },
   {
     "entity": "HPZVcGhiyLRTwTHhYJEQVohhFxGDHYFSDrdnra7QvyKm",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.7456850752036899,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -3312,7 +3312,7 @@
   },
   {
     "entity": "mghHFEzMvPXr6E94yBsRHZ7pjLAdr2CwAqqJPnCjMhx",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.7419168472529671,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -3326,7 +3326,7 @@
   },
   {
     "entity": "7g34jSNJRSdYiRMZAyP8ZkLycVxhayJvTa4vZ1BQ44Kx",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.6948973686888277,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -3340,7 +3340,7 @@
   },
   {
     "entity": "FupEXCvCbaGxmDRgVMfUrH54Wp2QopGGThfmj8ivfiqY",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.6940937237038369,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -3354,7 +3354,7 @@
   },
   {
     "entity": "BPeH6CSLdhMEW9UjoduYtwKHKcPZzYUeQVcWFoLYDkst",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.672378591462442,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -3368,7 +3368,7 @@
   },
   {
     "entity": "71CPXu3TvH3iUKaY1bNkAAow24k6tjH473SsKprQBABC",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.662045542664492,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -3382,7 +3382,7 @@
   },
   {
     "entity": "7uecRmkeTZFDgZFfTjUTvNHENjDjVZzxCGAb9mHNxhp2",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.6613309286093225,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -3396,7 +3396,7 @@
   },
   {
     "entity": "8AKkCeSQgQtiCCyN1AqYrW8479WBvz85R8spuqxZ4Y7X",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.651789318810292,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -3410,7 +3410,7 @@
   },
   {
     "entity": "6qwdLAAkL5Tpi1znpJWLWVecXkKJijaX42KfwgMJKokG",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.6144031373778908,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -3424,7 +3424,7 @@
   },
   {
     "entity": "AnJyd2p8y9kDZUq8tjwaXtG6J9jAvcLWVFXM4cRLwJnJ",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.5853178827567834,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -3438,7 +3438,7 @@
   },
   {
     "entity": "VWhB2S3ZzwSR95esNKsQYe5XdF78pX1vLRCQQ1J2v63",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.5741840745935235,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -3452,7 +3452,7 @@
   },
   {
     "entity": "6AZdRENgZbptqCCDKVSZzjmgPN3KgCSeJsWqnMnZ6QXB",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.5665912342980853,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -3466,7 +3466,7 @@
   },
   {
     "entity": "G1pRtSyKuWSjTqRDcazzKBDzqEF96i1xSURpiXj3yFcc",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.558415942261983,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -3480,7 +3480,7 @@
   },
   {
     "entity": "EeZf8YxMisxMcyX9PHyGa9sdaQR3n3T1hFcMEeZPpPY8",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.5582619177449373,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -3494,7 +3494,7 @@
   },
   {
     "entity": "2RXNPwiiAbeCKvWKoZcznTk5sEhiieE5cWvHyBBL5C8K",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.5412447138006395,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -3508,7 +3508,7 @@
   },
   {
     "entity": "6NEEKdUKdMnQjFXxEAqoYmSk7gdZckStsYo1541P8bRZ",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.5192201308320686,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -3522,7 +3522,7 @@
   },
   {
     "entity": "DCgejkdyFg8MvQjX91WARGU6pLS4ZBu3UQLzvvvawsAt",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.5165930082859572,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -3536,7 +3536,7 @@
   },
   {
     "entity": "ALAXcjHjyhmDBxmi2NVSwT21H2BXiV347XJppF28ScTK",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.512213377708185,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -3550,7 +3550,7 @@
   },
   {
     "entity": "Et8y1eZ4HrkGz7WPzPx9XJtEtSLnPpaPLwLCLa6wyU4o",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.47495827623230835,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -3564,7 +3564,7 @@
   },
   {
     "entity": "6ZKXJ6sfL1h6MPTsisPbCAfWHpTE4XFj7ZxQHuG3kwgs",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.47280063454885807,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -3578,7 +3578,7 @@
   },
   {
     "entity": "HFLnuLwvBXxM4bGn24v6dQuhz6JVU3TKu8JsVLcGdxaV",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.45209508785931946,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -3592,7 +3592,7 @@
   },
   {
     "entity": "9CahSAMkRWnnk28K98AByimtJcpozhw7UNM3JofiRh7v",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.4342850494621349,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -3606,7 +3606,7 @@
   },
   {
     "entity": "GNBZC6f9ncEayX9cRbdVTx693iDsf6JTKSZszzHxC71k",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.43117222327091964,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -3620,7 +3620,7 @@
   },
   {
     "entity": "EZ7fRhBWNcEWwWiVv9ZrAmLiHvG2Waod5vVyX6487nga",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.4279810484023278,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -3634,7 +3634,7 @@
   },
   {
     "entity": "HkyKTERwpjiju2QyHkAX6VXDqCw13uGvX9QL5gL4iuBL",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.4253352507873594,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -3648,7 +3648,7 @@
   },
   {
     "entity": "6BmtuXKoG6ZXMCW5YMALHdSR8VQqEd9F3nVWr7nGm581",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.4123383116368514,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -3662,7 +3662,7 @@
   },
   {
     "entity": "CzJFuW2JAtCkNB4pBNvUJhg9wKwjq2dYx2yK36Wio1ta",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.4066844010164556,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -3676,7 +3676,7 @@
   },
   {
     "entity": "8kRjbk6BV5mPaPKzX29jNwJxVofqJXDXA2VvZpJAaqnW",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.40248671604394476,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -3690,7 +3690,7 @@
   },
   {
     "entity": "93V5ykGu4KChd47d365AT2dQvAM8vTnH9o4ruWZZuqLQ",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.39327667206315475,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -3704,7 +3704,7 @@
   },
   {
     "entity": "AtvnQYaJto2DGu5y583rTNzrFxt9fsz8LWR4piK2MHSz",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.3781307880366484,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -3718,7 +3718,7 @@
   },
   {
     "entity": "5WSWhKdmuYc6zE3TwuQSMcPZm9sY3s926HP42jQCcM5P",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.3768454725877762,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -3732,7 +3732,7 @@
   },
   {
     "entity": "GQva3CGJNAiBxzPYjNaamHeyQ2shnCmPpwp2bbiRW9K",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.35335531175007867,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -3746,7 +3746,7 @@
   },
   {
     "entity": "2Aaou1xuMQvby9h94V4c6uA3QFKzPYGNdUJQmuWoKH8K",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.35324113169690324,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -3760,7 +3760,7 @@
   },
   {
     "entity": "Hu8ZG7v9YkZrW4r3djNUiqymr7g8MBocRMMqADwEpfB5",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.35124781070159267,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -3774,7 +3774,7 @@
   },
   {
     "entity": "5DECDVQWNh5wcnCuUW2Dbaxw9k88mRg4xt9PTUJ6RazJ",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.3348610816857176,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -3788,7 +3788,7 @@
   },
   {
     "entity": "GaxVqiQyJKQDRu6H4pfy9V6Xq19pHGr6HQKDQDv911Y4",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.3277108236151519,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -3802,7 +3802,7 @@
   },
   {
     "entity": "AHU4TaEkhLo3iEF6BhfiSRDVZ5vMJXDF2jbKVWnytTWP",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.31131092238266683,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -3816,7 +3816,7 @@
   },
   {
     "entity": "5Yk21bdzPHZR8Mezx5FgXAd82jFNvYfj7Wb9ncYcNzKP",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.30508167192644864,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -3830,7 +3830,7 @@
   },
   {
     "entity": "D9PT6YReURYTLDpy1UNshFYffaSamYPvUQLRHTsCUkp6",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.303267699289977,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -3844,7 +3844,7 @@
   },
   {
     "entity": "4nNY7SMJoqdBemXKoS9fwbeN4JJ5xzYM9sGExSRKQi7J",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.30080376961797856,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -3858,7 +3858,7 @@
   },
   {
     "entity": "CH6JA5xjWmeSjdn5ECPJyAKtDPgvWfRnBYM5Ye18j5zR",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.27485400466914267,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -3872,7 +3872,7 @@
   },
   {
     "entity": "EfbbhahGNuhqEraRZXrwETfsaKxScngEttdQixWAW4WE",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.273005480946333,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -3886,7 +3886,7 @@
   },
   {
     "entity": "6W9edueauVsZXTD6qrzfDF8cRvW8pbJRDY54uiveWg4E",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.27300480863122367,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -3900,7 +3900,7 @@
   },
   {
     "entity": "HaFUDLCqK6HJKB3QLCGdNuMnN18HYJ1asSUGNsEV2CVP",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.2704654354158772,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -3914,7 +3914,7 @@
   },
   {
     "entity": "6QcM3UNCB7b17Zx2rGPiaaoGychX5RJXnGe9PiRQRF2M",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.2539540805308548,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -3928,7 +3928,7 @@
   },
   {
     "entity": "6G8je2ZvN9fhZuMKvYc9Mu235cEMkgxri8WxfF6qts53",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.25028489945447757,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -3942,7 +3942,7 @@
   },
   {
     "entity": "EMpgYbuFsh9B8pqZjp21MVbbQ4taJKieGn9L3J4US8B3",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.2469692475407519,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -3956,7 +3956,7 @@
   },
   {
     "entity": "6LChaYRYtEYjLEHhzo4HdEmgNwu2aia8CM8VhR9wn6n7",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.243897838328085,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -3970,7 +3970,7 @@
   },
   {
     "entity": "BZJMaZ9AhxqdQkpmpn8Ygdxts7RbF2txHZK7FvGzrq9q",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.24026736070837965,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -3984,7 +3984,7 @@
   },
   {
     "entity": "kmoFo1EKe9UuJyzbPwahtR2xeyyyog5hoNEDjfons8m",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.2401794436800579,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -3998,7 +3998,7 @@
   },
   {
     "entity": "A214HfAtZGoqgUUt9Zr8wgXg5p41nDPWHmW2hAvgBtqT",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.23776315466407025,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -4012,7 +4012,7 @@
   },
   {
     "entity": "6K9LqB5UGPynqnVFawgdkanhTkPTUnCwAsb6m5qBxGmM",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.2364328971427038,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -4026,7 +4026,7 @@
   },
   {
     "entity": "9HCTuTPEiQvkUtLmTZvK6uch4E3pDynwJTbNw6jLhp9z",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.22159589995762416,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -4040,7 +4040,7 @@
   },
   {
     "entity": "73J5UJJCM6f6xgMtQeUxSp17FqRs2tu1HscHC15NeTZU",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.21449965592326573,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -4054,7 +4054,7 @@
   },
   {
     "entity": "HtTSBWivMPcc6TaJ91s8mT3xjsUxbetF5HkgrkfrXqee",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.21286005810469136,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -4068,7 +4068,7 @@
   },
   {
     "entity": "3JF7JjuoWjCSyvjqxWzEShBK33iK5Qz7WqNuM63nKPCH",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.2025813200774289,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -4082,7 +4082,7 @@
   },
   {
     "entity": "7hDYFYF9PVVyEmDUdUzXFt5PCkmm9PrtpP6x9iHrLCHF",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.20125326075128144,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -4096,7 +4096,7 @@
   },
   {
     "entity": "9W69DaLY58ZmLDBuqxVPKRhEWBPD61QQgQ4qH8m6qAJD",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.1993137452978507,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -4110,7 +4110,7 @@
   },
   {
     "entity": "GMXVZKmvg1YtezcxnNx1dLuYzqnTTFBsqssKhf3WW3sQ",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.18729447920914558,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -4124,7 +4124,7 @@
   },
   {
     "entity": "7U9aSfBe2zyYHEcD8UcoUe8HBoQAiXxzwaYQ7V8YDspr",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.18563853134668307,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -4138,7 +4138,7 @@
   },
   {
     "entity": "dxwRXeoSsxzNQmEXcFtCvLq6FrEDnEcBLKrdUyQUeM8",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.18451989808921737,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -4152,7 +4152,7 @@
   },
   {
     "entity": "DexpA8dcqNN9x9tvHw7wBzt43LUnp1cfWebV9t84kFEj",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.1833818035560689,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -4166,7 +4166,7 @@
   },
   {
     "entity": "Dk5VZZB15sNHL8AzZQMK1bf2YvXwxRSHPpbt5TyS4aH9",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.18182941836381544,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -4180,7 +4180,7 @@
   },
   {
     "entity": "9JxVzQbtQmzUq3LNUJSfCQ7mKP7kaTMc3tRfVpsz8bJe",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.18034267390342362,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -4194,7 +4194,7 @@
   },
   {
     "entity": "59QhavaYy1FgZJXFskmnHnWTMNQVKAMUHc9iaCsFvTtL",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.1758798548676133,
     "timestamp": 1736233445,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -4208,7 +4208,7 @@
   },
   {
     "entity": "E2SRcmvvX71efevxnYJTcW9oggnprz7Xk2aSj3DV558L",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 3.024097518118446,
     "timestamp": 1736233431,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -4222,7 +4222,7 @@
   },
   {
     "entity": "ve94tFcRnLnwMGf7e5mUXMyAkzzcS4qkzSKZGsQV4kk",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.8548962501368729,
     "timestamp": 1736233431,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -4236,7 +4236,7 @@
   },
   {
     "entity": "3yaQuMYMakKxoE8wayvMp9dASLZgFCgkvuYG7X1hk7Yh",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.8033636260643509,
     "timestamp": 1736233431,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -4250,7 +4250,7 @@
   },
   {
     "entity": "BieeZkdnBAgNYknzo3RH2vku7FcPkFZMZmRJANh2TpW",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.6273584684861013,
     "timestamp": 1736233431,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -4264,7 +4264,7 @@
   },
   {
     "entity": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.9257283126161308,
     "timestamp": 1736233431,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -4278,7 +4278,7 @@
   },
   {
     "entity": "AxWczkAccQfrbb6vEpXut5ZQeBxLQnjTec2C3taZTuJ2",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.8290861122808245,
     "timestamp": 1736233431,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -4292,7 +4292,7 @@
   },
   {
     "entity": "HXkaN7TAQYXsybY1UHLrn18cVa9jgM3mbReasbAoSjTv",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.6033648280185904,
     "timestamp": 1736233431,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -4306,7 +4306,7 @@
   },
   {
     "entity": "3wi8waD5A64D7PLutUYJdhMcrYvDBTqeh3CRFgv1hFtY",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.5746243550126329,
     "timestamp": 1736233431,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -4320,7 +4320,7 @@
   },
   {
     "entity": "4dAroqRjhybdrkAS1BDHSm1137vc1TNzrhWPPd5i9vbK",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.5140145009631178,
     "timestamp": 1736233431,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -4334,7 +4334,7 @@
   },
   {
     "entity": "CYWHDsprQJZu2e6umFAVCAHRK4z4KJWYNhSGWtTEsBve",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.4594414482136685,
     "timestamp": 1736233431,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -4348,7 +4348,7 @@
   },
   {
     "entity": "5mtbmPwj2SMkxPP9c93s9oD9bmMdByTqepNarM9Y7u7e",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.39521364455494695,
     "timestamp": 1736233431,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -4362,7 +4362,7 @@
   },
   {
     "entity": "45yBcpnzFTqLYQJtjxsa1DdZkgrTYponCg6yLQ6LQPu6",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.3821415640005099,
     "timestamp": 1736233431,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -4376,7 +4376,7 @@
   },
   {
     "entity": "4MUdaCUmiFtK8W95rP248pbB3gc68txBsTR7cbESp7by",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.3591512675225289,
     "timestamp": 1736233431,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -4390,7 +4390,7 @@
   },
   {
     "entity": "7DCYBoCuLWwYaQHhXxv6F6SV5ZAmnuhR1oucNYgVZWLa",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.3387368442663743,
     "timestamp": 1736233431,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -4404,7 +4404,7 @@
   },
   {
     "entity": "4t9bWuZsXXKGMgmd96nFD4KWxyPNTsPm4q9jEMH4jD2i",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.3382906265646128,
     "timestamp": 1736233431,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -4418,7 +4418,7 @@
   },
   {
     "entity": "Hnnw2hAgPgGiFKouRWvM3fSk3HnYgRv4Xq1PjUEBEuWM",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.3305619339991503,
     "timestamp": 1736233431,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -4432,7 +4432,7 @@
   },
   {
     "entity": "52dq6ajenMwfVz5FYuPKKRzzjkW83Aa85X5xJgFHX7U1",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.31106366340957775,
     "timestamp": 1736233431,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -4446,7 +4446,7 @@
   },
   {
     "entity": "dVs7zZksjFuq73xbtUC62brFXYYuxCuPSG4wZeGiHck",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.30644046055564866,
     "timestamp": 1736233431,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -4460,7 +4460,7 @@
   },
   {
     "entity": "TQ9HZH6Qm7jA2AUcnrodqhvbKVBq9aE9zYznd5XGrpb",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.3010798257490831,
     "timestamp": 1736233431,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -4474,7 +4474,7 @@
   },
   {
     "entity": "9qkw1M8VmFAqZvvsyXromDx4voFfHrsE1Gzmws9PY9At",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.2728053795875425,
     "timestamp": 1736233431,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -4488,7 +4488,7 @@
   },
   {
     "entity": "EDozia8CitSkQCnpXu3ekLJCoiLvPUWWLgiRTKiES2j2",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.254063055740742,
     "timestamp": 1736233431,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -4502,7 +4502,7 @@
   },
   {
     "entity": "DZGGYbZovLfWZuvLGDLZtKK82mno3BKpfyYw22ZEb8mp",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.24872770105296121,
     "timestamp": 1736233431,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -4516,7 +4516,7 @@
   },
   {
     "entity": "CWvdyvKHEu8Z6QqGraJT3sLPyp9bJfFhoXcxUYRKC8ou",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.23364377950701085,
     "timestamp": 1736233431,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -4530,7 +4530,7 @@
   },
   {
     "entity": "6Ghj4rQoEFpTuHbVEf1uVPJXVqLsujaV3rGt7Nigioaz",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.21709155980739653,
     "timestamp": 1736233431,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -4544,7 +4544,7 @@
   },
   {
     "entity": "BLGq1MYT5NcBCufn9aGxyTtCLwGtmK4PVHERq5y2fEVr",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.21557243559270842,
     "timestamp": 1736233431,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -4558,7 +4558,7 @@
   },
   {
     "entity": "HXkP2HJ3436u1urLnLsupqjtX1647bA2TtcHNWiDt49U",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.21381282981790403,
     "timestamp": 1736233431,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -4572,7 +4572,7 @@
   },
   {
     "entity": "4ZNV1X2g2ssSrrqmBQXA7JHpesGxSrBHsCFtESB1FdtM",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.2115509337089196,
     "timestamp": 1736233431,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -4586,7 +4586,7 @@
   },
   {
     "entity": "2byqB8Pypvq6s8W126yJc9SxToTiWTfNFuDU3ZTq9CLT",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.17834709049478992,
     "timestamp": 1736233431,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -4600,7 +4600,7 @@
   },
   {
     "entity": "7A4x4kL8LZgKyNb8deE9xM5wH7jhLLFPJJatZqtfAjGr",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.16326780403851007,
     "timestamp": 1736233431,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -4614,7 +4614,7 @@
   },
   {
     "entity": "J865X6P4QDE7xp5JmkuPhyeRHZqddnVKR9pZiAJtZEAm",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.14079559981948392,
     "timestamp": 1736233431,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -4628,7 +4628,7 @@
   },
   {
     "entity": "83dPZUCbNX79wJZ1recLtjidddsFZtcHDZFNcUmiuV32",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.13931336107733752,
     "timestamp": 1736233431,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -4642,7 +4642,7 @@
   },
   {
     "entity": "CHxhvTpZXATdKFdugnwpisj3TbNfjXeNCVKNEeYrbQRB",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.13253033320259328,
     "timestamp": 1736233431,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -4656,7 +4656,7 @@
   },
   {
     "entity": "3NhYE8MHohyFBvwGjoUwQ5cxX5856sxYZcvQqdZPxVq9",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.12833479757721977,
     "timestamp": 1736233431,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -4670,7 +4670,7 @@
   },
   {
     "entity": "2Pm4gSsDzJwYeEuDtKgE8vEfW1Uhg1kq7FNz7GsE18F7",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.1259282839473318,
     "timestamp": 1736233431,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -4684,7 +4684,7 @@
   },
   {
     "entity": "EHRAzDzsqX53AfysF68CwV3XjH46QH2iteZiByvxSbPM",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.12004861857884086,
     "timestamp": 1736233431,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -4698,7 +4698,7 @@
   },
   {
     "entity": "2JMC8J5ypBULTpPQ9i7G4tbXrAEQGvRn7UJ4CNkJ6rLF",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.1160198643832694,
     "timestamp": 1736233431,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -4712,7 +4712,7 @@
   },
   {
     "entity": "3zME3DRRKxWZTD5mCdSKDu7xSAMqvxfTFwJp5CpqmTn7",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.11072802095034745,
     "timestamp": 1736233431,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -4726,7 +4726,7 @@
   },
   {
     "entity": "28iiy9ag6hXVQzoFLz8rt3cCfCk33sf7MD6r1MVDfZyN",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.11010653765507944,
     "timestamp": 1736233431,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -4740,7 +4740,7 @@
   },
   {
     "entity": "6ZC2Vb5RxNswQYnuWh9T6SvcmgKfCn4KhXMkzv9friKF",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.09888715285549339,
     "timestamp": 1736233431,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -4754,7 +4754,7 @@
   },
   {
     "entity": "9hy2BKD9yf5H6HWR4Vr8xnsNdvnYrZEjqx3H7vp4gbGe",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.08320716095223304,
     "timestamp": 1736233431,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -4768,7 +4768,7 @@
   },
   {
     "entity": "37KGftRzq24e8oKjxJ4kYNPwC4yv1YJYBcyxsXRDcetu",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.08280302994805593,
     "timestamp": 1736233431,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -4782,7 +4782,7 @@
   },
   {
     "entity": "4DdrfiDHpmx55i4SPssxVzS9ZaKLb8qr45NKY9Er9nNh",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.07829595474106117,
     "timestamp": 1736233431,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -4796,7 +4796,7 @@
   },
   {
     "entity": "BWAXnnyi5MDsLoQGJ2QprPEe9zSe9dcNwak6bFaq3wRB",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.07521501008485872,
     "timestamp": 1736233431,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -4810,7 +4810,7 @@
   },
   {
     "entity": "4632BMWY69AkVHxN1XLKVuLrednYiLccuMeoXnQBMA7Z",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.07102034969906719,
     "timestamp": 1736233431,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -4824,7 +4824,7 @@
   },
   {
     "entity": "Dm7SxREWGpy6sEhQyxynagixHM6hsshKFKQUYZcNT8GR",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.0695235246664495,
     "timestamp": 1736233431,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -4838,7 +4838,7 @@
   },
   {
     "entity": "7saQeFGCGqMffWMMBynTtqgVcXNSp79sJp7BngNuepK9",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.06400995501078253,
     "timestamp": 1736233431,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -4852,7 +4852,7 @@
   },
   {
     "entity": "3kebnKw7cPdSkLRfiMEALyZJGZ4wdiSRvmoN4rD1yPzV",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.05663125984609657,
     "timestamp": 1736233431,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -4866,7 +4866,7 @@
   },
   {
     "entity": "3Vsx9RN9jvnKwdMkHxn6Z2cehtffgghk4Kd4MStHT1P6",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.05167940831903432,
     "timestamp": 1736233431,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -4880,7 +4880,7 @@
   },
   {
     "entity": "5Sb8odYw11j2F3bH1DTTVVxtyZq3eygZUkB61NVqp7f2",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.04098072766602881,
     "timestamp": 1736233431,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -4894,7 +4894,7 @@
   },
   {
     "entity": "BTWQGEFmTGQ2u8b6hHTWS2ADPYiMPtraqyzmxJjsGYq4",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.03540775849965743,
     "timestamp": 1736233431,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -4908,7 +4908,7 @@
   },
   {
     "entity": "4zjwQovsvniFvEoi76PhHgTmUVYoMqBnbj7pwwWefByz",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.03040068001491343,
     "timestamp": 1736233431,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -4922,7 +4922,7 @@
   },
   {
     "entity": "FXdojkHs9SUwzPuE4NPD5XrgWdKEdBL4m8juNrWcARce",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.0280234061256906,
     "timestamp": 1736233431,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -4936,7 +4936,7 @@
   },
   {
     "entity": "74UnjrPG7kDGDKTv27XGaqztgd3GzqzGcmNfXJe2BtgS",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.024839718779585625,
     "timestamp": 1736233431,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -4950,7 +4950,7 @@
   },
   {
     "entity": "8nzbEN3FKUeayEhWkmEc3NP8NBChJjUt969UhDr1Qvk7",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.017151477416817634,
     "timestamp": 1736233431,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -4964,7 +4964,7 @@
   },
   {
     "entity": "FTFGKpZMiMuPdJVjjsVFReowfQc5b58gyRQEWXvP1zjt",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.011577356039225715,
     "timestamp": 1736233431,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -4978,7 +4978,7 @@
   },
   {
     "entity": "4EsY8HQB4Ak65diFrSHjwWhKSGC8sKmnzyusM993gk2w",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.0077764629898685895,
     "timestamp": 1736233431,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -4992,7 +4992,7 @@
   },
   {
     "entity": "EtDE5iBoPmhQNMvEphsy2rxUdNzMCRUkbv5R2y8kgfo2",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.0035130571811502354,
     "timestamp": 1736233431,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -5307,7 +5307,7 @@
   },
   {
     "entity": "FgNijtNfGeCNjJnHrHTYiZdHkPWZyuUg1xhzk2HQzRch",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 139.7953944250537,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -5321,7 +5321,7 @@
   },
   {
     "entity": "9ZKBTsTFqsoKzfpzLrx5ioizmFK5kkdFdva8acUAqo62",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 83.22511319239308,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -5335,7 +5335,7 @@
   },
   {
     "entity": "EKncgJto5TVhYwL1GwKG5349a6boQijfr8HfMP5E5Jdp",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 43.26369175978476,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -5349,7 +5349,7 @@
   },
   {
     "entity": "A4sBWr78Vapxk2ig8VUpGEGRxcNL2acs57rTrmWf9Mse",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 31.302792288808092,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -5363,7 +5363,7 @@
   },
   {
     "entity": "3jcyme1UWnEccoF5KWtL6WcydthfTtbPCjAMmVXCPUKX",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 26.71683823007214,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -5377,7 +5377,7 @@
   },
   {
     "entity": "2YHNuhz9zYhPNT8fhnGwjSoxHrVHkLQE7C2XtEj81b5y",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 25.970041879817412,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -5391,7 +5391,7 @@
   },
   {
     "entity": "CcaCLDnsvVSox3xNZu5VgyAvmnJfa4pCvDggLuMAYio2",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 8.921701563928671,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -5405,7 +5405,7 @@
   },
   {
     "entity": "6cGVA7qNiBq2V88yCWFMECxtURbNLCHzmk598H2tWFvN",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 8.672386857997468,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -5419,7 +5419,7 @@
   },
   {
     "entity": "EiwBpX9dJiKAvZTnL1jSYrGrsL7MZHxYL7McRwp5bNvw",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 7.294262807614246,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -5433,7 +5433,7 @@
   },
   {
     "entity": "3PWiUH1iZRFUggYFGW5qGcskqp4JZsZxneWBJi5iSijL",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 4.393900703335899,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -5447,7 +5447,7 @@
   },
   {
     "entity": "DQhtyN8w1jjjfE7cj4iCSoGJYiBRzNaPvaw857fgehgp",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 4.369157419474876,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -5461,7 +5461,7 @@
   },
   {
     "entity": "5xu8bc6NBCEEm2oJfT5miNkAjdzFs6PRgyTrS5PtvFEL",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 3.6597403279934073,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -5475,7 +5475,7 @@
   },
   {
     "entity": "7YMsqyNvMPwJswzCpDufUJnLjQTX5iB97ejemY5mYXMX",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 3.414290177213692,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -5489,7 +5489,7 @@
   },
   {
     "entity": "EEcsFs53wjc3WqMBkJZPwFuQAViq5MjFqjoPzyKhaWfM",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 3.287096741389493,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -5503,7 +5503,7 @@
   },
   {
     "entity": "EArjNi7vxETDkzQySBU7hbjTtTwaj87EJeFBrqGHFByq",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 3.1710959357230792,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -5517,7 +5517,7 @@
   },
   {
     "entity": "7Wdhfq5HbPiCiCQjLLmzcooamN2gYwU4SN8n9wghszGc",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 2.895552266911357,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -5531,7 +5531,7 @@
   },
   {
     "entity": "7gPvY4b6Nco6fz8g8nUABawBx4xRnrvaNQiQ71Qsw7xJ",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 2.7391470416496433,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -5545,7 +5545,7 @@
   },
   {
     "entity": "F3EwMJKHxKfGoxy689Xuwnt9NnPcSnZFbQb6qmPgbvKx",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 2.716314309508148,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -5559,7 +5559,7 @@
   },
   {
     "entity": "AeVDMT5xi2ydHqNbshvnTmL4v3f71VLfVhvFULz9csS4",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 2.4984311553819993,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -5573,7 +5573,7 @@
   },
   {
     "entity": "3k2KDCZXEusrBx76Ka9oHbsC619RBK9paUFgb9VEFFHM",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 2.3230276712080835,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -5587,7 +5587,7 @@
   },
   {
     "entity": "HpBneyLLKwncJDek4zfzX8QTfFKBdmw5iUij9XiWDed6",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 2.2331979560966544,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -5601,7 +5601,7 @@
   },
   {
     "entity": "28NzvhFKr9Rxrezipi5RPA7RA5KzNdDqvKToLTbamxon",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 2.152697700135984,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -5615,7 +5615,7 @@
   },
   {
     "entity": "DDpy9UrE7wPHu6tiHLyxVBpb2i2sbvd8Edh8KLwytrEH",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 2.0273634791192467,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -5629,7 +5629,7 @@
   },
   {
     "entity": "BjRg2dik5HjCgYweeetL6XK1WujFvNLPxN7j6wozhiFA",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.8941984369017613,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -5643,7 +5643,7 @@
   },
   {
     "entity": "HHqJYRCWETTVUDxheV2jh3HTKgCrGTpDFhawKunsem8A",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.8672613011576247,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -5657,7 +5657,7 @@
   },
   {
     "entity": "68N28ivs6y5Rpd5xPEdK8FQi4vTzjnmKSRftq1qUb6LW",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.8129371255831084,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -5671,7 +5671,7 @@
   },
   {
     "entity": "F3xS8FSLjM6j15XfWynwLRhv6ihyqjV4V1FDHHNZSww7",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.67915379531023,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -5685,7 +5685,7 @@
   },
   {
     "entity": "695YWrLAcPAS6oaigQK8qzUNxbvx4iswiPyRVQ65qDTG",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.6074047989233258,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -5699,7 +5699,7 @@
   },
   {
     "entity": "C1qNuwm3WC6CguWBdmS8yaZgw5nEx23JybJFCipGzfzW",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.5882228737666073,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -5713,7 +5713,7 @@
   },
   {
     "entity": "22KQUKECS3yF6crwQ8uJBiQFmzvCQmwb1iWfnK9jSfNT",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.5603095645168836,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -5727,7 +5727,7 @@
   },
   {
     "entity": "Bx36SW4JCHtr69Dvy9Jr27mUb37EgcpSMKzyi3h39qDd",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.4406738606089258,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -5741,7 +5741,7 @@
   },
   {
     "entity": "2BykKcAeHmZ5vKmeoEDRmwAcEMnjJaR2MDdRbTFeRfz6",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.3641137373033945,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -5755,7 +5755,7 @@
   },
   {
     "entity": "FUBxAZPWFECh2rtE5muPZGRsojAX49E1b6MycMfs9y75",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.3504955720083263,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -5769,7 +5769,7 @@
   },
   {
     "entity": "HGXfu3MRTyUgcJTwR63onouDpVrMUCghUNghapCfuz1h",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.3390832736258274,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -5783,7 +5783,7 @@
   },
   {
     "entity": "CKtwbaSyxSjEjjjYFWWns7Ko96JR8LMkmhSgxay9BqzP",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.2916942826801918,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -5797,7 +5797,7 @@
   },
   {
     "entity": "re4eqokpVZRka9V5BDMCix3rtjiRgh25HBbf6kFmHLQ",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.189431959733125,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -5811,7 +5811,7 @@
   },
   {
     "entity": "8zWu722fJj7JcCDUVc5zU1MBkK2brNAVdeFg28QRGvtj",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.1726298482892181,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -5825,7 +5825,7 @@
   },
   {
     "entity": "5w9DWvwQQMKMpMuzgMKHNz5nW7mmekB5sUXMHATz7Wcf",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.120503517855104,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -5839,7 +5839,7 @@
   },
   {
     "entity": "13yeLhhxhij2VN2TqFqStLeT5mHAnj8y9zPTJgkG4UkP",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.117073582785189,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -5853,7 +5853,7 @@
   },
   {
     "entity": "DA25JE52kSLbRt8m8aqAN1WJ7F6Cf9AMDxiBV4WuXqj5",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.1071021561639698,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -5867,7 +5867,7 @@
   },
   {
     "entity": "2KbUQXh5AHdpUNKoB4RtZR57raxgULrxXJpii6AegUCV",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.0687310896951703,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -5881,7 +5881,7 @@
   },
   {
     "entity": "4hMQWrxkPuV4Qj129bsRyhVNfsiQ1Dx7kSgUsB9dKZa1",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.054523714479441,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -5895,7 +5895,7 @@
   },
   {
     "entity": "GrA6abRuUzDYGUaxrGUcnNj2KWRR55449GWXD4GCpc9M",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.0127875510509554,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -5909,7 +5909,7 @@
   },
   {
     "entity": "48ZgZoByHhiS7qx2aggWYXvTRAngDQeqJffgGv1yy6PX",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.0015443710804577,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -5923,7 +5923,7 @@
   },
   {
     "entity": "5bbzVf9eVE19bqfbKCcMbdKDSmgapXqDFgzENzZw5Cjt",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.9500503987773095,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -5937,7 +5937,7 @@
   },
   {
     "entity": "J1tVEm7AFF3PV4cBtXcTSSoY7DAYsdasEupqihhCACn5",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.9456369831019364,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -5951,7 +5951,7 @@
   },
   {
     "entity": "H6hCSVHxXJEys1T5jn97cJoHqtqA3azAttK2gBbkf7oU",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.9348818349056817,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -5965,7 +5965,7 @@
   },
   {
     "entity": "Bqm7sAqsg45GNAU56V521gBsEph1qqXgUT8CeewyyJsU",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.8734838756963266,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -5979,7 +5979,7 @@
   },
   {
     "entity": "BgN9uRgdoE6bZ9qcq33DGm5fYoXkiNtfEZnpkUmQrZ1P",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.8625198706573561,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -5993,7 +5993,7 @@
   },
   {
     "entity": "C3gktdpnJPSgctPEatwYJKFC8ZAmgU32tjSTqM672Mb9",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.8597853786782359,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -6007,7 +6007,7 @@
   },
   {
     "entity": "12F9jcGA8hV2SYjvDLMKPoVP13AxBCbukbHgKKDU2EP9",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.8511701606510979,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -6021,7 +6021,7 @@
   },
   {
     "entity": "YyjbtUtriWMkwwyJAGzMzMQPpB7Ei1XgQrhLtt1CkEC",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.8034395759486248,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -6035,7 +6035,7 @@
   },
   {
     "entity": "6E1m7EQTtBVma1YaeHY8haq6bPdASnTTE7956DQLm91n",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.7886559232777349,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -6049,7 +6049,7 @@
   },
   {
     "entity": "H9yxpcXFkPMXqxLhnP7YZstZ4n8HRbJYm3rAr47tYadU",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.7722884495676078,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -6063,7 +6063,7 @@
   },
   {
     "entity": "fpmegFr8xM7KyHyT1Uz1T5qR8LdzUHWX1uRUEUdqEAo",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.7595180100994601,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -6077,7 +6077,7 @@
   },
   {
     "entity": "2qd8duhTbvMHXoNsdT3wSd9WooXq9rodtuscZXQbVkiv",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.7504876474830156,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -6091,7 +6091,7 @@
   },
   {
     "entity": "FJ5HfLs2J672VX78hJs3nnoYypSEoot5hHoaWY3pRnQr",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.7289335074024749,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -6105,7 +6105,7 @@
   },
   {
     "entity": "FLtWkp7F7jgnyhzfBE4R7NwWKPUr6Ki1pyjsu8RCzULS",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.7205752582246064,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -6119,7 +6119,7 @@
   },
   {
     "entity": "2AVKQ8hzdksMxwQxHzhomHwVFVRaFey2fdAx8nTMG1AA",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.706975484779593,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -6133,7 +6133,7 @@
   },
   {
     "entity": "EWXFKF3Nnpm4e9o2Ywn3vue1dPjMSsW2uiYQ9kXZGW9V",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.6864077582724858,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -6147,7 +6147,7 @@
   },
   {
     "entity": "HZxXtBz8gCy1NhUgujFm336xtFTZa7CYZV1LeaNWwDAn",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.6801671529937557,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -6161,7 +6161,7 @@
   },
   {
     "entity": "C8Y19seayyRw4Nq62LfYbZdkHSUbpcnaHE88o16Ewmqj",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.6723886545104536,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -6175,7 +6175,7 @@
   },
   {
     "entity": "CDRP1XiF7aDApduNNC9xQUidyVCpPNJDVjdedmadN8CT",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.6688536067644765,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -6189,7 +6189,7 @@
   },
   {
     "entity": "8bTH65rZunQdfrh5fpPjFzWUNaze83F3coSb2LQtUMp5",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.6249508956802232,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -6203,7 +6203,7 @@
   },
   {
     "entity": "AYtCDgjAaup1Gv3xhvA2xLtr9kjhQPvwpRg2Sk9tKMB5",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.6229158561718445,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -6217,7 +6217,7 @@
   },
   {
     "entity": "BAaNiEqedUEKHAtc1tYxoctbPUHjJPqxEJur2fQDWzH",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.5998257847178411,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -6231,7 +6231,7 @@
   },
   {
     "entity": "E3VkeC4owBkQR9XXiKuqTbNUH6S1TcyCKaFvzaZ3WxDW",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.5793443156059656,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -6245,7 +6245,7 @@
   },
   {
     "entity": "7xq5CvArNbnPwNzSq2SD3Ugr8Wv6Em9fKC3Eo4ers7gV",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.5663600246129834,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -6259,7 +6259,7 @@
   },
   {
     "entity": "GrU9QwKTU48bggYYYq3nYno1D6Wna13UYQjPYzdGqjxW",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.5598577423748636,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -6273,7 +6273,7 @@
   },
   {
     "entity": "Fk9AUXhoMmeU9CysdwkfFEYLooVRaUqtkQzada4URgiz",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.5347903814308238,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -6287,7 +6287,7 @@
   },
   {
     "entity": "8wDMnckdjsbLmBcohxpeS4QwTgtLwiWZQWeHhdNaEG5z",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.5304347800458854,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -6301,7 +6301,7 @@
   },
   {
     "entity": "AKdzFMaHTRt2wp6wxJwiCNrY1A8DnDPymzmvw7gkVTGT",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.5297887617429546,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -6315,7 +6315,7 @@
   },
   {
     "entity": "D47XbhupYkEmC3bKrSVHR6Vr3Yw9oeusUydvFBn9nEAr",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.5158259853620398,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -6329,7 +6329,7 @@
   },
   {
     "entity": "2tNtqHWQoCjjU7iQYp5V2Q7ATbpcq9w6Jf5WP7xtPmBS",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.5144789548998487,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -6343,7 +6343,7 @@
   },
   {
     "entity": "2xirTqVydhSZGQr678y4xCWRdhJvZDpG78JbrMkgizgH",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.5107607838636379,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -6357,7 +6357,7 @@
   },
   {
     "entity": "JU221jpXEbNzvob7GGrf1xGRaBYd9NeDjapETPdD9Xx",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.5067769470747114,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -6371,7 +6371,7 @@
   },
   {
     "entity": "FUbS9rXG668AYhGyiKrGFWzc4QG6HKgrUvSuWPuLDeK6",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.49811848854353324,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -6385,7 +6385,7 @@
   },
   {
     "entity": "BAZNfYqmFxTWhHHVSP7My8BAvnTiNHsuLyzqdGdn6itN",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.48758946176289264,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -6399,7 +6399,7 @@
   },
   {
     "entity": "4JJjRQAdaKfVEGXtdDtkzdV16vxWwSEyJrTwauqhSxB5",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.4748863111585372,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -6413,7 +6413,7 @@
   },
   {
     "entity": "6ZYGTcUHziYxAXSpjnbuuaZ62sCtCDVmpLsM9cLcXjv9",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.4711059581443375,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -6427,7 +6427,7 @@
   },
   {
     "entity": "ENbuCQZSW492hj4y3CktdHLkeeaiq3YkkCnN7icQrTYt",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.4613985505542125,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -6441,7 +6441,7 @@
   },
   {
     "entity": "9XGi41pBkM7RZKDeMz8SrFaUMxpw76kB7A1W2X3NNe7B",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.4478113813686483,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -6455,7 +6455,7 @@
   },
   {
     "entity": "8sVrR9A6tDvGhrKPrvZincLp9uapN95m6h1YLirr5uYB",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.4469644573552173,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -6469,7 +6469,7 @@
   },
   {
     "entity": "J6rxgM8CoaC4wmojKHqFPwu1zttEZLbUrpYoXqdgNAac",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.43420039613842254,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -6483,7 +6483,7 @@
   },
   {
     "entity": "DQHQGMR2SaaKPv6chhKoFVX1ixDqDsSAVpSEExhS8fPW",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.43032701767733517,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -6497,7 +6497,7 @@
   },
   {
     "entity": "EXhCTbqk5xMGWapVZ9mQedXVfJgwTqAYJjgxWV7BPSmm",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.42909622487762356,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -6511,7 +6511,7 @@
   },
   {
     "entity": "3PnS6pARAN26taPmarnzbN8ZvqJHkLD3YK4AB6CxzW1h",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.41556613055310276,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -6525,7 +6525,7 @@
   },
   {
     "entity": "CvmnkCYPofEo34Gh16626f9U7VvuVjUAjzduDih3je1k",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.4082558665553962,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -6539,7 +6539,7 @@
   },
   {
     "entity": "FDj5dEqQZLedaEQARypkCtndaeV6wQsdaXyveTA9icje",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.3964129605903246,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -6553,7 +6553,7 @@
   },
   {
     "entity": "Ebkmsxa5fuDbVhJTNfhjXcNSQ4dFUfTKhJUahe3Mq3Pt",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.3877460787846693,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -6567,7 +6567,7 @@
   },
   {
     "entity": "C2AhcdzK9BMKfYzsu7JTZa5FtrBvjx8AbcBLZnwxKyWn",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.37814156463458487,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -6581,7 +6581,7 @@
   },
   {
     "entity": "FduMq1AWQBPoVfyeQVrM4vJE9opQpB5GLSdfWoaKyXv1",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.3703853611968083,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -6595,7 +6595,7 @@
   },
   {
     "entity": "4Cpv1npH2pwr5Gk96tLFJSMmmNCq7EDZ2rRsraVEyUdd",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.3693165178537771,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -6609,7 +6609,7 @@
   },
   {
     "entity": "7SCJGRYx5GQbQV28pB4sAPmDESfZfgdaSGhExWBaj5PT",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.36694347681921796,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -6623,7 +6623,7 @@
   },
   {
     "entity": "BFVJDiKg9Ptt1FJe8vK6w9K43A2wpYNQ44GDaJL7UA1R",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.35718669608249304,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -6637,7 +6637,7 @@
   },
   {
     "entity": "5BDoxksPjzpczgAAbdzdgBcFfywUwh3joLnettjiyenU",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.3568501385287858,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -6651,7 +6651,7 @@
   },
   {
     "entity": "CLhaKfnmFenvq6AAaY34udCyYTKBY3YYxbB1hBsqQSgE",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.35394873453354614,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -6665,7 +6665,7 @@
   },
   {
     "entity": "4VQVHU3SxSav6hSQAa4KWAZbwwF7VKgJw8AdEpsoX5KT",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.35390497149619987,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -6679,7 +6679,7 @@
   },
   {
     "entity": "5555zbhykpkN9DvxHxqWpC9ueCw9U1HkmzcrfdZFgtAF",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.35161313243369885,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -6693,7 +6693,7 @@
   },
   {
     "entity": "FRe53vNNaag8gKLfLzv7mTZ28ekGskgbyT1i3m8RTyvN",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.3473565722927586,
     "timestamp": 1736233429,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -6707,7 +6707,7 @@
   },
   {
     "entity": "FgNijtNfGeCNjJnHrHTYiZdHkPWZyuUg1xhzk2HQzRch",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 139.7953944250537,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -6721,7 +6721,7 @@
   },
   {
     "entity": "9ZKBTsTFqsoKzfpzLrx5ioizmFK5kkdFdva8acUAqo62",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 83.22511319239308,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -6735,7 +6735,7 @@
   },
   {
     "entity": "3uXtovQppUMUiEyZyawT4KXTs1saFWjFirxZbfe8ygk6",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 55.81017841714093,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -6749,7 +6749,7 @@
   },
   {
     "entity": "EKncgJto5TVhYwL1GwKG5349a6boQijfr8HfMP5E5Jdp",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 43.26369175978476,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -6763,7 +6763,7 @@
   },
   {
     "entity": "A4sBWr78Vapxk2ig8VUpGEGRxcNL2acs57rTrmWf9Mse",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 31.302792288808092,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -6777,7 +6777,7 @@
   },
   {
     "entity": "3jcyme1UWnEccoF5KWtL6WcydthfTtbPCjAMmVXCPUKX",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 26.71683823007214,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -6791,7 +6791,7 @@
   },
   {
     "entity": "2YHNuhz9zYhPNT8fhnGwjSoxHrVHkLQE7C2XtEj81b5y",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 25.970041879817412,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -6805,7 +6805,7 @@
   },
   {
     "entity": "7jgYhKgDz4XXnqV645Y8sHPorx1Tft9z3wat9u38z21Y",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 9.733693565305702,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -6819,7 +6819,7 @@
   },
   {
     "entity": "CcaCLDnsvVSox3xNZu5VgyAvmnJfa4pCvDggLuMAYio2",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 8.921701563928671,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -6833,7 +6833,7 @@
   },
   {
     "entity": "6cGVA7qNiBq2V88yCWFMECxtURbNLCHzmk598H2tWFvN",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 8.672386857997468,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -6847,7 +6847,7 @@
   },
   {
     "entity": "EiwBpX9dJiKAvZTnL1jSYrGrsL7MZHxYL7McRwp5bNvw",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 7.294262807614246,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -6861,7 +6861,7 @@
   },
   {
     "entity": "B2GjVV7h4VyCEguijGiR3rqAAYrxGSUqn32AZabHue53",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 5.839007796789973,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -6875,7 +6875,7 @@
   },
   {
     "entity": "7nfFzE1Ci5KniCJiPeWo1rWvSpv26JGibSYy775LEnKx",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 5.601242450163853,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -6889,7 +6889,7 @@
   },
   {
     "entity": "EFE9mJz2GkSvhpqRXsSpwk1AEuUSCqtANFNgYPDdhdFr",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 5.1412612632499375,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -6903,7 +6903,7 @@
   },
   {
     "entity": "3PWiUH1iZRFUggYFGW5qGcskqp4JZsZxneWBJi5iSijL",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 4.393900703335899,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -6917,7 +6917,7 @@
   },
   {
     "entity": "DQhtyN8w1jjjfE7cj4iCSoGJYiBRzNaPvaw857fgehgp",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 4.369157419474876,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -6931,7 +6931,7 @@
   },
   {
     "entity": "5xu8bc6NBCEEm2oJfT5miNkAjdzFs6PRgyTrS5PtvFEL",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 3.6597403279934073,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -6945,7 +6945,7 @@
   },
   {
     "entity": "G5RgJggex3zT15t8LLL9nBVUaUkC256fVYbSgF8SkkHG",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 3.656428411716426,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -6959,7 +6959,7 @@
   },
   {
     "entity": "7YMsqyNvMPwJswzCpDufUJnLjQTX5iB97ejemY5mYXMX",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 3.414290177213692,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -6973,7 +6973,7 @@
   },
   {
     "entity": "4HkkhVMDNPE1YRBUNdpEa8TtVMK5vLHButcwxaw3pXS2",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 3.3952121600366305,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -6987,7 +6987,7 @@
   },
   {
     "entity": "EEcsFs53wjc3WqMBkJZPwFuQAViq5MjFqjoPzyKhaWfM",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 3.287096741389493,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -7001,7 +7001,7 @@
   },
   {
     "entity": "EArjNi7vxETDkzQySBU7hbjTtTwaj87EJeFBrqGHFByq",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 3.1710959357230792,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -7015,7 +7015,7 @@
   },
   {
     "entity": "E2SRcmvvX71efevxnYJTcW9oggnprz7Xk2aSj3DV558L",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 3.024097518118446,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -7029,7 +7029,7 @@
   },
   {
     "entity": "E2E1Wy3M668TJdevoCjsWmYoWS8k9Ey7L8niJ5C7f7Ux",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 2.9482885439977067,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -7043,7 +7043,7 @@
   },
   {
     "entity": "F7MJy5xhx6bFnaeK9eMLHzUmNKmf9rLsr7JUsV1wnEFj",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 2.941104497124506,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -7057,7 +7057,7 @@
   },
   {
     "entity": "7Wdhfq5HbPiCiCQjLLmzcooamN2gYwU4SN8n9wghszGc",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 2.895552266911357,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -7071,7 +7071,7 @@
   },
   {
     "entity": "7gPvY4b6Nco6fz8g8nUABawBx4xRnrvaNQiQ71Qsw7xJ",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 2.7391470416496433,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -7085,7 +7085,7 @@
   },
   {
     "entity": "F3EwMJKHxKfGoxy689Xuwnt9NnPcSnZFbQb6qmPgbvKx",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 2.716314309508148,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -7099,7 +7099,7 @@
   },
   {
     "entity": "iqBywFjC58YXao8tAsiEs14UxbcspJ7fU7jzng59fvD",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 2.5378541036712465,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -7113,7 +7113,7 @@
   },
   {
     "entity": "AeVDMT5xi2ydHqNbshvnTmL4v3f71VLfVhvFULz9csS4",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 2.4984311553819993,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -7127,7 +7127,7 @@
   },
   {
     "entity": "3k2KDCZXEusrBx76Ka9oHbsC619RBK9paUFgb9VEFFHM",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 2.3230276712080835,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -7141,7 +7141,7 @@
   },
   {
     "entity": "HpBneyLLKwncJDek4zfzX8QTfFKBdmw5iUij9XiWDed6",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 2.2331979560966544,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -7155,7 +7155,7 @@
   },
   {
     "entity": "28NzvhFKr9Rxrezipi5RPA7RA5KzNdDqvKToLTbamxon",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 2.152697700135984,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -7169,7 +7169,7 @@
   },
   {
     "entity": "53Rrz9HLiWnM1q3wNP2g86DHLP5HT8cLG3vjDEWPupVK",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 2.044364412246126,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -7183,7 +7183,7 @@
   },
   {
     "entity": "DDpy9UrE7wPHu6tiHLyxVBpb2i2sbvd8Edh8KLwytrEH",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 2.0273634791192467,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -7197,7 +7197,7 @@
   },
   {
     "entity": "A9SUPgTCUsVzqzyeqjpRsxJRGNcEpdSwZRv94quyMK3o",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.9254953317668435,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -7211,7 +7211,7 @@
   },
   {
     "entity": "BjRg2dik5HjCgYweeetL6XK1WujFvNLPxN7j6wozhiFA",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.8941984369017613,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -7225,7 +7225,7 @@
   },
   {
     "entity": "HHqJYRCWETTVUDxheV2jh3HTKgCrGTpDFhawKunsem8A",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.8672613011576247,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -7239,7 +7239,7 @@
   },
   {
     "entity": "ve94tFcRnLnwMGf7e5mUXMyAkzzcS4qkzSKZGsQV4kk",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.8548962501368729,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -7253,7 +7253,7 @@
   },
   {
     "entity": "68N28ivs6y5Rpd5xPEdK8FQi4vTzjnmKSRftq1qUb6LW",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.8129371255831084,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -7267,7 +7267,7 @@
   },
   {
     "entity": "3yaQuMYMakKxoE8wayvMp9dASLZgFCgkvuYG7X1hk7Yh",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.8033636260643509,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -7281,7 +7281,7 @@
   },
   {
     "entity": "GeXAHmmETnizW6af4E2e64ju8mTkLdEQzxUiAjJVo6NZ",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.7602434807773786,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -7295,7 +7295,7 @@
   },
   {
     "entity": "F3xS8FSLjM6j15XfWynwLRhv6ihyqjV4V1FDHHNZSww7",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.67915379531023,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -7309,7 +7309,7 @@
   },
   {
     "entity": "BieeZkdnBAgNYknzo3RH2vku7FcPkFZMZmRJANh2TpW",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.6273584684861013,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -7323,7 +7323,7 @@
   },
   {
     "entity": "695YWrLAcPAS6oaigQK8qzUNxbvx4iswiPyRVQ65qDTG",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.6074047989233258,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -7337,7 +7337,7 @@
   },
   {
     "entity": "C1qNuwm3WC6CguWBdmS8yaZgw5nEx23JybJFCipGzfzW",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.5882228737666073,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -7351,7 +7351,7 @@
   },
   {
     "entity": "22KQUKECS3yF6crwQ8uJBiQFmzvCQmwb1iWfnK9jSfNT",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.5603095645168836,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -7365,7 +7365,7 @@
   },
   {
     "entity": "BMLMtdCRdJewAGaAobevPcZTvVn7H695do22gMjBTKhD",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.5563958585661617,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -7379,7 +7379,7 @@
   },
   {
     "entity": "EnFU9XHN2nFrmSUuf6QNFDi2GEPD8YuLDi4onjKuCqzW",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.4508817229963191,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -7393,7 +7393,7 @@
   },
   {
     "entity": "AcYytLx7wojrcRsjrLDQLWgXgcXWhAwtJwzqhAtkd24K",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.4450110378498635,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -7407,7 +7407,7 @@
   },
   {
     "entity": "Bx36SW4JCHtr69Dvy9Jr27mUb37EgcpSMKzyi3h39qDd",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.4406738606089258,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -7421,7 +7421,7 @@
   },
   {
     "entity": "2BykKcAeHmZ5vKmeoEDRmwAcEMnjJaR2MDdRbTFeRfz6",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.3641137373033945,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -7435,7 +7435,7 @@
   },
   {
     "entity": "FUBxAZPWFECh2rtE5muPZGRsojAX49E1b6MycMfs9y75",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.3504955720083263,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -7449,7 +7449,7 @@
   },
   {
     "entity": "Gf9XgdmvNHt8fUTFsWAccNbKeyDXsgJyZN8iFJKg5Pbd",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.344597437273367,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -7463,7 +7463,7 @@
   },
   {
     "entity": "HGXfu3MRTyUgcJTwR63onouDpVrMUCghUNghapCfuz1h",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.3390832736258274,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -7477,7 +7477,7 @@
   },
   {
     "entity": "CKtwbaSyxSjEjjjYFWWns7Ko96JR8LMkmhSgxay9BqzP",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.2916942826801918,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -7491,7 +7491,7 @@
   },
   {
     "entity": "AcDhHHNnveuGTawCJWbJcbhLjHMBr29V4mVJi2fEdF9E",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.2308336245079285,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -7505,7 +7505,7 @@
   },
   {
     "entity": "re4eqokpVZRka9V5BDMCix3rtjiRgh25HBbf6kFmHLQ",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.189431959733125,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -7519,7 +7519,7 @@
   },
   {
     "entity": "8zWu722fJj7JcCDUVc5zU1MBkK2brNAVdeFg28QRGvtj",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.1726298482892181,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -7533,7 +7533,7 @@
   },
   {
     "entity": "5w9DWvwQQMKMpMuzgMKHNz5nW7mmekB5sUXMHATz7Wcf",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.120503517855104,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -7547,7 +7547,7 @@
   },
   {
     "entity": "13yeLhhxhij2VN2TqFqStLeT5mHAnj8y9zPTJgkG4UkP",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.117073582785189,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -7561,7 +7561,7 @@
   },
   {
     "entity": "DA25JE52kSLbRt8m8aqAN1WJ7F6Cf9AMDxiBV4WuXqj5",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.1071021561639698,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -7575,7 +7575,7 @@
   },
   {
     "entity": "BTp4uCeCeWKxT6pzTmqJzzrtyqeTmtF1zr2EtpnZSw7F",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.0749668931221525,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -7589,7 +7589,7 @@
   },
   {
     "entity": "2KbUQXh5AHdpUNKoB4RtZR57raxgULrxXJpii6AegUCV",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.0687310896951703,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -7603,7 +7603,7 @@
   },
   {
     "entity": "zrdWJB8Y7dsuy3DtYHc17k2DXMyJJwCNpaDjhNRP3FG",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.0658383916503578,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -7617,7 +7617,7 @@
   },
   {
     "entity": "4hMQWrxkPuV4Qj129bsRyhVNfsiQ1Dx7kSgUsB9dKZa1",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.054523714479441,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -7631,7 +7631,7 @@
   },
   {
     "entity": "J485YzQjuJPLYoFEYjrjxd7NAoLHTiyUU63JwK7kLxRr",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.0271660864512024,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -7645,7 +7645,7 @@
   },
   {
     "entity": "CJyiZ25kUkZLNjZMDNBgq6zk6FtiewEMgfmhvoKff7kG",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.0151112920761611,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -7659,7 +7659,7 @@
   },
   {
     "entity": "GrA6abRuUzDYGUaxrGUcnNj2KWRR55449GWXD4GCpc9M",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.0127875510509554,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -7673,7 +7673,7 @@
   },
   {
     "entity": "48ZgZoByHhiS7qx2aggWYXvTRAngDQeqJffgGv1yy6PX",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 1.0015443710804577,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -7687,7 +7687,7 @@
   },
   {
     "entity": "9zpmefaLz7g35GJ6TyD4FW1vFumXBHPYzuxNYAEibLHj",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.9990039994957329,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -7701,7 +7701,7 @@
   },
   {
     "entity": "ASxMiMb1AJGTU4AduPNB2CGqT1TiDqWkLvy7oCUnzw5x",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.9815923232251272,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -7715,7 +7715,7 @@
   },
   {
     "entity": "6MLHUAqSuGcKx2Ad2cf4NSQmvh3wk2re9wksUpRyNDLZ",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.9721226903302395,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -7729,7 +7729,7 @@
   },
   {
     "entity": "E82gkUvyvuHrj6j8E8SmdvQy9BV3xYdAjRJE6eDq94W",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.950231884985301,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -7743,7 +7743,7 @@
   },
   {
     "entity": "5bbzVf9eVE19bqfbKCcMbdKDSmgapXqDFgzENzZw5Cjt",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.9500503987773095,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -7757,7 +7757,7 @@
   },
   {
     "entity": "J1tVEm7AFF3PV4cBtXcTSSoY7DAYsdasEupqihhCACn5",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.9456369831019364,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -7771,7 +7771,7 @@
   },
   {
     "entity": "H6hCSVHxXJEys1T5jn97cJoHqtqA3azAttK2gBbkf7oU",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.9348818349056817,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -7785,7 +7785,7 @@
   },
   {
     "entity": "ELwogpDn5xqQ9AHoKA7pnctrvUc2djMMVFfn3BCcgecP",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.9323887141590574,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -7799,7 +7799,7 @@
   },
   {
     "entity": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.9257283126161308,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -7813,7 +7813,7 @@
   },
   {
     "entity": "GaT1xTgBKAc3L3LoMPBgqHx6Ko79Jn6VRg8nkYby18iB",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.9217422884810135,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -7827,7 +7827,7 @@
   },
   {
     "entity": "Bqm7sAqsg45GNAU56V521gBsEph1qqXgUT8CeewyyJsU",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.8734838756963266,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -7841,7 +7841,7 @@
   },
   {
     "entity": "9XtNAwgvsRxg7HfqoeKtcAGD1ES4Dj3Ax5g4wFNAUELy",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.8682748097546483,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -7855,7 +7855,7 @@
   },
   {
     "entity": "BgN9uRgdoE6bZ9qcq33DGm5fYoXkiNtfEZnpkUmQrZ1P",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.8625198706573561,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -7869,7 +7869,7 @@
   },
   {
     "entity": "C3gktdpnJPSgctPEatwYJKFC8ZAmgU32tjSTqM672Mb9",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.8597853786782359,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -7883,7 +7883,7 @@
   },
   {
     "entity": "2GzgmwoD2vzfdMdu6KAbqAXGJjXSmbHRPqtiv53d8o3B",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.8576116410852634,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -7897,7 +7897,7 @@
   },
   {
     "entity": "12F9jcGA8hV2SYjvDLMKPoVP13AxBCbukbHgKKDU2EP9",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.8511701606510979,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -7911,7 +7911,7 @@
   },
   {
     "entity": "B37vUa4D6frRG9iCJvFqh4fK52WpKeV93zN6ei7uevhA",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.8420369508129582,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -7925,7 +7925,7 @@
   },
   {
     "entity": "AxWczkAccQfrbb6vEpXut5ZQeBxLQnjTec2C3taZTuJ2",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.8290861122808245,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -7939,7 +7939,7 @@
   },
   {
     "entity": "HUpPyLU8KWisCAr3mzWy2FKT6uuxQ2qGgJQxyTpDoes5",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.8069792154535396,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -7953,7 +7953,7 @@
   },
   {
     "entity": "YyjbtUtriWMkwwyJAGzMzMQPpB7Ei1XgQrhLtt1CkEC",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.8034395759486248,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -7967,7 +7967,7 @@
   },
   {
     "entity": "6E1m7EQTtBVma1YaeHY8haq6bPdASnTTE7956DQLm91n",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.7886559232777349,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -7981,7 +7981,7 @@
   },
   {
     "entity": "H9yxpcXFkPMXqxLhnP7YZstZ4n8HRbJYm3rAr47tYadU",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.7722884495676078,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -7995,7 +7995,7 @@
   },
   {
     "entity": "33YELV5diCCBU5ZD9peRysK7c8aiAPgSdwzgyVWXP59g",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.7658927449974534,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -8009,7 +8009,7 @@
   },
   {
     "entity": "2AA2wWAqvzDArw9diZTPBd3K9HMyERXmAvBpE5YxRwxj",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.7620666666949577,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -8023,7 +8023,7 @@
   },
   {
     "entity": "fpmegFr8xM7KyHyT1Uz1T5qR8LdzUHWX1uRUEUdqEAo",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.7595180100994601,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -8037,7 +8037,7 @@
   },
   {
     "entity": "EkczQj5jBB9oLXYy4VwGNdyE15d923wnAQpibX244eqg",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.7590850032512276,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -8051,7 +8051,7 @@
   },
   {
     "entity": "2qd8duhTbvMHXoNsdT3wSd9WooXq9rodtuscZXQbVkiv",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.7504876474830156,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -8065,7 +8065,7 @@
   },
   {
     "entity": "HPZVcGhiyLRTwTHhYJEQVohhFxGDHYFSDrdnra7QvyKm",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.7456850752036899,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -8079,7 +8079,7 @@
   },
   {
     "entity": "mghHFEzMvPXr6E94yBsRHZ7pjLAdr2CwAqqJPnCjMhx",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.7419168472529671,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
@@ -8093,7 +8093,7 @@
   },
   {
     "entity": "FJ5HfLs2J672VX78hJs3nnoYypSEoot5hHoaWY3pRnQr",
-    "metric": "pnl",
+    "metric": "PnL",
     "value": 0.7289335074024749,
     "timestamp": 1736233424,
     "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"

@@ -50,12 +50,12 @@ def extract_wallet_data(input_file, output_file):
                     })
 
                 # Extract PnL
-                pnl = wallet_data.get('pnl_7d')
-                if pnl is not None:
+                PnL = wallet_data.get('pnl_7d')
+                if PnL is not None:
                     extracted_data.append({
                         "entity": wallet_address,
-                        "metric": "pnl",
-                        "value": pnl,
+                        "metric": "PnL",
+                        "value": PnL,
                         "timestamp": timestamp,
                         "source": "https://gmgn.ai/defi/quotation/v1/rank/sol/wallets/7d?tag=snipe_bot&orderby=pnl_7d&direction=desc"
                     })

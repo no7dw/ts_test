@@ -3,23 +3,20 @@
 	"description" : "Total Value Locked",
 	"scope" : "chain",
 	"freq" : "daily",
-	"period" : "1d",
-	"vector" : [ 0.1, 0.2, 0.3 ]
+	"period" : "1d"
 },
 {
 	"name" : "Realized Profit",
 	"description" : "The total profit realized by a wallet over different periods.",
 	"scope" : "wallet",
 	"freq" : "daily",
-	"period" : "1d",
-	"vector" : [ 0.2, 0.4, 0.6 ]
+	"period" : "1d"
 },
 {
 	"name" : "PnL",
 	"description" : "The profit and loss percentage over 1-day, 7-day, and 30-day periods.",
 	"scope" : "wallet",
 	"freq" : "daily",
-	"period" : "1d",
-	"vector" : [ 0.3, 0.5, 0.7 ]
+	"period" : "1d"
 }
 ]

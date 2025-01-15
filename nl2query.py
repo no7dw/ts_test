@@ -23,8 +23,7 @@ METADATA_EXAMPLE = [
         "description": "Total Value Locked",
         "scope": "chain",
         "freq": "daily",
-        "period": "1d",
-        "vector": [0.1, 0.2, 0.3],  # Example vector embedding
+        "period": "1d"
     },
 ]
 
