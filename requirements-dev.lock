@@ -47,6 +47,8 @@ iso8601==1.0.2
 isort==5.13.2
 jiter==0.8.2
     # via openai
+jsonpath-ng==1.7.0
+    # via ts-test
 motor==3.6.0
     # via ts-test
 mypy-extensions==1.0.0
@@ -62,6 +64,8 @@ platformdirs==4.3.6
     # via black
 pluggy==1.5.0
     # via pytest
+ply==3.11
+    # via jsonpath-ng
 pydantic==2.10.4
     # via openai
 pydantic-core==2.27.2

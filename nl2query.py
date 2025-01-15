@@ -23,7 +23,7 @@ METADATA_EXAMPLE = [
         "description": "Total Value Locked",
         "scope": "chain",
         "freq": "daily",
-        "period": "1d"
+        "period": "1d",
     },
 ]
 
@@ -97,7 +97,7 @@ class NL2Query:
         self, query: Dict[str, Any], default_limit: int = 5
     ) -> List[Dict[str, Any]]:
         raise NotImplementedError("method not implemented")
-    
+
     async def get_schema_info(self) -> str:
         raise NotImplementedError("method not implemented")
 

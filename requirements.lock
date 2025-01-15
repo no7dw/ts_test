@@ -43,6 +43,8 @@ iso8601==1.0.2
     # via taospy
 jiter==0.8.2
     # via openai
+jsonpath-ng==1.7.0
+    # via ts-test
 motor==3.6.0
     # via ts-test
 openai==1.59.4
@@ -51,6 +53,8 @@ packaging==24.2
     # via pytest
 pluggy==1.5.0
     # via pytest
+ply==3.11
+    # via jsonpath-ng
 pydantic==2.10.4
     # via openai
 pydantic-core==2.27.2
